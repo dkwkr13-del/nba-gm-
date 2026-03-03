@@ -1,0 +1,764 @@
+================================================================================
+  NBA DRAFT DATABASE — 2026 드래프트 클래스
+  잠재력 등급: S(95+) A+(90-94) A(85-89) B+(80-84) B(75-79) B-(70-74) C+(65-69) C(60이하)
+  ※ Ceiling=최상 시나리오 / Floor=하한 시나리오
+================================================================================
+================================================================================
+NBA DRAFT DATABASE 
+================================================================================
+잠재력 등급: S(95+) A+(90-94) A(85-89) B+(80-84) B(75-79) B-(70-74) C+(65-69) C(60이하)
+※ Ceiling=최상 시나리오 / Floor=하한 시나리오 (부상·발전 정체 포함)
+※ 아키타입은 §70 Full Archetype Table 기준 (룰.txt 46종 체계)
+================================================================================
+
+================================================================================
+=== 2026 NBA DRAFT ===
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 1 - 프랜차이즈 코너스톤 (Top 3 Picks) - 재능만큼은 전년도 COOPER FLAGG급이라고 보도됨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#1 DARRYN PETERSON | SG/SF | 196cm / 93kg / 윙스팬 211cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Kansas (Freshman) | 나이: 18 | 국적: 미국
+아키타입: SS-07 (3-Level Scorer Elite)
+특성: [버저비터 킬러] [멘탈 몬스터] [로커룸 리더]
+잠재력: Ceiling S / Floor B+
+총평: 페이스, 사이즈, 쓰리레벨 스코어러, 수비력 모두 갖춘 완성형에 가까운 윙.
+       NBA 즉시 기여 가능. 10년 이상 올스타급 활약 기대. 근데 하체관련 부상은 물음표
+비교선수: 제일런 브라운 / 앤써니 에드워즈
+[입문능력치] FIN:72/78/65/28/48/52 | SHT:76/72/76 | PLY:68/73/78 | DEF:58/78/73/36/40/58 | ATH:80/80/68/78/78/80 | IQ:74/73/70
+[성향] 3PT=52 MID=35 DRV=62 PST=18 PUL=74 C&S=60 | PAS=71 ISO=73 CUT=52 PNR=50 SCR=22 | SA=77 BA=52 PPR=69 HLP=76 | CRB=60 BOX=68
+
+────────────────────────────────────────────────────────────────────────────────
+
+#2 AJ DYBANTSA | SF/PF | 203cm / 100kg / 윙스팬 213cm
+────────────────────────────────────────────────────────────────────────────────
+출신: BYU (Freshman) | 나이: 18 | 국적: 미국
+아키타입: SS-08 (Two-Way Superstar)
+특성: [포스트 폭군] [리바운드 머신] [수비 앵커]
+잠재력: Ceiling S / Floor B+
+총평: 르브론급 피지컬에 KG식 다목적 수비
+       전 포지션 커버 가능한 2026 드래프트 최강 유망주. 톨파력은 최강 슈팅은 물음표
+비교선수: 폴조지 / 야니스 아데토쿤보
+[입문능력치] FIN:75/76/72/48/73/65 | SHT:65/58/70 | PLY:68/70/70 | DEF:72/73/65/65/68/76 | ATH:80/80/83/78/78/80 | IQ:75/72/70
+[성향] 3PT=38 MID=40 DRV=60 PST=42 PUL=66 C&S=41 | PAS=72 ISO=71 CUT=60 PNR=52 SCR=50 | SA=73 BA=74 PPR=76 HLP=74 | CRB=74 BOX=77
+
+────────────────────────────────────────────────────────────────────────────────
+
+#3 CAMERON BOOZER | PF/C | 208cm / 109kg / 윙스팬 216cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Duke (Freshman) | 나이: 18 | 국적: 미국
+아키타입: SS-04 (Volume Efficiency God)
+특성: [포스트 지배자] [쌍방향 리바운더] [팀 리더]
+잠재력: Ceiling S / Floor A-
+총평: 클래식 빅맨에 현대 농구 요소 결합. 스트레치 능력과 림 프로텍션 겸비.
+       즉시 팀의 핵심 빅맨 역할 수행 가능. 바닥이 높은 안정적인타입
+비교선수: 앤서니 데이비스 / 블레이크 그리핀 하이브리드
+[입문능력치] FIN:72/68/60/65/70/65 | SHT:68/62/72 | PLY:62/62/60 | DEF:73/65/55/70/68/73 | ATH:65/65/82/68/76/76 | IQ:73/70/72
+[성향] 3PT=42 MID=42 DRV=40 PST=45 PUL=64 C&S=43 | PAS=68 ISO=66 CUT=50 PNR=52 SCR=48 | SA=66 BA=76 PPR=69 HLP=69 | CRB=72 BOX=71
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 2 - 복권 유망주 (Picks 4-17)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#4 CALEB WILSON | PF/C | 211cm / 100kg / 윙스팬 221cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Kansas (Freshman) | 나이: 18 | 국적: 미국
+아키타입: AS-03 (Stretch Big / Rim Protector)
+특성: [블록머신] [스트레치빅] [리바운드앵커]
+잠재력: Ceiling A+ / Floor B
+총평: 역대급 윙스팬(221cm) 블록과 리바운드. 3점슛 개선 시 올스타급. 슈팅 개선못하면 버스트
+비교선수: 웸반야마 / 호포드
+[입문능력치] FIN:68/58/42/65/55/48 | SHT:55/68/65 | PLY:40/42/45 | DEF:45/65/38/75/55/70 | ATH:62/65/80/68/65/72 | IQ:65/60/62
+[성향] 3PT=40 MID=30 DRV=20 PST=28 PUL=52 C&S=48 | PAS=53 ISO=51 CUT=45 PNR=55 SCR=58 | SA=48 BA=78 PPR=53 HLP=65 | CRB=64 BOX=69
+
+────────────────────────────────────────────────────────────────────────────────
+
+#5 KINGSTON FLEMINGS | SG/PG | 196cm / 90kg / 윙스팬 206cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Georgia (Freshman) | 나이: 18 | 국적: 미국
+아키타입: AS-11 (Shot Creator)
+특성: [클러치슈터] [퀵릴리즈] [멀티수비수]
+잠재력: Ceiling A+ / Floor B
+총평: 득점과 수비 모두 챙기는 양면 윙. 빅게임 경험 풍부. 전형적인 듀얼가드스타일
+비교선수: 마이클포터Jr. / 버디힐드
+[입문능력치] FIN:70/74/60/20/38/35 | SHT:70/72/78 | PLY:55/68/70 | DEF:60/52/62/28/30/48 | ATH:72/74/65/62/70/72 | IQ:70/72/68
+[성향] 3PT=55 MID=45 DRV=48 PST=12 PUL=70 C&S=50 | PAS=63 ISO=70 CUT=60 PNR=40 SCR=20 | SA=67 BA=47 PPR=67 HLP=61 | CRB=51 BOX=55
+
+────────────────────────────────────────────────────────────────────────────────
+
+#6 MIKEL BROWN JR. | PG/SG | 196cm / 91kg / 윙스팬 209cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Georgia Tech (Freshman) | 나이: 18 | 국적: 미국
+아키타입: AS-04 (Slasher)
+특성: [익스플로시브에너지] [수비침묵자] [퍼스트스텝]
+잠재력: Ceiling A+ / Floor B-
+총평: 운동 능력과 수비 능력 드래프트 최상급. 슈팅 개선 시 올스타. 슬래싱플레이메이커
+비교선수: 테렌스 만 / 자이레 길레스파이
+[입문능력치] FIN:72/76/65/25/35/30 | SHT:48/52/65 | PLY:50/72/75 | DEF:68/52/68/32/35/52 | ATH:80/82/72/65/70/75 | IQ:62/60/60
+[성향] 3PT=18 MID=25 DRV=72 PST=10 PUL=61 C&S=36 | PAS=56 ISO=66 CUT=74 PNR=42 SCR=32 | SA=72 BA=52 PPR=75 HLP=57 | CRB=55 BOX=59
+
+────────────────────────────────────────────────────────────────────────────────
+
+#7 KEATON WAGLER | PG/SG | 198cm / 93kg / 윙스팬 203cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Illinois (Freshman) | 나이: 19 | 국적: 미국
+아키타입: AS-11 (Shot Creator)
+특성: [퀵릴리즈 슈터] [볼핸들 가드] [레이트 블루머]
+잠재력: Ceiling A+ / Floor B-
+총평: 고교 시절 150위권 밖 무명, 일리노이 신입생 맹활약으로 급부상한 레이트 블루머.
+       빠른 릴리즈의 3점슈터이자 볼핸들 콤보가드. 운동 능력 약점은 고IQ와 슈팅으로 극복.
+비교선수: 보그단 보그다노비치 / 크리스 미들턴 하이브리드
+[입문능력치] FIN:60/65/52/15/28/25 | SHT:66/62/78 | PLY:62/70/68 | DEF:50/42/58/18/28/48 | ATH:55/58/52/55/60/62 | IQ:70/68/65
+[성향] 3PT=58 MID=40 DRV=28 PST=8 PUL=68 C&S=62 | PAS=68 ISO=60 CUT=48 PNR=38 SCR=28 | SA=60 BA=38 PPR=58 HLP=62 | CRB=48 BOX=52
+
+────────────────────────────────────────────────────────────────────────────────
+
+#8 DARIUS ACUFF JR. | PG/SG | 191cm / 84kg / 윙스팬 201cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Virginia Tech (Freshman) | 나이: 18 | 국적: 미국
+아키타입: RP-08 (Transition Runner)
+특성: [득점형 가드] [빠른 퍼스트스텝] [수비 적극성]
+잠재력: Ceiling A+ / Floor C+
+총평: 압도적 퍼스트스텝과 3점슛 결합. 패스비전·핸들링 모두 준수. 수비 개선이 장기 과제.
+비교선수: 도노반 미첼 / 디론 폭스 하이브리드
+[입문능력치] FIN:62/62/60/10/18/15 | SHT:60/62/70 | PLY:55/65/68 | DEF:58/30/58/12/20/38 | ATH:78/80/62/50/65/68 | IQ:60/62/58
+[성향] 3PT=38 MID=42 DRV=72 PST=5 PUL=62 C&S=40 | PAS=56 ISO=62 CUT=62 PNR=45 SCR=18 | SA=63 BA=25 PPR=62 HLP=45 | CRB=44 BOX=44
+
+────────────────────────────────────────────────────────────────────────────────
+
+#9 NATE AMENT | SF/PF | 203cm / 95kg / 윙스팬 211cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Overtime Elite | 나이: 18 | 국적: 미국
+아키타입: AS-08 (Point Forward)
+특성: [올라운더] [IQ몬스터] [시스템플레이어]
+잠재력: Ceiling A+ / Floor B
+총평: 득점/패스/수비 균형 잡힌 완성형 포워드. 모든 팀 시스템에 적응 가능.
+비교선수: 해리슨 반스 / 마일스 브리지스
+[입문능력치] FIN:68/72/58/25/45/42 | SHT:60/62/72 | PLY:70/65/68 | DEF:62/55/58/25/42/58 | ATH:70/72/65/62/72/70 | IQ:80/72/70
+[성향] 3PT=40 MID=38 DRV=45 PST=18 PUL=63 C&S=43 | PAS=75 ISO=69 CUT=73 PNR=50 SCR=38 | SA=64 BA=45 PPR=67 HLP=68 | CRB=56 BOX=60
+
+────────────────────────────────────────────────────────────────────────────────
+
+#10 KOA PEAT | PF/C | 206cm / 107kg / 윙스팬 213cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Arizona State (Freshman) | 나이: 18 | 국적: 미국
+아키타입: AS-13 (High-Motor Big)
+특성: [파워포스트] [수비공룡] [2nd찬스킹]
+잠재력: Ceiling A+ / Floor B-
+총평: 강한 피지컬로 페인트 지배. 외곽슈팅 개선 시 엘리트 빅.
+비교선수: 드레이몬드 그린
+[입문능력치] FIN:68/62/55/68/62/52 | SHT:40/38/60 | PLY:42/42/40 | DEF:42/70/38/55/65/72 | ATH:65/65/72/78/72/75 | IQ:68/60/62
+[성향] 3PT=0 MID=20 DRV=30 PST=50 PUL=41 C&S=27 | PAS=55 ISO=51 CUT=68 PNR=55 SCR=62 | SA=57 BA=64 PPR=54 HLP=69 | CRB=70 BOX=75
+
+────────────────────────────────────────────────────────────────────────────────
+
+#11 JAYDEN QUAINTANCE | C/PF | 206cm / 104kg / 윙스팬 218cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Arizona State (Freshman) | 나이: 18 | 국적: 미국
+아키타입: AS-09 (Rim Protector)
+특성: [에너자이저] [림러너] [수직지배자]
+잠재력: Ceiling A+ / Floor B-
+총평: 218cm 윙스팬과 탁월한 수직점프. 수비·리바운드 즉시 기여. 정통빅맨
+비교선수: 카펠라 하이엔드 / 모 밤바
+[입문능력치] FIN:65/68/52/65/45/38 | SHT:35/28/52 | PLY:38/40/42 | DEF:38/68/35/75/62/70 | ATH:72/75/82/65/70/78 | IQ:62/58/60
+[성향] 3PT=0 MID=12 DRV=38 PST=28 PUL=36 C&S=20 | PAS=50 ISO=49 CUT=70 PNR=52 SCR=60 | SA=57 BA=79 PPR=57 HLP=65 | CRB=70 BOX=68
+
+────────────────────────────────────────────────────────────────────────────────
+
+#12 BRAYLON MULLINS | SG/PG | 193cm / 86kg / 윙스팬 198cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Duke (Freshman) | 나이: 18 | 국적: 미국
+아키타입: AS-11 (Shot Creator)
+특성: [미드레인지마에스트로] [버저비터] [클러치유전자]
+잠재력: Ceiling A+ / Floor B
+총평: 미드레인지와 클러치 능력 탁월. 즉시 팀의 1옵션 득점원.
+비교선수: 데빈 부커 / 타이리스 맥시
+[입문능력치] FIN:70/74/55/18/35/30 | SHT:78/65/80 | PLY:62/70/72 | DEF:52/42/55/18/25/42 | ATH:68/70/58/55/68/65 | IQ:72/80/78
+[성향] 3PT=38 MID=62 DRV=50 PST=10 PUL=71 C&S=46 | PAS=67 ISO=75 CUT=50 PNR=38 SCR=18 | SA=60 BA=38 PPR=61 HLP=57 | CRB=45 BOX=49
+
+────────────────────────────────────────────────────────────────────────────────
+
+#13 LABARON PHILON JR. | PG | 185cm / 84kg / 윙스팬 196cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Alabama (Freshman) | 나이: 18 | 국적: 미국
+아키타입: AS-02 (Scoring Point Guard)
+특성: [비전마스터] [스틸머신] [팀퍼스트리더]
+잠재력: Ceiling A+ / Floor B
+총평: 패스비전과 스틸 드래프트 최상급. 팀 오케스트레이터 즉시 기여.
+비교선수: 크리스 폴 스타일
+[입문능력치] FIN:62/70/42/15/28/22 | SHT:55/55/70 | PLY:78/65/72 | DEF:65/42/72/22/28/48 | ATH:68/72/58/52/70/72 | IQ:80/72/70
+[성향] 3PT=30 MID=30 DRV=55 PST=8 PUL=60 C&S=39 | PAS=79 ISO=69 CUT=72 PNR=50 SCR=20 | SA=72 BA=40 PPR=69 HLP=61 | CRB=50 BOX=50
+
+────────────────────────────────────────────────────────────────────────────────
+
+#14 THOMAS HAUGH | SF/PF | 206cm / 97kg / 윙스팬 214cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Florida (Junior) | 나이: 22 | 국적: 미국
+아키타입: AS-04 (Slasher)
+특성: [수비 앵커] [롱 림보호자] [운동 능력 윙]
+잠재력: Ceiling A / Floor B-
+총평: 6-9 사이즈와 뛰어난 운동 능력 결합. 수비 커버리지 드래프트 최상급.
+       3점슛 개발이 잠재력 완전 실현의 열쇠.
+비교선수: 자이레 길레스파이 / 도리안 피니-스미스 하이브리드
+[입문능력치] FIN:68/72/62/38/48/42 | SHT:35/42/65 | PLY:45/50/52 | DEF:65/55/62/42/45/62 | ATH:72/75/72/65/70/78 | IQ:65/58/62
+[성향] 3PT=12 MID=30 DRV=62 PST=22 PUL=52 C&S=22 | PAS=52 ISO=60 CUT=70 PNR=45 SCR=32 | SA=68 BA=55 PPR=70 HLP=62 | CRB=58 BOX=62
+
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+#15 HANNES STEINBACH | SF/PF | 203cm / 98kg / 윙스팬 211cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Germany (해외, Bayern Munich) | 나이: 20 | 국적: 독일
+아키타입: AS-08 (Point Forward)
+특성: [유럽식IQ] [올라운더] [미드레인지예술가]
+잠재력: Ceiling A+ / Floor B
+총평: 유럽 기반 고IQ 포워드. 슈팅/패스/수비 균형. NBA 즉시 전력.
+비교선수: 루카 돈치치 / 타이리스 할리버튼
+[입문능력치] FIN:68/70/52/28/50/48 | SHT:68/65/75 | PLY:72/65/62 | DEF:62/55/52/28/38/55 | ATH:62/62/60/65/70/68 | IQ:82/72/70
+[성향] 3PT=40 MID=52 DRV=38 PST=25 PUL=66 C&S=46 | PAS=77 ISO=60 CUT=69 PNR=48 SCR=30 | SA=60 BA=44 PPR=62 HLP=69 | CRB=53 BOX=60
+
+────────────────────────────────────────────────────────────────────────────────
+#16 KARIM LOPEZ | C/PF | 213cm / 113kg / 윙스팬 218cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Spain (해외, Real Madrid) | 나이: 21 | 국적: 스페인
+아키타입: AS-06 (Mid-Range Maestro)
+특성: [포스트아티스트] [유럽센터] [페인트지배자]
+잠재력: Ceiling A+ / Floor B
+총평: 스페인 리그 검증된 완성형 센터. 포스트 기술·림프로텍션 즉시 기여.
+비교선수: 마크 가솔 / 파우 가솔
+[입문능력치] FIN:72/62/45/65/70/62 | SHT:65/42/68 | PLY:48/40/42 | DEF:38/70/35/55/58/72 | ATH:58/58/68/72/68/65 | IQ:72/65/65
+[성향] 3PT=0 MID=38 DRV=25 PST=55 PUL=47 C&S=29 | PAS=60 ISO=53 CUT=64 PNR=58 SCR=70 | SA=50 BA=62 PPR=48 HLP=71 | CRB=62 BOX=72
+
+────────────────────────────────────────────────────────────────────────────────
+#17 CHRIS CENAC JR. | PF/SF | 201cm / 95kg / 윙스팬 209cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Texas A&M (Freshman) | 나이: 18 | 국적: 미국
+아키타입: AS-04 (Slasher)
+특성: [익스플로시브빅] [허슬플레이어] [수비스위스칼]
+잠재력: Ceiling A+ / Floor B-
+총평: 폭발적 운동 능력의 포워드. 수비·리바운드 즉시 기여. 오펜스 개발 필요.
+비교선수: 파스칼 시아캄 / 브랜든 잉그램
+[입문능력치] FIN:68/72/62/35/42/38 | SHT:48/45/65 | PLY:52/58/62 | DEF:60/55/55/38/45/58 | ATH:78/80/68/68/70/78 | IQ:65/60/62
+[성향] 3PT=20 MID=25 DRV=62 PST=18 PUL=52 C&S=32 | PAS=59 ISO=59 CUT=74 PNR=45 SCR=42 | SA=67 BA=53 PPR=70 HLP=60 | CRB=62 BOX=63
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 3 - 로터리 후반 / 후기 로터리 (Picks 18-35)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#18 BENNETT STIRTZ | PG/SG | 193cm / 84kg / 윙스팬 200cm
+출신: Iowa (Senior) | 나이: 22 | 국적: 미국
+아키타입: RP-07 (Backup Scorer)
+Ceiling A- / Floor C+
+특성: 즉시 전력 슈터 / 볼핸들 가드 / 드리블 창출
+[입문능력치] FIN:52/58/48/10/20/18 | SHT:62/60/75 | PLY:55/65/65 | DEF:52/35/52/15/22/40 | ATH:62/65/55/50/62/65 | IQ:65/68/62
+[성향] 3PT=55 MID=50 DRV=42 PST=8 PUL=65 C&S=52 | PAS=60 ISO=65 CUT=52 PNR=40 SCR=18 | SA=57 BA=30 PPR=58 HLP=49 | CRB=42 BOX=45
+
+#19 CAYDEN BOOZER | PG | 193cm / 93kg / 윙스팬 195cm
+출신: Duke (Freshman) | 나이: 18 | 국적: 미국
+※ 캐머런 부저의 이란성 쌍둥이 형제
+아키타입: AS-13 (Playmaking Guard)
+특성: [패싱비전] [가드형IQ] [리더십]
+잠재력: Ceiling A / Floor B-
+총평: 형 캐머런(PF/C)과 전혀 다른 포지션. 뛰어난 패스 센스와 경기 조율 능력.
+       피지컬 NBA 수준 적응이 관건.
+비교선수: 타이리스 할리버튼 / 마이크 컨리 스타일
+[입문능력치] FIN:60/68/42/15/25/22 | SHT:52/48/68 | PLY:75/60/68 | DEF:55/38/52/15/22/40 | ATH:62/62/55/60/68/65 | IQ:78/70/68
+[성향] 3PT=28 MID=32 DRV=48 PST=8 PUL=56 C&S=34 | PAS=74 ISO=65 CUT=62 PNR=52 SCR=18 | SA=52 BA=35 PPR=58 HLP=58 | CRB=43 BOX=50
+
+#20 TOUNDE YESSOUFOU | SF | 201cm / 91kg / 윙스팬 206cm
+출신: Creighton (Sophomore) | 나이: 20 | 국적: 미국/베냉
+아키타입: RP-01 (3&D Specialist)
+Ceiling B+ / Floor C+
+특성: 3앤드D 윙 / 수비 스페셜리스트 / 오픈코트 러너
+[입문능력치] FIN:52/55/48/12/25/22 | SHT:48/65/68 | PLY:42/45/48 | DEF:65/42/55/25/28/48 | ATH:68/68/60/58/68/72 | IQ:62/65/58
+[성향] 3PT=62 MID=22 DRV=30 PST=8 PUL=50 C&S=55 | PAS=52 ISO=42 CUT=55 PNR=38 SCR=25 | SA=62 BA=42 PPR=65 HLP=52 | CRB=50 BOX=53
+
+#21 DEVANTE ROMAN | SG/PG | 193cm / 87kg / 윙스팬 201cm
+출신: Tennessee (Freshman) | 나이: 18 | 국적: 미국
+아키타입: RP-07 (Backup Scorer)
+Ceiling B+ / Floor C+
+특성: 클러치 슈터 / 빠른 퍼스트스텝 / 벤치 에너지
+[입문능력치] FIN:55/65/55/15/25/22 | SHT:62/65/72 | PLY:48/62/65 | DEF:52/35/55/15/22/38 | ATH:72/74/58/52/65/68 | IQ:62/68/70
+[성향] 3PT=55 MID=45 DRV=52 PST=8 PUL=63 C&S=55 | PAS=55 ISO=65 CUT=55 PNR=42 SCR=18 | SA=62 BA=35 PPR=63 HLP=49 | CRB=45 BOX=45
+
+#22 CHRISTIAN ANDERSON JR. | PG/SG | 188cm / 80kg / 윙스팬 196cm
+출신: Texas Tech (Sophomore) | 나이: 20 | 국적: 미국
+아키타입: RP-07 (Backup Scorer)
+Ceiling A- / Floor C+
+특성: 슈팅·플레이메이킹 복합 / 림 근처 마무리 약점 / 소형 가드 수비 한계
+[입문능력치] FIN:45/52/40/8/12/10 | SHT:62/58/75 | PLY:68/70/72 | DEF:50/30/52/10/18/38 | ATH:65/68/52/48/62/65 | IQ:70/68/62
+[성향] 3PT=55 MID=45 DRV=42 PST=5 PUL=65 C&S=58 | PAS=70 ISO=62 CUT=55 PNR=48 SCR=18 | SA=55 BA=28 PPR=58 HLP=48 | CRB=42 BOX=42
+
+#23 BOOGIE FLAND | PG | 188cm / 84kg / 윙스팬 196cm
+출신: Arkansas (Freshman) | 나이: 18 | 국적: 미국
+아키타입: RP-02 (Backup Ball Handler)
+Ceiling A / Floor C+
+특성: 득점형 PG / 버저비터 능력 / 극한의 퍼스트스텝
+[입문능력치] FIN:58/68/48/10/20/18 | SHT:55/62/72 | PLY:65/72/74 | DEF:58/32/60/12/20/35 | ATH:80/82/58/48/68/70 | IQ:68/70/72
+[성향] 3PT=48 MID=38 DRV=68 PST=5 PUL=65 C&S=52 | PAS=67 ISO=71 CUT=62 PNR=52 SCR=18 | SA=65 BA=35 PPR=70 HLP=50 | CRB=45 BOX=42
+
+#24 CAYLEN WATTS | PF/SF | 203cm / 98kg / 윙스팬 211cm
+출신: Arizona (Freshman) | 나이: 18 | 국적: 미국
+아키타입: RP-04 (Defensive Specialist)
+Ceiling A- / Floor C+
+특성: 수비형 포워드 / 에너지 / 발전 잠재력
+[입문능력치] FIN:55/58/52/45/42/38 | SHT:42/40/58 | PLY:40/40/42 | DEF:62/60/52/45/52/60 | ATH:65/65/65/68/70/75 | IQ:62/52/52
+[성향] 3PT=0 MID=22 DRV=32 PST=28 PUL=35 C&S=22 | PAS=51 ISO=45 CUT=52 PNR=52 SCR=55 | SA=64 BA=55 PPR=63 HLP=61 | CRB=64 BOX=64
+
+#25 JAHMIR BOSTON | PG | 190cm / 84kg / 윙스팬 198cm
+출신: Memphis (Freshman) | 나이: 18 | 국적: 미국
+아키타입: RP-02 (Backup Ball Handler)
+Ceiling A- / Floor C
+특성: 빠른 PG / 침투 능력 / 수비 적극성
+[입문능력치] FIN:55/65/50/10/18/15 | SHT:52/52/68 | PLY:62/68/72 | DEF:62/32/65/15/22/38 | ATH:78/80/60/50/70/72 | IQ:65/62/58
+[성향] 3PT=38 MID=32 DRV=68 PST=5 PUL=60 C&S=38 | PAS=64 ISO=65 CUT=65 PNR=50 SCR=18 | SA=69 BA=38 PPR=71 HLP=49 | CRB=47 BOX=44
+
+#26 YAXEL LENDEBORG | PF/C | 208cm / 104kg / 윙스팬 216cm
+출신: Michigan (Junior) | 나이: 21 | 국적: 쿠바
+아키타입: RP-05 (Energy Big)
+Ceiling A / Floor C+
+특성: 에너자이저 빅 / 허슬 스페셜리스트 / 두 방향 리바운더
+[입문능력치] FIN:60/58/52/55/50/42 | SHT:38/28/55 | PLY:38/35/38 | DEF:40/65/42/55/68/70 | ATH:62/62/68/78/80/82 | IQ:60/45/55
+[성향] 3PT=0 MID=15 DRV=35 PST=45 PUL=28 C&S=18 | PAS=49 ISO=40 CUT=65 PNR=62 SCR=72 | SA=62 BA=62 PPR=51 HLP=63 | CRB=75 BOX=74
+
+#27 ISIAH HARWELL | PG | 188cm / 82kg / 윙스팬 198cm
+출신: Overtime Elite | 나이: 18 | 국적: 미국
+아키타입: RP-02 (Backup Ball Handler)
+Ceiling A / Floor B-
+특성: 빠른 전환 / 창의적 패스 / 수비 의지 강한 PG
+[입문능력치] FIN:55/65/50/10/20/18 | SHT:58/62/70 | PLY:70/72/72 | DEF:65/32/65/15/22/40 | ATH:78/80/60/52/70/75 | IQ:75/68/65
+[성향] 3PT=50 MID=38 DRV=65 PST=8 PUL=66 C&S=52 | PAS=73 ISO=70 CUT=65 PNR=52 SCR=20 | SA=70 BA=38 PPR=72 HLP=54 | CRB=49 BOX=46
+
+#28 KAYDEN MINGO | SG/SF | 196cm / 91kg / 윙스팬 206cm
+출신: LSU (Freshman) | 나이: 18 | 국적: 미국
+아키타입: RP-04 (Defensive Specialist)
+Ceiling A / Floor C+
+특성: 번쩍이는 운동 능력 / 수비 에너지 / 슈팅 개선 필요
+[입문능력치] FIN:55/62/60/18/28/25 | SHT:42/38/58 | PLY:42/52/55 | DEF:65/48/60/35/38/52 | ATH:78/80/72/62/70/78 | IQ:60/55/55
+[성향] 3PT=0 MID=22 DRV=60 PST=10 PUL=45 C&S=20 | PAS=51 ISO=54 CUT=68 PNR=42 SCR=35 | SA=69 BA=54 PPR=72 HLP=54 | CRB=58 BOX=57
+
+#29 ELLIOT CADEAU | PG | 185cm / 84kg / 윙스팬 196cm
+출신: North Carolina (Freshman) | 나이: 18 | 국적: 미국
+아키타입: RP-02 (Backup Ball Handler)
+Ceiling A- / Floor B-
+특성: 팀 퍼스트 PG / 어시스트 머신 / 고IQ 로테이션 수비
+[입문능력치] FIN:50/60/40/8/15/12 | SHT:50/55/68 | PLY:78/70/68 | DEF:62/28/58/12/18/38 | ATH:72/74/55/48/70/70 | IQ:78/62/60
+[성향] 3PT=32 MID=35 DRV=58 PST=5 PUL=55 C&S=40 | PAS=78 ISO=55 CUT=65 PNR=62 SCR=18 | SA=64 BA=34 PPR=68 HLP=53 | CRB=44 BOX=43
+
+#30 DEVION HARGROVE | SF/SG | 198cm / 91kg / 윙스팬 206cm
+출신: Florida (Sophomore) | 나이: 20 | 국적: 미국
+아키타입: RP-01 (3&D Specialist)
+Ceiling B+ / Floor C+
+특성: 3앤드D 전문 / 수비 에너지 / 오픈 슈터
+[입문능력치] FIN:52/58/45/12/25/22 | SHT:48/68/70 | PLY:42/45/48 | DEF:68/45/58/28/30/52 | ATH:65/65/58/60/68/72 | IQ:62/68/60
+[성향] 3PT=60 MID=22 DRV=25 PST=8 PUL=50 C&S=58 | PAS=52 ISO=42 CUT=52 PNR=38 SCR=28 | SA=65 BA=43 PPR=66 HLP=54 | CRB=51 BOX=56
+
+#31 JALEN HARALSON | SG | 196cm / 91kg / 윙스팬 203cm
+출신: Notre Dame (Sophomore) | 나이: 20 | 국적: 미국
+아키타입: RP-07 (Backup Scorer)
+Ceiling A- / Floor C+
+특성: 클러치 슈터 / 미드레인지 스페셜리스트 / 안정적 볼핸들
+[입문능력치] FIN:55/60/45/15/28/30 | SHT:70/62/72 | PLY:52/60/58 | DEF:52/35/48/18/25/42 | ATH:68/68/58/55/65/62 | IQ:65/72/70
+[성향] 3PT=50 MID=55 DRV=38 PST=10 PUL=63 C&S=52 | PAS=59 ISO=66 CUT=48 PNR=38 SCR=20 | SA=55 BA=38 PPR=60 HLP=50 | CRB=44 BOX=49
+
+#32 ADEN HOLLOWAY | PG | 183cm / 82kg / 윙스팬 193cm
+출신: Auburn (Freshman) | 나이: 18 | 국적: 미국
+아키타입: RP-07 (Backup Scorer)
+Ceiling B+ / Floor C+
+특성: 빠른 PG / 벤치 스파크 / 퀵릴리즈 슈터
+[입문능력치] FIN:52/60/42/8/15/12 | SHT:60/65/72 | PLY:55/65/68 | DEF:52/28/55/10/20/35 | ATH:78/80/55/48/68/68 | IQ:62/68/65
+[성향] 3PT=55 MID=50 DRV=55 PST=5 PUL=65 C&S=55 | PAS=59 ISO=67 CUT=58 PNR=42 SCR=18 | SA=62 BA=33 PPR=66 HLP=45 | CRB=44 BOX=42
+
+#33 TYLER BETSEY | PG/SG | 188cm / 86kg / 윙스팬 198cm
+출신: Wake Forest (Sophomore) | 나이: 20 | 국적: 미국
+아키타입: RP-13 (Hustle Connector)
+Ceiling B+ / Floor C+
+특성: 즉시 사용 가능한 슈터 / 트랜지션 러너 / 오픈코트 스피드
+[입문능력치] FIN:55/60/50/12/20/18 | SHT:58/65/70 | PLY:55/60/65 | DEF:58/35/58/18/28/45 | ATH:72/74/60/58/72/72 | IQ:65/65/60
+[성향] 3PT=55 MID=42 DRV=45 PST=10 PUL=61 C&S=55 | PAS=60 ISO=63 CUT=60 PNR=42 SCR=30 | SA=65 BA=39 PPR=66 HLP=50 | CRB=50 BOX=52
+
+#34 TAHAAD PETTIFORD | PG | 183cm / 77kg / 윙스팬 191cm
+출신: Auburn (Freshman) | 나이: 18 | 국적: 미국
+아키타입: RP-02 (Backup Ball Handler)
+Ceiling B+ / Floor C
+특성: 소형 PG / 퀵 체인지오브페이스 / 고IQ 진행자
+[입문능력치] FIN:50/62/40/8/15/12 | SHT:58/60/70 | PLY:68/70/72 | DEF:52/28/55/10/18/35 | ATH:75/78/55/45/65/68 | IQ:72/65/62
+[성향] 3PT=45 MID=40 DRV=60 PST=5 PUL=65 C&S=45 | PAS=70 ISO=68 CUT=62 PNR=52 SCR=18 | SA=62 BA=33 PPR=65 HLP=50 | CRB=43 BOX=40
+
+#35 DUKE SPANN | SF/PF | 203cm / 95kg / 윙스팬 211cm
+출신: Purdue (Sophomore) | 나이: 20 | 국적: 미국
+아키타입: RP-01 (3&D Specialist)
+Ceiling B+ / Floor C+
+특성: 긴 팔 수비 / 오픈 슈터 / 팀 오펜스 적응력
+[입문능력치] FIN:55/58/50/30/35/30 | SHT:48/65/68 | PLY:42/42/45 | DEF:62/52/52/38/35/55 | ATH:62/62/58/65/68/70 | IQ:60/65/55
+[성향] 3PT=58 MID=22 DRV=28 PST=18 PUL=48 C&S=55 | PAS=51 ISO=42 CUT=52 PNR=42 SCR=35 | SA=61 BA=48 PPR=62 HLP=56 | CRB=53 BOX=60
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 4 - 2라운드 (Picks 36-64)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#36 TREY HOLLINGSWORTH | SG | 196cm / 90kg / 윙스팬 203cm
+Baylor (Sophomore) | 나이: 20 | 아키타입: RP-07 (Backup Scorer)
+특성: 클러치 슈터 / 미드레인지 / 경기 조율 | Ceiling B+ / Floor C
+[입문능력치] FIN:52/58/45/12/22/28 | SHT:68/60/72 | PLY:50/58/55 | DEF:48/32/45/15/20/35 | ATH:65/65/55/52/62/62 | IQ:62/70/68
+[성향] 3PT=45 MID=58 DRV=38 PST=8 PUL=62 C&S=42 | PAS=56 ISO=64 CUT=45 PNR=35 SCR=18 | SA=53 BA=30 PPR=55 HLP=47 | CRB=42 BOX=47
+
+#37 KAMERON TUCKER | PF/C | 208cm / 104kg / 윙스팬 216cm
+Pittsburgh (Junior) | 나이: 21 | 아키타입: RP-05 (Energy Big)
+특성: 림 러너 / 에너지 빅 / 허슬 플레이어 | Ceiling B / Floor C
+[입문능력치] FIN:58/55/50/52/45/38 | SHT:35/25/52 | PLY:35/32/35 | DEF:38/62/40/52/62/65 | ATH:60/60/65/75/75/78 | IQ:58/42/52
+[성향] 3PT=0 MID=12 DRV=32 PST=42 PUL=25 C&S=15 | PAS=47 ISO=38 CUT=62 PNR=58 SCR=68 | SA=55 BA=58 PPR=45 HLP=60 | CRB=70 BOX=72
+
+#38 SEAN STEWART | PF/SF | 203cm / 100kg / 윙스팬 211cm
+Duke (Freshman) | 나이: 18 | 아키타입: RP-04 (Defensive Specialist)
+특성: 수비형 포워드 / 에너지 / 개발 잠재력 | Ceiling A- / Floor C+
+[입문능력치] FIN:52/55/50/42/38/35 | SHT:40/38/55 | PLY:38/40/42 | DEF:60/58/50/42/50/58 | ATH:65/65/65/65/68/72 | IQ:58/50/50
+[성향] 3PT=0 MID=20 DRV=35 PST=25 PUL=32 C&S=20 | PAS=49 ISO=45 CUT=52 PNR=50 SCR=52 | SA=61 BA=50 PPR=62 HLP=59 | CRB=61 BOX=62
+
+#39 BRANDON GARRISON | C | 213cm / 109kg / 윙스팬 221cm
+Kansas (Sophomore) | 나이: 20 | 아키타입: RP-09 (Screen Setter)
+특성: 장신 센터 / 픽앤롤 피니셔 / 림 존재감 | Ceiling B+ / Floor C+
+[입문능력치] FIN:58/52/48/58/45/35 | SHT:35/22/55 | PLY:38/32/35 | DEF:35/65/38/58/55/68 | ATH:55/55/62/78/72/72 | IQ:60/42/52
+[성향] 3PT=0 MID=12 DRV=28 PST=38 PUL=22 C&S=15 | PAS=49 ISO=37 CUT=60 PNR=65 SCR=75 | SA=48 BA=62 PPR=40 HLP=63 | CRB=64 BOX=72
+
+#40 POP ISAACS | PG/SG | 188cm / 80kg / 윙스팬 196cm
+Creighton (Junior) | 나이: 21 | 아키타입: RP-07 (Backup Scorer)
+특성: 득점형 가드 / 퀵릴리즈 / 경기 운영 | Ceiling B+ / Floor C+
+[입문능력치] FIN:52/60/48/10/18/15 | SHT:62/62/72 | PLY:55/62/62 | DEF:50/30/52/12/18/35 | ATH:68/70/55/50/65/65 | IQ:62/68/65
+[성향] 3PT=52 MID=50 DRV=45 PST=5 PUL=65 C&S=48 | PAS=59 ISO=65 CUT=52 PNR=38 SCR=18 | SA=59 BA=28 PPR=55 HLP=46 | CRB=42 BOX=45
+
+#41 ANTE BRZOVIC | SF/PF | 203cm / 93kg / 윙스팬 211cm
+Partizan (세르비아, 해외) | 나이: 20 | 아키타입: RP-01 (3&D Specialist)
+특성: 유럽식 3앤드D / 고IQ 플레이 / 즉시 전력 | Ceiling B+ / Floor C+
+[입문능력치] FIN:50/55/45/18/28/25 | SHT:45/65/68 | PLY:42/42/48 | DEF:65/42/52/25/28/48 | ATH:60/60/55/58/65/68 | IQ:65/62/58
+[성향] 3PT=62 MID=22 DRV=22 PST=12 PUL=48 C&S=58 | PAS=54 ISO=42 CUT=50 PNR=38 SCR=25 | SA=60 BA=40 PPR=63 HLP=54 | CRB=48 BOX=53
+
+#42 JACKSON SHELSTAD | PG/SG | 188cm / 82kg / 윙스팬 196cm
+Oregon (Sophomore) | 나이: 20 | 아키타입: RP-02 (Backup Ball Handler)
+특성: 플레이메이킹 PG / 퀵릴리즈 슈터 / 트랜지션 | Ceiling B+ / Floor C+
+[입문능력치] FIN:52/58/45/10/18/15 | SHT:58/62/70 | PLY:62/65/62 | DEF:52/28/52/10/18/35 | ATH:68/70/55/48/65/65 | IQ:68/65/62
+[성향] 3PT=48 MID=45 DRV=52 PST=5 PUL=65 C&S=48 | PAS=65 ISO=65 CUT=58 PNR=48 SCR=18 | SA=59 BA=25 PPR=58 HLP=48 | CRB=42 BOX=44
+
+#43 TRENTYN FLOWERS | SG/SF | 193cm / 88kg / 윙스팬 203cm
+Oklahoma State (Freshman) | 나이: 18 | 아키타입: RP-15 (Raw Athletic Prospect)
+특성: 운동 능력 윙 / 수비 잠재력 / 슈팅 개발 중 | Ceiling B+ / Floor C
+[입문능력치] FIN:52/60/58/15/22/18 | SHT:38/35/55 | PLY:42/50/55 | DEF:58/42/52/32/35/48 | ATH:75/78/72/62/68/72 | IQ:55/48/50
+[성향] 3PT=0 MID=18 DRV=58 PST=8 PUL=42 C&S=18 | PAS=49 ISO=52 CUT=65 PNR=40 SCR=35 | SA=62 BA=45 PPR=65 HLP=49 | CRB=54 BOX=57
+
+#44 LOGAN DUNCOMB | C | 213cm / 111kg / 윙스팬 221cm
+Indiana (Junior) | 나이: 21 | 아키타입: RP-09 (Screen Setter)
+특성: 림 프로텍터 / 픽앤롤 앵커 / 전통 빅 | Ceiling B / Floor C
+[입문능력치] FIN:55/50/48/58/42/35 | SHT:32/20/52 | PLY:35/30/32 | DEF:32/68/35/60/52/68 | ATH:52/52/62/80/72/70 | IQ:60/40/50
+[성향] 3PT=0 MID=10 DRV=22 PST=35 PUL=18 C&S=12 | PAS=48 ISO=35 CUT=58 PNR=65 SCR=78 | SA=45 BA=65 PPR=38 HLP=64 | CRB=61 BOX=74
+
+#45 ANDREW CARR | PF/SF | 203cm / 93kg / 윙스팬 209cm
+NC State (Junior) | 나이: 21 | 아키타입: RP-01 (3&D Specialist)
+특성: 3앤드D 포워드 / 즉시 전력 / 올라운드 허슬 | Ceiling B+ / Floor C+
+[입문능력치] FIN:52/55/48/18/28/25 | SHT:45/65/68 | PLY:40/42/45 | DEF:62/42/52/22/28/48 | ATH:62/62/58/60/65/70 | IQ:62/62/58
+[성향] 3PT=60 MID=22 DRV=25 PST=10 PUL=48 C&S=58 | PAS=51 ISO=42 CUT=52 PNR=38 SCR=28 | SA=61 BA=40 PPR=62 HLP=52 | CRB=49 BOX=54
+
+#46 RASHAD NORRIS | C | 213cm / 108kg / 윙스팬 220cm
+Texas (Junior) | 나이: 21 | 아키타입: RP-09 (Screen Setter)
+특성: 림 프로텍터 / 전통 센터 / 픽앤롤 앵커 | Ceiling B / Floor C
+[입문능력치] FIN:55/50/45/60/42/35 | SHT:32/18/52 | PLY:32/28/30 | DEF:30/70/35/62/52/68 | ATH:50/50/62/80/70/68 | IQ:58/38/48
+[성향] 3PT=0 MID=8 DRV=20 PST=38 PUL=18 C&S=12 | PAS=45 ISO=33 CUT=55 PNR=65 SCR=78 | SA=45 BA=65 PPR=35 HLP=64 | CRB=61 BOX=74
+
+#47 JAVION BLAKE | SF/SG | 200cm / 93kg / 윙스팬 208cm
+Kansas State (Sophomore) | 나이: 20 | 아키타입: RP-15 (Raw Athletic Prospect)
+특성: 운동 능력 윙 / 수비 에너지 / 개발형 | Ceiling B / Floor C
+[입문능력치] FIN:50/58/58/15/20/18 | SHT:38/35/52 | PLY:40/48/52 | DEF:60/40/52/30/35/48 | ATH:72/75/70/60/65/70 | IQ:55/48/48
+[성향] 3PT=0 MID=18 DRV=55 PST=8 PUL=40 C&S=18 | PAS=48 ISO=52 CUT=65 PNR=38 SCR=35 | SA=61 BA=48 PPR=66 HLP=48 | CRB=53 BOX=54
+
+#48 KARTER KNOX | PF/SF | 203cm / 96kg / 윙스팬 211cm
+Kentucky (Freshman) | 나이: 18 | 아키타입: RP-15 (Raw Athletic Prospect)
+특성: 에너지 포워드 / 수비 잠재력 / 발전형 | Ceiling B+ / Floor C
+[입문능력치] FIN:50/55/52/38/35/28 | SHT:38/32/52 | PLY:38/40/42 | DEF:55/52/48/38/45/55 | ATH:65/65/65/65/65/70 | IQ:55/48/48
+[성향] 3PT=0 MID=15 DRV=38 PST=25 PUL=32 C&S=18 | PAS=47 ISO=44 CUT=55 PNR=50 SCR=52 | SA=59 BA=52 PPR=58 HLP=54 | CRB=58 BOX=60
+
+#49 JAKOBE COLES | SF/SG | 201cm / 95kg / 윙스팬 206cm
+Alabama (Freshman) | 나이: 18 | 아키타입: RP-01 (3&D Specialist)
+특성: 3앤드D 윙 / 수비 에너지 / 빠른 전환 | Ceiling B+ / Floor C+
+[입문능력치] FIN:50/55/48/12/22/18 | SHT:45/65/65 | PLY:40/45/48 | DEF:62/40/52/22/25/45 | ATH:65/68/60/58/65/68 | IQ:60/62/58
+[성향] 3PT=60 MID=20 DRV=28 PST=8 PUL=48 C&S=55 | PAS=50 ISO=42 CUT=52 PNR=35 SCR=22 | SA=60 BA=40 PPR=62 HLP=50 | CRB=47 BOX=52
+
+#50 TORREY HAMILTON | PG | 186cm / 81kg / 윙스팬 194cm
+Georgetown (Junior) | 나이: 21 | 아키타입: RP-13 (Hustle Connector)
+특성: 벤치 스파크 / 빠른 PG / 허슬 에너지 | Ceiling B- / Floor C
+[입문능력치] FIN:48/55/40/8/15/12 | SHT:52/55/65 | PLY:52/58/60 | DEF:55/28/55/10/18/35 | ATH:72/74/55/48/65/72 | IQ:60/60/58
+[성향] 3PT=42 MID=38 DRV=50 PST=5 PUL=58 C&S=42 | PAS=56 ISO=59 CUT=60 PNR=40 SCR=22 | SA=64 BA=25 PPR=58 HLP=44 | CRB=45 BOX=44
+
+#51 DINK PATE | PG/SG | 188cm / 80kg / 윙스팬 198cm
+Houston (Sophomore) | 나이: 20 | 아키타입: RP-02 (Backup Ball Handler)
+특성: 빠른 PG / 볼핸들링 / 수비 참여 | Ceiling B / Floor C
+[입문능력치] FIN:50/58/42/8/15/12 | SHT:50/52/65 | PLY:58/62/62 | DEF:55/28/52/10/18/38 | ATH:70/72/55/48/65/65 | IQ:62/62/58
+[성향] 3PT=38 MID=38 DRV=60 PST=5 PUL=60 C&S=38 | PAS=60 ISO=62 CUT=60 PNR=48 SCR=18 | SA=59 BA=25 PPR=58 HLP=45 | CRB=44 BOX=44
+
+#52 LUKE HUNGER | C | 213cm / 111kg / 윙스팬 219cm
+Gonzaga (Sophomore) | 나이: 20 | 아키타입: RP-09 (Screen Setter)
+특성: 전통 센터 / 림 프로텍터 / 페인트 존재감 | Ceiling B / Floor C
+[입문능력치] FIN:58/52/48/62/45/38 | SHT:35/20/55 | PLY:35/30/32 | DEF:32/70/38/62/55/68 | ATH:52/52/62/82/72/70 | IQ:62/40/50
+[성향] 3PT=0 MID=8 DRV=22 PST=40 PUL=18 C&S=12 | PAS=49 ISO=35 CUT=58 PNR=65 SCR=78 | SA=48 BA=65 PPR=40 HLP=66 | CRB=64 BOX=75
+
+#53 JAMIR WATKINS | SG/SF | 196cm / 93kg / 윙스팬 203cm
+Florida State (Junior) | 나이: 21 | 아키타입: RP-08 (Transition Runner)
+특성: 운동 능력 윙 / 수비 우선 / 트랜지션 | Ceiling B / Floor C
+[입문능력치] FIN:52/60/58/15/22/18 | SHT:40/38/55 | PLY:42/50/55 | DEF:60/42/55/28/35/48 | ATH:75/78/68/60/68/70 | IQ:55/50/52
+[성향] 3PT=0 MID=18 DRV=65 PST=8 PUL=44 C&S=20 | PAS=49 ISO=55 CUT=68 PNR=40 SCR=32 | SA=63 BA=45 PPR=68 HLP=49 | CRB=53 BOX=60
+
+#54 ISAIAH ELOHIM | SG/PG | 193cm / 84kg / 윙스팬 201cm
+France (해외, ASVEL) | 나이: 20 | 아키타입: RP-07 (Backup Scorer)
+특성: 유럽 기반 가드 / 슈팅 기본기 / 즉시 전력 | Ceiling B+ / Floor C+
+[입문능력치] FIN:52/58/45/12/20/18 | SHT:58/62/70 | PLY:52/58/58 | DEF:50/32/48/12/20/38 | ATH:65/65/55/50/62/62 | IQ:65/65/62
+[성향] 3PT=52 MID=50 DRV=38 PST=8 PUL=62 C&S=52 | PAS=59 ISO=62 CUT=50 PNR=35 SCR=18 | SA=55 BA=28 PPR=54 HLP=49 | CRB=41 BOX=44
+
+#55 MADY SISSOKO | C | 211cm / 111kg / 윙스팬 218cm
+Michigan State (Senior) | 나이: 22 | 아키타입: RP-05 (Energy Big)
+특성: 림 프로텍터 / 페인트 수비 / 즉시 전력 | Ceiling B / Floor C+
+[입문능력치] FIN:58/52/48/60/45/38 | SHT:32/18/52 | PLY:32/28/30 | DEF:35/70/40/65/52/68 | ATH:52/52/65/82/72/75 | IQ:60/38/50
+[성향] 3PT=0 MID=10 DRV=25 PST=40 PUL=20 C&S=12 | PAS=46 ISO=33 CUT=60 PNR=62 SCR=70 | SA=58 BA=68 PPR=42 HLP=65 | CRB=64 BOX=75
+
+#56 SILAS DEMARY JR. | PG/SG | 188cm / 82kg / 윙스팬 198cm
+Georgia Tech (Sophomore) | 나이: 20 | 아키타입: RP-02 (Backup Ball Handler)
+특성: 빠른 가드 / 침투 능력 / 팀 오케스트레이터 | Ceiling B / Floor C
+[입문능력치] FIN:50/60/45/8/15/12 | SHT:52/55/68 | PLY:62/65/65 | DEF:55/28/55/10/18/35 | ATH:70/72/55/48/65/68 | IQ:65/62/58
+[성향] 3PT=40 MID=35 DRV=60 PST=5 PUL=60 C&S=42 | PAS=64 ISO=64 CUT=62 PNR=48 SCR=18 | SA=62 BA=25 PPR=60 HLP=47 | CRB=43 BOX=44
+
+#57 MOUHAMED AL-FOUZANE | C | 213cm / 104kg / 윙스팬 221cm
+France (해외, Metropolitans 92) | 나이: 20 | 아키타입: RP-09 (Screen Setter)
+특성: 장신 유럽 센터 / 림 프로텍터 / 기동성 | Ceiling B+ / Floor C+
+[입문능력치] FIN:55/50/48/58/42/35 | SHT:32/20/52 | PLY:35/30/32 | DEF:32/68/35/60/52/68 | ATH:55/55/65/75/68/68 | IQ:60/38/50
+[성향] 3PT=0 MID=10 DRV=22 PST=35 PUL=18 C&S=12 | PAS=48 ISO=34 CUT=60 PNR=65 SCR=75 | SA=45 BA=62 PPR=40 HLP=64 | CRB=60 BOX=72
+
+#58 JAYDEN EPPS | PG | 188cm / 84kg / 윙스팬 196cm
+Illinois (Junior) | 나이: 21 | 아키타입: RP-07 (Backup Scorer)
+특성: 득점형 가드 / 픽앤롤 / 클러치 능력 | Ceiling B / Floor C
+[입문능력치] FIN:52/60/45/10/18/15 | SHT:58/58/70 | PLY:55/62/62 | DEF:50/28/50/10/18/38 | ATH:68/70/55/48/65/65 | IQ:62/65/65
+[성향] 3PT=48 MID=50 DRV=50 PST=5 PUL=63 C&S=45 | PAS=59 ISO=64 CUT=52 PNR=45 SCR=18 | SA=55 BA=25 PPR=58 HLP=45 | CRB=42 BOX=44
+
+#59 NICK TIMBERLAKE | SG | 193cm / 86kg / 윙스팬 201cm
+Ohio State (Senior) | 나이: 22 | 아키타입: RP-06 (Corner 3 Specialist)
+특성: 완성형 슈터 / 즉시 전력 / 캐치앤슛 | Ceiling B / Floor C+
+[입문능력치] FIN:48/55/40/10/18/22 | SHT:68/72/78 | PLY:48/52/50 | DEF:48/28/42/12/18/38 | ATH:62/62/52/50/62/62 | IQ:65/72/62
+[성향] 3PT=68 MID=40 DRV=22 PST=8 PUL=58 C&S=70 | PAS=57 ISO=62 CUT=50 PNR=32 SCR=18 | SA=52 BA=25 PPR=52 HLP=48 | CRB=40 BOX=44
+
+#60 CARTER WHITT | PG | 186cm / 80kg / 윙스팬 193cm
+NC State (Junior) | 나이: 21 | 아키타입: RP-02 (Backup Ball Handler)
+특성: 빠른 PG / 경기 운영 / 허슬 | Ceiling B- / Floor C
+[입문능력치] FIN:48/55/40/8/15/12 | SHT:50/52/65 | PLY:58/60/62 | DEF:52/25/50/10/18/35 | ATH:68/70/52/45/62/65 | IQ:62/58/55
+[성향] 3PT=35 MID=35 DRV=55 PST=5 PUL=55 C&S=38 | PAS=60 ISO=59 CUT=58 PNR=45 SCR=18 | SA=58 BA=22 PPR=55 HLP=44 | CRB=42 BOX=42
+
+#61 JAKE FIEGEN | C | 213cm / 113kg / 윙스팬 219cm
+South Dakota State (Senior) | 나이: 22 | 아키타입: RP-09 (Screen Setter)
+특성: 전통 센터 / 포스트 기술 / 즉시 전력 | Ceiling B- / Floor C
+[입문능력치] FIN:60/55/52/65/55/48 | SHT:35/22/60 | PLY:35/30/32 | DEF:30/65/35/58/52/65 | ATH:50/50/60/78/68/65 | IQ:62/42/52
+[성향] 3PT=0 MID=18 DRV=22 PST=52 PUL=20 C&S=12 | PAS=49 ISO=36 CUT=55 PNR=60 SCR=78 | SA=45 BA=59 PPR=35 HLP=64 | CRB=60 BOX=72
+
+#62 YACINE TOUMI | SF/PF | 201cm / 91kg / 윙스팬 209cm
+France (해외, JL Bourg) | 나이: 21 | 아키타입: RP-01 (3&D Specialist)
+특성: 유럽식 3앤드D / 수비 위주 / 팀 플레이 | Ceiling B- / Floor C
+[입문능력치] FIN:50/55/45/18/25/22 | SHT:45/62/65 | PLY:42/42/45 | DEF:65/42/52/22/28/48 | ATH:60/60/55/58/62/68 | IQ:62/60/58
+[성향] 3PT=58 MID=22 DRV=22 PST=10 PUL=46 C&S=55 | PAS=52 ISO=42 CUT=50 PNR=36 SCR=25 | SA=60 BA=38 PPR=63 HLP=52 | CRB=48 BOX=53
+
+#63 DEVONTE CHAMBERS | SG | 193cm / 87kg / 윙스팬 200cm
+Iowa State (Senior) | 나이: 22 | 아키타입: RP-06 (Corner 3 Specialist)
+특성: 캐치앤슛 / 즉시 전력 / 오픈 쓰리 | Ceiling B- / Floor C
+[입문능력치] FIN:48/52/40/10/18/20 | SHT:65/70/75 | PLY:48/50/50 | DEF:45/25/42/10/18/35 | ATH:62/62/52/48/62/62 | IQ:62/70/60
+[성향] 3PT=65 MID=42 DRV=20 PST=5 PUL=55 C&S=68 | PAS=55 ISO=60 CUT=48 PNR=30 SCR=18 | SA=52 BA=22 PPR=50 HLP=45 | CRB=40 BOX=44
+
+#64 KAMARI NELSON | C | 214cm / 111kg / 윙스팬 221cm
+Missouri (Senior) | 나이: 22 | 아키타입: RP-09 (Screen Setter)
+특성: 장신 센터 / 페인트 존재감 / 즉시 전력 | Ceiling B- / Floor C
+[입문능력치] FIN:55/50/45/62/42/35 | SHT:32/18/52 | PLY:32/28/30 | DEF:30/68/35/60/52/68 | ATH:52/52/60/78/70/68 | IQ:60/38/48
+[성향] 3PT=0 MID=8 DRV=20 PST=38 PUL=18 C&S=12 | PAS=46 ISO=33 CUT=55 PNR=63 SCR=75 | SA=45 BA=62 PPR=35 HLP=64 | CRB=61 BOX=73
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 5 - 프린지 유망주 / 언드래프티 후보 (Picks 65-100)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※ G리그 입단 / UDFA 계약 주력 대상
+※ 형식: 이름 | 포지션 | 신장cm/체중kg/윙스팬cm | 출신 | 나이 | 아키타입 | Ceiling/Floor
+         특성: 간략 요약
+
+#65 MARCUS CARSEN | SG/PG | 191cm/85kg/윙스팬199cm | Iowa (Junior) | 21 | RP-07 (Backup Scorer) | B-/C
+특성: 득점형 가드 / 퀵릴리즈 / 경기 운영
+[입문능력치] FIN:50/58/45/10/18/15 | SHT:62/62/70 | PLY:48/60/60 | DEF:48/28/48/10/18/35 | ATH:65/68/55/50/62/65 | IQ:60/68/62
+[성향] 3PT=52 MID=50 DRV=42 PST=5 PUL=64 C&S=48 | PAS=54 ISO=64 CUT=48 PNR=35 SCR=18 | SA=57 BA=28 PPR=54 HLP=44 | CRB=42 BOX=44
+
+#66 DEVLIN SIMMONS | SF | 201cm/94kg/윙스팬209cm | TCU (Junior) | 21 | RP-01 (3&D Specialist) | B-/C
+특성: 3앤드D 윙 / 수비 에너지 / 허슬
+[입문능력치] FIN:48/52/44/12/22/18 | SHT:42/62/65 | PLY:40/42/45 | DEF:62/40/52/22/25/46 | ATH:62/65/58/58/65/70 | IQ:60/62/55
+[성향] 3PT=58 MID=20 DRV=25 PST=8 PUL=46 C&S=55 | PAS=50 ISO=42 CUT=50 PNR=35 SCR=22 | SA=61 BA=40 PPR=62 HLP=50 | CRB=48 BOX=52
+
+#67 JORDAN WREN | PG | 185cm/79kg/윙스팬193cm | Xavier (Senior) | 22 | RP-02 (Backup Ball Handler) | B-/C
+특성: 패스 퍼스트 / 고IQ / 팀 오케스트레이터
+[입문능력치] FIN:45/55/38/8/12/10 | SHT:48/52/65 | PLY:68/62/62 | DEF:55/25/52/10/15/35 | ATH:65/68/52/45/62/65 | IQ:72/58/58
+[성향] 3PT=35 MID=32 DRV=52 PST=5 PUL=52 C&S=38 | PAS=65 ISO=55 CUT=60 PNR=48 SCR=18 | SA=59 BA=22 PPR=58 HLP=49 | CRB=40 BOX=40
+
+#68 KYSHAWN DAVIS | PF/SF | 203cm/97kg/윙스팬211cm | Utah (Junior) | 21 | RP-04 (Defensive Specialist) | B-/C
+특성: 수비형 포워드 / 에너지 / 개발형
+[입문능력치] FIN:50/52/50/40/35/30 | SHT:40/38/55 | PLY:38/40/42 | DEF:60/58/50/40/48/55 | ATH:62/62/62/62/65/70 | IQ:55/48/48
+[성향] 3PT=0 MID=18 DRV=32 PST=25 PUL=32 C&S=20 | PAS=47 ISO=44 CUT=50 PNR=48 SCR=50 | SA=59 BA=50 PPR=60 HLP=57 | CRB=59 BOX=61
+
+#69 AMARI ROLLINS | C | 211cm/107kg/윙스팬218cm | Stanford (Junior) | 21 | RP-09 (Screen Setter) | B-/C
+특성: 전통 센터 / 림 프로텍터 / 픽앤롤 앵커
+[입문능력치] FIN:55/48/45/58/40/32 | SHT:30/18/52 | PLY:35/28/30 | DEF:32/68/35/60/52/68 | ATH:52/52/62/80/70/70 | IQ:60/40/50
+[성향] 3PT=0 MID=8 DRV=20 PST=36 PUL=18 C&S=12 | PAS=48 ISO=34 CUT=58 PNR=65 SCR=76 | SA=46 BA=64 PPR=40 HLP=64 | CRB=61 BOX=74
+
+#70 DESEAN BOWMAN | SG | 194cm/89kg/윙스팬202cm | Marquette (Sophomore) | 20 | RP-07 (Backup Scorer) | C+/C
+특성: 득점형 가드 / 클러치 / 오프볼
+[입문능력치] FIN:48/55/42/10/18/18 | SHT:58/58/68 | PLY:45/55/55 | DEF:45/28/45/10/18/35 | ATH:62/65/52/48/60/62 | IQ:58/65/65
+[성향] 3PT=50 MID=48 DRV=38 PST=5 PUL=60 C&S=48 | PAS=52 ISO=62 CUT=48 PNR=32 SCR=18 | SA=54 BA=28 PPR=52 HLP=43 | CRB=40 BOX=43
+
+#71 TREVON GAINES | SF/PF | 201cm/93kg/윙스팬209cm | Georgetown (Senior) | 22 | RP-04 (Defensive Specialist) | C+/C
+특성: 다목적 윙 / 수비 우선 / 팀 플레이
+[입문능력치] FIN:50/52/50/35/35/30 | SHT:40/38/55 | PLY:38/40/42 | DEF:60/55/50/38/48/55 | ATH:60/60/62/62/62/68 | IQ:58/48/48
+[성향] 3PT=0 MID=18 DRV=32 PST=22 PUL=30 C&S=20 | PAS=49 ISO=44 CUT=50 PNR=48 SCR=50 | SA=59 BA=50 PPR=60 HLP=57 | CRB=58 BOX=59
+
+#72 KEONTE WALLACE | PG/SG | 190cm/84kg/윙스팬198cm | UCLA (Junior) | 21 | RP-02 (Backup Ball Handler) | C+/C
+특성: 빠른 가드 / 허슬 / 침투 능력
+[입문능력치] FIN:48/58/42/8/12/10 | SHT:48/50/62 | PLY:58/60/62 | DEF:52/26/52/10/15/35 | ATH:70/72/55/48/62/68 | IQ:60/60/55
+[성향] 3PT=35 MID=32 DRV=62 PST=5 PUL=55 C&S=38 | PAS=59 ISO=60 CUT=62 PNR=45 SCR=18 | SA=60 BA=25 PPR=58 HLP=43 | CRB=42 BOX=42
+
+#73 LORENZO ESPINOZA | C/PF | 211cm/108kg/윙스팬217cm | UTEP (Senior) | 22 | RP-09 (Screen Setter) | C+/C
+특성: 장신 센터 / 페인트 지배 / 즉시 전력
+[입문능력치] FIN:55/48/44/60/40/32 | SHT:30/16/50 | PLY:32/28/30 | DEF:30/66/34/58/50/66 | ATH:50/50/60/78/68/68 | IQ:58/38/48
+[성향] 3PT=0 MID=8 DRV=18 PST=38 PUL=18 C&S=12 | PAS=45 ISO=33 CUT=55 PNR=62 SCR=75 | SA=44 BA=62 PPR=35 HLP=62 | CRB=59 BOX=72
+
+#74 TREMAINE HAWKINS | SG/SF | 196cm/91kg/윙스팬204cm | Memphis (Sophomore) | 19 | RP-15 (Raw Athletic Prospect) | C+/C
+특성: 운동 능력 윙 / 수비 잠재력 / 개발형
+[입문능력치] FIN:50/58/58/12/18/15 | SHT:35/32/52 | PLY:40/48/52 | DEF:55/40/50/28/32/46 | ATH:72/75/70/60/65/70 | IQ:50/46/46
+[성향] 3PT=0 MID=15 DRV=55 PST=8 PUL=40 C&S=18 | PAS=45 ISO=52 CUT=62 PNR=38 SCR=32 | SA=60 BA=48 PPR=63 HLP=45 | CRB=51 BOX=55
+
+#75 CODY HARRINGTON | SF | 201cm/96kg/윙스팬207cm | Colorado (Junior) | 21 | RP-01 (3&D Specialist) | C+/C
+특성: 3앤드D 윙 / 오픈 슈터 / 수비 에너지
+[입문능력치] FIN:46/50/44/12/20/18 | SHT:42/62/65 | PLY:38/40/44 | DEF:60/40/50/20/24/44 | ATH:60/62/56/56/62/68 | IQ:58/60/55
+[성향] 3PT=58 MID=20 DRV=22 PST=8 PUL=44 C&S=55 | PAS=48 ISO=40 CUT=50 PNR=34 SCR=22 | SA=59 BA=38 PPR=60 HLP=49 | CRB=46 BOX=50
+
+#76 NASSIR PEMBERTON | PF | 206cm/101kg/윙스팬213cm | Seton Hall (Senior) | 22 | RP-03 (Offensive Rebounder) | C+/C
+특성: 에너자이저 빅 / 허슬 / 2nd찬스킹
+[입문능력치] FIN:60/55/52/55/45/38 | SHT:30/22/52 | PLY:35/32/35 | DEF:36/62/40/52/68/68 | ATH:58/58/65/75/75/80 | IQ:55/38/50
+[성향] 3PT=0 MID=10 DRV=30 PST=40 PUL=22 C&S=15 | PAS=45 ISO=35 CUT=62 PNR=58 SCR=68 | SA=55 BA=58 PPR=42 HLP=59 | CRB=74 BOX=72
+
+#77 BRYSON TILLMAN | PG | 184cm/78kg/윙스팬190cm | West Virginia (Junior) | 21 | RP-13 (Hustle Connector) | C+/C
+특성: 소형 PG / 빠른 핸들 / 벤치 스파크
+[입문능력치] FIN:46/55/38/8/12/10 | SHT:50/52/65 | PLY:55/60/60 | DEF:52/26/52/10/15/35 | ATH:70/72/52/45/62/70 | IQ:60/58/58
+[성향] 3PT=40 MID=38 DRV=52 PST=5 PUL=58 C&S=40 | PAS=58 ISO=59 CUT=58 PNR=40 SCR=20 | SA=62 BA=22 PPR=56 HLP=43 | CRB=44 BOX=42
+
+#78 DAEQWAN JAMES | SG/PG | 191cm/86kg/윙스팬199cm | Kentucky (Freshman) | 18 | RP-07 (Backup Scorer) | B-/C
+특성: 득점 가드 / 퀵릴리즈 / 발전형
+[입문능력치] FIN:48/58/45/10/15/12 | SHT:58/60/68 | PLY:45/58/60 | DEF:46/26/46/10/18/33 | ATH:65/68/55/50/60/62 | IQ:58/65/60
+[성향] 3PT=50 MID=48 DRV=45 PST=5 PUL=62 C&S=46 | PAS=52 ISO=62 CUT=48 PNR=35 SCR=18 | SA=54 BA=28 PPR=52 HLP=42 | CRB=40 BOX=42
+
+#79 OMARI FLETCHER | PF/C | 208cm/104kg/윙스팬215cm | Villanova (Senior) | 22 | RP-05 (Energy Big) | C+/C
+특성: 에너지 빅 / 림 러너 / 허슬
+[입문능력치] FIN:56/52/50/52/44/36 | SHT:32/22/52 | PLY:34/30/34 | DEF:36/64/40/52/62/65 | ATH:58/58/64/76/74/78 | IQ:56/40/50
+[성향] 3PT=0 MID=10 DRV=32 PST=40 PUL=24 C&S=15 | PAS=45 ISO=35 CUT=62 PNR=60 SCR=70 | SA=55 BA=58 PPR=42 HLP=60 | CRB=70 BOX=71
+
+#80 MARCUS DUNSTON | SF/SG | 198cm/90kg/윙스팬205cm | Penn State (Junior) | 21 | RP-01 (3&D Specialist) | C+/C
+특성: 3앤드D 윙 / 수비 스페셜리스트 / 오픈 쓰리
+[입문능력치] FIN:46/50/44/10/20/18 | SHT:42/62/65 | PLY:38/40/44 | DEF:62/40/52/20/24/44 | ATH:60/62/56/56/62/68 | IQ:58/60/55
+[성향] 3PT=58 MID=20 DRV=22 PST=8 PUL=44 C&S=55 | PAS=48 ISO=40 CUT=50 PNR=34 SCR=22 | SA=60 BA=38 PPR=60 HLP=49 | CRB=44 BOX=50
+
+#81 DEVONTE BARLOW | C | 213cm/109kg/윙스팬220cm | Duquesne (Senior) | 22 | RP-09 (Screen Setter) | C+/C
+특성: 전통 센터 / 림 존재감 / 페인트 수비
+[입문능력치] FIN:52/46/44/58/38/30 | SHT:28/16/50 | PLY:30/26/28 | DEF:28/66/32/58/50/65 | ATH:50/50/58/78/66/66 | IQ:56/36/46
+[성향] 3PT=0 MID=8 DRV=18 PST=36 PUL=16 C&S=10 | PAS=43 ISO=31 CUT=52 PNR=62 SCR=74 | SA=44 BA=60 PPR=34 HLP=62 | CRB=58 BOX=72
+
+#82 TYLER BENSON | PG/SG | 188cm/82kg/윙스팬196cm | Yale (Senior) | 22 | RP-13 (Hustle Connector) | C+/C
+특성: 즉시 전력 슈터 / 콤보 가드 / 스마트 플레이
+[입문능력치] FIN:50/56/44/10/18/16 | SHT:56/60/68 | PLY:52/58/58 | DEF:52/30/52/12/18/38 | ATH:65/68/56/50/62/68 | IQ:64/62/58
+[성향] 3PT=52 MID=45 DRV=40 PST=8 PUL=58 C&S=50 | PAS=58 ISO=60 CUT=56 PNR=40 SCR=25 | SA=60 BA=30 PPR=58 HLP=47 | CRB=44 BOX=44
+
+#83 JOAQUIN REYES | SF | 200cm/92kg/윙스팬208cm | New Mexico (Senior) | 22 | RP-14 (Veteran Glue Guy) | C+/C
+특성: 다목적 윙 / 팀 플레이 / 즉시 전력
+[입문능력치] FIN:50/55/45/15/22/20 | SHT:52/55/65 | PLY:60/56/56 | DEF:56/35/50/14/20/44 | ATH:58/58/54/54/62/68 | IQ:68/62/60
+[성향] 3PT=45 MID=42 DRV=38 PST=10 PUL=55 C&S=42 | PAS=64 ISO=59 CUT=52 PNR=40 SCR=30 | SA=57 BA=32 PPR=57 HLP=52 | CRB=44 BOX=46
+
+#84 RODNEY INGRAM | PF | 205cm/100kg/윙스팬212cm | Georgia (Senior) | 22 | RP-12 (Stretch 5) | C+/C
+특성: 스트레치 빅 / 오픈 쓰리 / 공간 창출
+[입문능력치] FIN:50/48/44/52/38/30 | SHT:55/62/68 | PLY:38/32/35 | DEF:35/60/36/55/52/64 | ATH:52/52/62/72/65/68 | IQ:60/62/55
+[성향] 3PT=60 MID=35 DRV=18 PST=28 PUL=45 C&S=58 | PAS=49 ISO=45 CUT=50 PNR=55 SCR=70 | SA=50 BA=58 PPR=42 HLP=60 | CRB=60 BOX=68
+
+#85 FABIO COSTA | C/PF | 211cm/107kg/윙스팬217cm | 이탈리아 (해외, Virtus Bologna) | 21 | RP-09 (Screen Setter) | C+/C
+특성: 유럽 센터 / 포스트 기술 / 즉시 전력
+[입문능력치] FIN:58/52/46/62/48/40 | SHT:34/18/55 | PLY:36/30/32 | DEF:32/66/35/56/52/66 | ATH:52/52/60/78/68/68 | IQ:62/40/50
+[성향] 3PT=0 MID=18 DRV=20 PST=50 PUL=20 C&S=12 | PAS=49 ISO=35 CUT=56 PNR=62 SCR=76 | SA=46 BA=60 PPR=38 HLP=64 | CRB=60 BOX=73
+
+#86 NIKOLAS BRAUN | SF/PF | 202cm/95kg/윙스팬210cm | 독일 (해외, Bayern Munich B) | 21 | RP-01 (3&D Specialist) | C+/C
+특성: 유럽식 3앤드D / 고IQ / 팀 플레이
+[입문능력치] FIN:48/52/44/16/24/22 | SHT:44/62/66 | PLY:42/42/46 | DEF:62/42/50/22/26/46 | ATH:58/60/54/56/62/68 | IQ:65/60/56
+[성향] 3PT=58 MID=22 DRV=20 PST=10 PUL=46 C&S=55 | PAS=54 ISO=42 CUT=50 PNR=36 SCR=24 | SA=59 BA=38 PPR=60 HLP=54 | CRB=47 BOX=51
+
+#87 DEJAN STOSIC | PG/SG | 192cm/86kg/윙스팬200cm | 세르비아 (해외) | 21 | RP-07 (Backup Scorer) | C+/C
+특성: 유럽 가드 / 슈팅 기본기 / 경기 운영
+[입문능력치] FIN:50/55/42/10/18/16 | SHT:58/60/68 | PLY:55/58/58 | DEF:48/28/46/10/18/38 | ATH:62/64/54/50/62/62 | IQ:64/64/60
+[성향] 3PT=50 MID=50 DRV=38 PST=8 PUL=60 C&S=48 | PAS=60 ISO=61 CUT=48 PNR=35 SCR=18 | SA=54 BA=27 PPR=54 HLP=46 | CRB=40 BOX=44
+
+#88 MAMADOU SYLLA | C | 213cm/106kg/윙스팬220cm | 세네갈 (해외, Dakar) | 19 | RP-15 (Raw Athletic Prospect) | B-/C
+특성: 서아프리카 장신 / 림 존재감 / 개발 잠재력
+[입문능력치] FIN:52/48/50/52/35/28 | SHT:25/15/42 | PLY:28/26/28 | DEF:28/62/30/58/48/60 | ATH:65/65/72/75/65/68 | IQ:45/32/42
+[성향] 3PT=0 MID=8 DRV=30 PST=28 PUL=18 C&S=10 | PAS=37 ISO=29 CUT=52 PNR=52 SCR=62 | SA=49 BA=65 PPR=35 HLP=54 | CRB=58 BOX=68
+
+#89 KEON WHITFIELD | SG | 193cm/87kg/윙스팬200cm | LSU (Junior) | 21 | RP-07 (Backup Scorer) | C+/C
+특성: 득점형 가드 / 오프볼 / 퀵릴리즈
+[입문능력치] FIN:48/55/42/10/18/16 | SHT:58/60/68 | PLY:45/55/55 | DEF:45/26/44/10/18/35 | ATH:62/64/52/48/60/62 | IQ:58/64/60
+[성향] 3PT=50 MID=48 DRV=38 PST=5 PUL=60 C&S=50 | PAS=52 ISO=60 CUT=50 PNR=32 SCR=18 | SA=53 BA=28 PPR=52 HLP=42 | CRB=40 BOX=44
+
+#90 ARMONI PIERCE | PG | 186cm/80kg/윙스팬193cm | Creighton (Senior) | 22 | RP-02 (Backup Ball Handler) | C+/C
+특성: 패스 퍼스트 / 고IQ / 팀 오케스트레이터
+[입문능력치] FIN:44/52/38/8/12/10 | SHT:46/50/62 | PLY:66/60/60 | DEF:52/24/50/10/14/35 | ATH:62/64/52/45/60/65 | IQ:70/58/56
+[성향] 3PT=32 MID=30 DRV=52 PST=5 PUL=50 C&S=36 | PAS=63 ISO=54 CUT=58 PNR=46 SCR=18 | SA=58 BA=22 PPR=56 HLP=47 | CRB=40 BOX=40
+
+#91 DAVON WATKINS | SG/SF | 196cm/91kg/윙스팬203cm | VCU (Senior) | 22 | RP-01 (3&D Specialist) | C+/C
+특성: 3앤드D 윙 / 허슬 / 수비 에너지
+[입문능력치] FIN:46/50/44/10/20/18 | SHT:42/60/64 | PLY:38/40/44 | DEF:60/40/50/20/24/44 | ATH:60/62/56/56/64/70 | IQ:58/60/55
+[성향] 3PT=56 MID=20 DRV=22 PST=8 PUL=44 C&S=54 | PAS=48 ISO=40 CUT=50 PNR=34 SCR=22 | SA=60 BA=38 PPR=60 HLP=49 | CRB=44 BOX=50
+
+#92 CARSEN ELLIS | PF/SF | 204cm/96kg/윙스팬210cm | San Diego State (Junior) | 21 | RP-04 (Defensive Specialist) | C+/C
+특성: 두 방향 포워드 / 수비 에너지 / 개발형
+[입문능력치] FIN:50/52/50/38/35/30 | SHT:40/38/54 | PLY:38/40/42 | DEF:60/56/50/38/48/56 | ATH:62/62/62/62/65/70 | IQ:56/48/48
+[성향] 3PT=0 MID=18 DRV=32 PST=24 PUL=32 C&S=20 | PAS=47 ISO=44 CUT=50 PNR=48 SCR=52 | SA=59 BA=50 PPR=60 HLP=58 | CRB=59 BOX=61
+
+#93 WINSTON CHAMBERS | C | 214cm/112kg/윙스팬220cm | Gonzaga (Junior) | 21 | RP-09 (Screen Setter) | C/C
+특성: 장신 센터 / 림 보호 / 기동성 부족
+[입문능력치] FIN:52/46/44/58/38/30 | SHT:28/14/50 | PLY:28/24/26 | DEF:26/65/30/58/48/64 | ATH:46/46/58/78/65/64 | IQ:54/35/44
+[성향] 3PT=0 MID=8 DRV=16 PST=35 PUL=15 C&S=10 | PAS=41 ISO=30 CUT=50 PNR=60 SCR=73 | SA=42 BA=60 PPR=32 HLP=60 | CRB=56 BOX=71
+
+#94 MATISSE DUBOIS | SF/PF | 203cm/97kg/윙스팬210cm | 프랑스 (해외, Le Mans) | 21 | RP-01 (3&D Specialist) | C+/C
+특성: 유럽식 3앤드D / 팀 플레이 / 수비 위주
+[입문능력치] FIN:48/52/44/16/24/20 | SHT:42/60/64 | PLY:40/40/44 | DEF:62/42/50/20/24/44 | ATH:58/60/54/56/60/66 | IQ:62/58/54
+[성향] 3PT=56 MID=20 DRV=20 PST=10 PUL=44 C&S=54 | PAS=51 ISO=40 CUT=50 PNR=36 SCR=24 | SA=57 BA=37 PPR=60 HLP=52 | CRB=45 BOX=50
+
+#95 REGGIE MOSS | SG/PG | 191cm/85kg/윙스팬198cm | Miami (Senior) | 22 | RP-13 (Hustle Connector) | C/C
+특성: 콤보 가드 / 오픈 슈터 / 즉시 전력
+[입문능력치] FIN:48/54/42/10/16/14 | SHT:54/58/66 | PLY:50/55/55 | DEF:50/28/50/10/18/36 | ATH:62/65/54/48/60/65 | IQ:62/60/56
+[성향] 3PT=50 MID=44 DRV=38 PST=8 PUL=56 C&S=48 | PAS=56 ISO=58 CUT=54 PNR=38 SCR=24 | SA=58 BA=28 PPR=55 HLP=44 | CRB=42 BOX=42
+
+#96 JAKOBE FREEMAN | SG | 194cm/88kg/윙스팬201cm | DePaul (Senior) | 22 | RP-06 (Corner 3 Specialist) | C+/C
+특성: 스팟업 슈터 / 캐치앤슛 / 즉시 전력
+[입문능력치] FIN:44/50/38/10/16/18 | SHT:64/68/74 | PLY:46/48/48 | DEF:44/24/40/10/16/35 | ATH:60/60/50/48/60/60 | IQ:62/68/58
+[성향] 3PT=65 MID=38 DRV=18 PST=5 PUL=54 C&S=68 | PAS=54 ISO=58 CUT=48 PNR=30 SCR=18 | SA=50 BA=22 PPR=50 HLP=44 | CRB=38 BOX=42
+
+#97 TYSHON CAMPBELL | PG | 184cm/77kg/윙스팬190cm | Temple (Senior) | 22 | RP-02 (Backup Ball Handler) | C/C
+특성: 소형 PG / 체인지오브페이스 / 벤치 스파크
+[입문능력치] FIN:44/54/38/8/12/10 | SHT:48/50/62 | PLY:62/60/62 | DEF:50/24/50/10/14/34 | ATH:68/70/52/44/60/65 | IQ:62/58/56
+[성향] 3PT=35 MID=32 DRV=58 PST=5 PUL=54 C&S=38 | PAS=62 ISO=59 CUT=60 PNR=44 SCR=18 | SA=58 BA=22 PPR=56 HLP=43 | CRB=39 BOX=40
+
+#98 JABARI ODOM | C | 211cm/108kg/윙스팬218cm | Providence (Senior) | 22 | RP-09 (Screen Setter) | C/C
+특성: 전통 빅 / 페인트 수비 / 즉시 전력
+[입문능력치] FIN:52/46/42/58/38/30 | SHT:28/14/50 | PLY:28/24/26 | DEF:26/65/30/58/48/64 | ATH:48/48/58/76/65/64 | IQ:56/35/44
+[성향] 3PT=0 MID=8 DRV=16 PST=36 PUL=15 C&S=10 | PAS=42 ISO=30 CUT=50 PNR=62 SCR=74 | SA=44 BA=60 PPR=34 HLP=61 | CRB=56 BOX=70
+
+#99 DAMIAN REYES | SF | 200cm/93kg/윙스팬207cm | Boise State (Senior) | 22 | RP-01 (3&D Specialist) | C/C
+특성: 3앤드D 윙 / 오픈 쓰리 / 허슬
+[입문능력치] FIN:44/50/42/10/20/16 | SHT:40/60/62 | PLY:36/38/42 | DEF:60/38/50/18/22/42 | ATH:58/60/54/54/62/66 | IQ:56/58/52
+[성향] 3PT=56 MID=18 DRV=20 PST=8 PUL=42 C&S=54 | PAS=46 ISO=38 CUT=50 PNR=32 SCR=20 | SA=58 BA=36 PPR=58 HLP=47 | CRB=44 BOX=48
+
+#100 COREY PATTERSON | PF/C | 208cm/103kg/윙스팬213cm | Mississippi State (Senior) | 22 | RP-05 (Energy Big) | C/C
+특성: 에너지 빅 / 허슬 / 2nd찬스
+[입문능력치] FIN:54/50/48/52/42/34 | SHT:30/20/50 | PLY:32/28/32 | DEF:34/62/38/50/60/64 | ATH:56/56/62/74/72/76 | IQ:54/38/48
+[성향] 3PT=0 MID=10 DRV=28 PST=38 PUL=22 C&S=14 | PAS=43 ISO=33 CUT=60 PNR=58 SCR=68 | SA=54 BA=56 PPR=40 HLP=58 | CRB=68 BOX=69

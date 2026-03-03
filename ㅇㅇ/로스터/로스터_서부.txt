@@ -1,0 +1,953 @@
+##############################################################################
+#  NBA GM SIMULATOR - 서부 컨퍼런스 로스터 (2026년 2월 28일 기준)
+#  Format: Name | Primary Pos | Age | 25-26 Salary | Contract | Draft Info
+#  PO=Player Option, TO=Team Option, exp=Expiring, NTC=No-Trade Clause
+#  RS=Rookie Scale, min=Veteran Minimum, TW=Two-Way
+##############################################################################
+
+======================================================================
+[DENVER NUGGETS] | Northwest Division | West
+======================================================================
+Payroll: ~$180M | Status: Luxury Tax Payer
+Dead Cap: 없음 (미미)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Nikola Jokic          | C     | 30  | $55,224,526 | 5yr/$276M (2023-28) NTC         | 2014 R2 #41
+Jamal Murray          | PG/SG | 28  | $46,394,100 | 4yr/$208M ext (2025-29)         | 2016 R1 #7
+Aaron Gordon          | PF/SF | 30  | $22,000,000 | 4yr/$92M (2022-26) exp          | 2014 R1 #4
+Christian Braun       | SG/SF | 24  | $7,000,000  | 4yr/RS ext (2025-29)            | 2022 R1 #21
+Cameron Johnson       | SF/PF | 29  | $22,500,000 | 4yr/$94M (2023-27)              | 2019 R1 #11
+DaRon Holmes II       | PF/C  | 22  | $3,500,000  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #22
+Jonas Valanciunas     | C     | 33  | $6,000,000  | 2yr/$12M (2025-27)              | 2011 R1 #5
+Peyton Watson         | SF/SG | 22  | $3,200,000  | 4yr/RS (2022-26) TO 25-26       | 2022 R1 #30
+Tim Hardaway Jr.      | SG/SF | 33  | $4,000,000  | 1yr/$4M (2025-26) exp           | 2013 R1 #24
+Bruce Brown           | SG/SF | 29  | $5,000,000  | 2yr/$10M (2025-27)              | 2018 R2 #42
+Spencer Jones         | SF    | 24  | $2,296,274  | 3yr (2024-27)                   | 2023 R2 #52
+Jalen Pickett         | PG    | 26  | $2,296,274  | 3yr (2024-27)                   | UDFA, debut 2023
+Julian Strawther      | SG/SF | 23  | $2,048,494  | 4yr/RS (2023-27) R2             | 2023 R2 #29
+Zeke Nnaji            | PF/C  | 24  | $3,500,000  | 4yr/$13M (2024-28)              | 2020 R1 #22
+Two-Way: Tamar Bates (SG, 23, UDFA 2024), KJ Simpson (PG, 23, UDFA 2025)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R (Stepien Rule로 trade 불가)
+  - 2027: Own 1R (Top-5 protected → 미컨베이 시 OKC행. 2028~2030까지 롤링)
+  - 2028: Own 1R (2027 미컨베이 시 Top-5 protected 계속 롤링)
+  - 2029: Own 1R
+  - 2030: Own 1R
+  - 2031: Own 1R
+  - 2032: 없음 (MPJ trade로 BKN행, Unprotected)
+  [2nd Round]
+  - 2026: 없음 (traded)
+  - 2027: 없음 (traded)
+  - 2028: Own 2R (Top-3 조건부)
+  - 2029: 없음 (traded)
+  - 2030: 없음 (OKC행)
+  - 2031: 없음 (traded)
+  - 2032: Own 2R
+
+======================================================================
+[MINNESOTA TIMBERWOLVES] | Northwest Division | West
+======================================================================
+Payroll: ~$195M | Status: 1st Apron
+Dead Cap: 없음 (미미)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Anthony Edwards       | SG/SF | 24  | $45,550,512 | 5yr/$244.6M ext (2024-29)       | 2020 R1 #1
+Rudy Gobert           | C     | 33  | $35,000,000 | 4yr/$170M (2024-28)             | 2013 R1 #27
+Julius Randle         | PF    | 31  | $30,000,000 | 4yr/$116M (2024-28)             | 2014 R1 #7
+Jaden McDaniels       | SF/PF | 25  | $18,000,000 | 4yr/$72M (2024-28)              | 2020 R1 #28
+Naz Reid              | C/PF  | 25  | $25,000,000 | 5yr/$125M (2024-29)             | UDFA, debut 2019
+Donte DiVincenzo      | SG    | 28  | $12,000,000 | 4yr/$48M (2024-28)              | 2018 R1 #17
+Ayo Dosunmu           | PG/SG | 26  | $6,000,000  | 3yr/$21M (2024-27)              | 2021 R2 #38
+Mike Conley           | PG    | 38  | $3,634,153  | 1yr min (2025-26) exp           | 2007 R1 #4
+Joan Beringer         | C/PF  | 20  | $4,201,080  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #17
+Terrence Shannon Jr.  | SG/SF | 25  | $2,296,274  | 2yr (2025-27)                   | 2024 R2 #27? UDFA debut 2024
+Jaylen Clark          | SG    | 23  | $2,296,274  | 2yr (2024-26)                   | UDFA, debut 2024
+Bones Hyland          | PG/SG | 24  | $3,000,000  | 2yr/$6M (2025-27)               | 2021 R1 #26
+Rocco Zikarsky        | C     | 19  | $1,272,870  | 2yr (2025-27)                   | 2025 R2 #45
+Julian Phillips       | SF/PF | 22  | $1,800,000  | 3yr (2023-26)                   | 2023 R2 #35
+Joe Ingles            | SF    | 38  | $3,303,774  | 1yr min (2025-26) exp           | UDFA, debut 2014
+Two-Way: Enrique Freeman (PF, 24, UDFA 2025)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R | UTA swap rights (Gobert trade) + DET swap rights
+  - 2027: 없음 (Gobert trade로 UTA행, Unprotected)
+  - 2028: Own 1R
+  - 2029: 없음 (Gobert trade로 UTA행, Top-5 protected → 미컨베이 시 2R로 전환)
+  - 2030: Own 1R | SAS swap rights (Dillingham trade, Top-1 protected)
+  - 2031: 없음 (Dillingham trade로 SAS→SAC행, Unprotected)
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: 없음 (CHI행, Dosunmu trade)
+  - 2027: 없음 (traded)
+  - 2028: Own 2R (SAS행 의무 있음)
+  - 2029: Own 2R (조건부 - UTA행 가능)
+  - 2030: 없음 (DET행)
+  - 2031: 없음 (traded)
+  - 2032: Own 2R (조건부)
+
+======================================================================
+[OKLAHOMA CITY THUNDER] | Northwest Division | West
+======================================================================
+Payroll: ~$175M | Status: Over Cap (Contending)
+Dead Cap: ~$2.3M (Mason Plumlee 웨이브 ~$2.3M)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Shai Gilgeous-Alexander| PG/SG| 27  | $38,333,050 | 5yr/$207M (2022-27) + 4yr/$285M ext (2027-31) | 2018 R1 #11
+Chet Holmgren         | PF/C  | 23  | $12,500,000 | 4yr/RS (2022-26) TO 25-26       | 2022 R1 #2
+Jalen Williams        | SG/SF | 24  | $8,000,000  | 4yr/RS ext 5yr/$186M (2026-31)  | 2022 R1 #12
+Isaiah Hartenstein    | C     | 27  | $20,000,000 | 4yr/$87M (2024-28)              | 2017 R2 #43
+Alex Caruso           | SG/PG | 31  | $10,000,000 | 4yr/$46M (2024-28)              | UDFA, debut 2017
+Luguentz Dort         | SG/SF | 26  | $15,000,000 | 5yr/$87M (2023-28)              | UDFA, debut 2019
+Jared McCain          | SG/PG | 21  | $4,900,320  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #16
+Cason Wallace         | PG/SG | 21  | $4,200,000  | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #10
+Aaron Wiggins         | SF/SG | 25  | $3,500,000  | 3yr/$10M (2024-27)              | 2021 R2 #55
+Jaylin Williams       | PF/C  | 22  | $3,000,000  | 4yr/RS (2022-26) TO 25-26       | 2022 R2 #34
+Thomas Sorber         | C     | 22  | $4,655,040  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #15
+Ajay Mitchell         | PG    | 23  | $2,296,274  | 2yr (2024-26)                   | UDFA, debut 2024
+Isaiah Joe            | SG    | 25  | $5,000,000  | 3yr/$15M (2024-27)              | 2020 R2 #49
+Kenrich Williams      | PF/SF | 30  | $4,000,000  | 2yr/$8M (2025-27)               | UDFA, debut 2018
+Brooks Barnhizer      | SF/SG | 23  | $1,272,870  | 2yr (2025-27)                   | 2025 R2 #44
+Nikola Topic          | PG    | 20  | $2,296,274  | 2yr (2024-26) stash             | 2024 R1 #12
+Two-Way: Branden Carlson (C, 25, UDFA 2024)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R + LAC 1R (Unprotected, PG trade) + HOU 1R (Top-4 protected, KD trade)
+    + UTA 1R (Top-8 protected → 미컨베이 시 의무 소멸)
+    ※OKC/LAC/HOU 3팀 정렬: OKC 최유리, PHI 2번째, DAL 최불리
+  - 2027: Own 1R + LAC swap rights (PG trade) + DEN 1R (Top-5 protected 롤링)
+    + PHI 1R (McCain trade, Top-6 protected → 2028 Top-4 → 2029 Unprotected)
+  - 2028: Own 1R + DAL swap rights (Harden trade chain)
+  - 2029: Own 1R
+  - 2030: Own 1R
+  - 2031: Own 1R
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: Own 2R + DAL/PHI swap
+  - 2027: Own 2R + HOU/IND/MIA swap
+  - 2028: Own 2R + MIL 2R + UTA 2R
+  - 2029: Own 2R + BOS 2R + ATL 2R + MIA 2R
+  - 2030: DEN 2R + HOU 2R + MIA 2R
+  - 2031: ORL/NOP swap (불리한 쪽)
+  - 2032: Own 2R
+
+======================================================================
+[PORTLAND TRAIL BLAZERS] | Northwest Division | West
+======================================================================
+Payroll: ~$150M | Status: Over Cap
+Dead Cap: ~$8.5M (DeAndre Ayton 바이아웃 스트레치 ~$8.5M/yr ~2028까지)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Damian Lillard        | PG    | 35  | $34,000,000 | 2yr/$68M (2025-27)              | 2012 R1 #6
+Jrue Holiday          | PG/SG | 35  | $30,000,000 | 2yr/$60M (2025-27)              | 2009 R1 #17
+Shaedon Sharpe        | SG    | 22  | $5,200,000  | 4yr/RS (2022-26) TO 25-26       | 2022 R1 #7
+Jerami Grant          | PF/SF | 31  | $28,000,000 | 5yr/$160M (2022-27)             | 2014 R2 #39
+Deni Avdija           | SF/PF | 25  | $14,000,000 | 3yr/$42M (2025-28)              | 2020 R1 #9
+Donovan Clingan       | C     | 21  | $5,200,000  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #7
+Scoot Henderson       | PG/SG | 21  | $8,500,000  | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #3
+Toumani Camara        | PF/SF | 24  | $2,296,274  | 3yr (2024-27)                   | UDFA, debut 2023
+Yang Hansen           | C     | 21  | $4,422,360  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #16
+Kris Murray           | PF    | 23  | $2,296,274  | 4yr/RS (2023-27) R2             | 2023 R2 #23? R1 #23
+Robert Williams III   | C     | 28  | $12,000,000 | 4yr/$54M (2022-26) exp          | 2018 R1 #27
+Matisse Thybulle      | SF/SG | 29  | $4,000,000  | 2yr/$8M (2025-27)               | 2019 R1 #20
+Caleb Love            | PG/SG | 24  | $1,272,870  | 2yr (2025-27)                   | UDFA, debut 2025
+Sidy Cissoko          | SG/SF | 21  | $2,048,494  | 3yr (2023-26)                   | 2023 R2 #44
+Vit Krejci            | SG/SF | 24  | $2,296,274  | 2yr (2025-27)                   | 2020 R1 #37? R2
+Two-Way: Blake Wesley (PG, 22, 2022 R2 #40), Javonte Cooke (SG, 25, UDFA 2025)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R (Lottery protected → 미컨베이 시 CHI행)
+  - 2027: Own 1R + MIL 1R (Unprotected, Lillard trade)
+  - 2028: Own 1R + MIL swap rights (Lillard trade) + ORL 1R (Unprotected, Bane trade via MEM)
+  - 2029: POR/MIL/BOS 3팀 정렬 → POR 최고+최저, WAS 중간 수령
+  - 2030: Own 1R + MIL swap rights (Lillard trade) + NYK 1R (Unprotected)
+  - 2031: Own 1R
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: Own 2R + MEM 2R (조건부)
+  - 2027: Own 2R + ATL 2R
+  - 2028: Own 2R + SAC 2R + GSW 2R
+  - 2029: IND/WAS 중 불리한 2R
+  - 2030: 없음 (WAS행, Avdija trade)
+  - 2031: Own 2R
+  - 2032: Own 2R
+
+======================================================================
+[UTAH JAZZ] | Northwest Division | West
+======================================================================
+Payroll: ~$155M | Status: Over Cap (Rebuilding w/ Assets)
+Dead Cap: ~$7.0M (Lonzo Ball 스트레치 ~$3.1M/yr ~2027까지, Chris Boucher 웨이브 ~$3.9M)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Lauri Markkanen       | PF/C  | 28  | $46,394,100 | 5yr/$238M ext (2024-29)         | 2017 R1 #7
+Jaren Jackson Jr.     | PF/C  | 26  | $35,000,000 | 5yr/$168M ext (2024-29)         | 2018 R1 #4
+Keyonte George        | PG/SG | 21  | $4,200,000  | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #16
+Walker Kessler        | C     | 23  | $5,000,000  | 4yr/RS (2022-26) TO 25-26       | 2022 R1 #22
+Ace Bailey            | SF/PF | 20  | $9,069,840  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #5
+Brice Sensabaugh      | SF/SG | 22  | $2,500,000  | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #28
+Cody Williams         | SF    | 20  | $4,200,000  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #10
+Isaiah Collier        | PG    | 21  | $3,000,000  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #29
+Vince Williams Jr.    | SG/SF | 25  | $3,000,000  | 3yr/$9M (2024-27)               | 2022 R2 #47
+John Konchar          | SG/SF | 28  | $4,000,000  | 2yr/$8M (2024-26) exp           | UDFA, debut 2019
+Jusuf Nurkic          | C     | 31  | $10,000,000 | 2yr/$20M (2025-27)              | 2014 R1 #16
+Kyle Filipowski       | PF/C  | 22  | $2,296,274  | 3yr (2024-27)                   | 2024 R2 #33
+Svi Mykhailiuk        | SG/SF | 28  | $2,667,947  | 1yr min (2025-26) exp           | 2018 R2 #47
+Kevin Love            | PF/C  | 37  | $3,634,153  | 1yr min (2025-26) exp           | 2008 R1 #5
+Oscar Tshiebwe        | C     | 25  | $1,272,870  | 1yr (2025-26) exp               | UDFA, debut 2024
+Two-Way: Elijah Harkless (SG, 22, UDFA 2025), Blake Hinson (SF, 25, UDFA 2025), John Tonje (SG, 24, 2025 R2 #53)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R (Top-8 protected → 미컨베이 시 OKC행, 의무 소멸) + CLE swap rights (Mitchell trade)
+    + MIN swap rights (Gobert trade)
+  - 2027: CLE/MIN/UTA 3팀 정렬 중 2번째 유리한 픽 수령 (최유리→MEM, 최불리→CHA행)
+  - 2028: Own 1R + CLE swap rights (Mitchell trade)
+  - 2029: Own 1R + CLE/MIN 중 유리한 픽 수령 (불리한 쪽→CHA행)
+  - 2030: Own 1R
+  - 2031: Own 1R
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: Own 2R
+  - 2027: Own 2R
+  - 2028: Own 2R + CLE 2R (Lonzo Ball trade)
+  - 2029: Own 2R + MIN 2R (조건부, Gobert trade)
+  - 2030: UTA/LAC 중 불리한 2R (유리한 쪽→CHA행)
+  - 2031: Own 2R + BOS/CLE 중 유리한 2R
+  - 2032: Own 2R + CLE 2R
+
+======================================================================
+[GOLDEN STATE WARRIORS] | Pacific Division | West
+======================================================================
+Payroll: ~$195M | Status: 1st Apron
+Dead Cap: 없음 (미미)
+Note: Jimmy Butler - ACL 파열, 시즌 아웃 (1/19)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Stephen Curry         | PG/SG | 37  | $59,606,817 | 4yr/$215.4M (2023-27) NTC       | 2009 R1 #7
+Jimmy Butler III      | SF/PF | 36  | $54,126,450 | 2yr/$121M ext (2025-27) PO      | 2011 R1 #30
+Kristaps Porzingis    | PF/C  | 30  | $27,000,000 | 2yr/$54M (2025-27)              | 2015 R1 #4
+Draymond Green        | PF/C  | 35  | $22,000,000 | 4yr/$100M (2024-28)             | 2012 R2 #35
+Brandin Podziemski    | SG/PG | 22  | $3,200,000  | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #19
+Moses Moody           | SG/SF | 23  | $5,500,000  | 4yr/RS (2021-25) ext $12M/yr    | 2021 R1 #14
+Al Horford            | C/PF  | 39  | $3,634,153  | 1yr min (2025-26) exp           | 2007 R1 #3
+De'Anthony Melton     | SG    | 27  | $8,000,000  | 2yr/$16M (2025-27)              | 2018 R2 #46
+Quinten Post          | C     | 24  | $2,296,274  | 2yr (2024-26) exp               | UDFA, debut 2024
+Gary Payton II        | PG/SG | 32  | $8,500,000  | 3yr/$26M (2024-27)              | UDFA, debut 2016
+Will Richard          | SG/SF | 23  | $1,272,870  | 2yr (2025-27)                   | 2025 R2 #56
+Seth Curry            | SG    | 35  | $3,303,774  | 1yr min (2025-26) exp           | UDFA, debut 2013
+Gui Santos            | SF    | 23  | $2,048,494  | 3yr (2023-26)                   | 2022 R2 #55
+Pat Spencer           | PG    | 29  | $2,296,274  | 1yr min (2025-26) exp           | UDFA, debut 2023
+Two-Way: L.J. Cryer (SG, 24, UDFA 2025), Nate Williams (SG, 23, UDFA 2025), Malevy Leons (SF, 22, UDFA 2025)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R
+  - 2027: Own 1R
+  - 2028: Own 1R
+  - 2029: Own 1R
+  - 2030: Own 1R (Top-20 protected → 미컨베이 시 DAL행, AD trade)
+  - 2031: Own 1R
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: 없음 (CHA행)
+  - 2027: 없음 (WAS행)
+  - 2028: 없음 (WAS행)
+  - 2029: 없음 (BKN행)
+  - 2030: Own 2R
+  - 2031: Own 2R
+  - 2032: Own 2R (조건부, MEM행 가능)
+
+======================================================================
+[LA CLIPPERS] | Pacific Division | West
+======================================================================
+Payroll: ~$175M | Status: Over Cap
+Dead Cap: 없음 (미미)
+Note: Bradley Beal - 고관절 골절, 시즌 아웃 (11/8)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Kawhi Leonard         | SF/PF | 34  | $50,000,000 | 3yr/$153M (2024-27) PO NTC      | 2011 R1 #15
+Darius Garland        | PG    | 26  | $39,446,090 | 5yr/$193M ext (2023-28)         | 2019 R1 #5
+Bradley Beal          | SG    | 32  | $33,000,000 | 3yr/$110M (2024-27) NTC         | 2012 R1 #3
+Bennedict Mathurin    | SG/SF | 23  | $6,300,000  | 4yr/RS (2022-26) TO 25-26       | 2022 R1 #6
+John Collins          | PF/C  | 28  | $14,000,000 | 2yr/$28M (2025-27)              | 2017 R1 #19
+Bogdan Bogdanovic     | SG/SF | 33  | $7,500,000  | 2yr/$15M (2025-27)              | 2014 R1 #27
+Brook Lopez           | C     | 37  | $6,000,000  | 2yr/$12M (2025-27)              | 2008 R1 #10
+Kris Dunn             | PG/SG | 31  | $3,000,000  | 2yr/$6M (2025-27)               | 2016 R1 #5
+Isaiah Jackson        | PF/C  | 23  | $4,500,000  | 4yr/RS (2021-25) ext            | 2021 R1 #22
+Yanic Konan Niederhauser| C   | 21  | $2,743,800  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #30
+Nicolas Batum         | SF/PF | 37  | $3,303,774  | 1yr min (2025-26) exp           | 2008 R1 #25
+Jordan Miller         | SF/SG | 25  | $2,296,274  | 2yr (2024-26) exp               | UDFA, debut 2023
+Kobe Sanders          | PG    | 20  | $1,272,870  | 2yr (2025-27)                   | 2024 R2 #50
+TyTy Washington Jr.   | PG    | 23  | $2,296,274  | 3yr (2023-26) exp               | 2022 R1 #29
+Two-Way: Cam Christie (SG, 20, 2024 R2), Norchad Omier (PF, 24, UDFA 2025)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: 없음 (PG trade로 OKC행, Unprotected)
+  - 2027: Own 1R | OKC swap rights (PG trade)
+  - 2028: 없음 (Harden trade로 PHI행, Unprotected)
+  - 2029: Own 1R | PHI swap rights (Top-3 protected)
+  - 2030: Own 1R
+  - 2031: Own 1R
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: 없음 (MEM/HOU행)
+  - 2027: 없음 (ATL행)
+  - 2028: 없음 (CHA/DET행)
+  - 2029: 없음 (SAS행)
+  - 2030: 없음 (UTA행)
+  - 2031: Own 2R
+  - 2032: Own 2R
+
+======================================================================
+[LOS ANGELES LAKERS] | Pacific Division | West
+======================================================================
+Payroll: ~$190M | Status: Luxury Tax Payer
+Dead Cap: ~$5.5M (소규모 웨이브 합산 ~$5.5M)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Luka Doncic           | PG/SG | 26  | $45,999,660 | 5yr/$238M ext (2025-30)         | 2018 R1 #3
+LeBron James          | SF/PF | 41  | $52,627,153 | 1yr PO (2025-26) exp            | 2003 R1 #1
+Austin Reaves         | SG/PG | 27  | $18,000,000 | 4yr/$72M (2024-28)              | UDFA, debut 2021
+Rui Hachimura         | PF/SF | 27  | $17,000,000 | 3yr/$51M ext (2024-27)          | 2019 R1 #9
+Deandre Ayton         | C     | 27  | $16,000,000 | 2yr/$32M (2025-27)              | 2018 R1 #1
+Marcus Smart          | PG/SG | 31  | $5,500,000  | 2yr/$11M (2025-27) buyout sign  | 2014 R1 #6
+Dalton Knecht         | SG/SF | 24  | $3,000,000  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #17
+Luke Kennard          | SG    | 29  | $4,500,000  | 2yr/$9M (2025-27)               | 2017 R1 #12
+Jarred Vanderbilt     | PF    | 26  | $11,000,000 | 4yr/$48M (2023-27)              | 2018 R2 #41
+Jaxson Hayes          | C     | 25  | $4,500,000  | 2yr/$9M (2025-27)               | 2019 R1 #8
+Nick Smith Jr.        | SG/PG | 21  | $3,000,000  | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #27
+Jake LaRavia          | SF/PF | 24  | $2,296,274  | 2yr min (2025-27)               | 2022 R2 #32? R1 #19→MEM
+Adou Thiero           | SF/PF | 21  | $1,272,870  | 2yr (2025-27)                   | 2025 R2 #36
+Bronny James          | SG    | 21  | $1,272,870  | 4yr/RS (2024-28) R2             | 2024 R2 #55
+Two-Way: Kobe Bufkin (PG, 21, 2023 R2 #40), Chris Manon (PG, 22, UDFA 2025)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R
+  - 2027: Own 1R (Top-4 protected → 미컨베이 시 UTA/MEM행)
+  - 2028: Own 1R
+  - 2029: 없음 (Luka trade로 DAL행)
+  - 2030: Own 1R
+  - 2031: Own 1R
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: 없음 (CLE행)
+  - 2027: 없음 (BKN행)
+  - 2028: 없음 (ORL행)
+  - 2029: 없음 (WAS행)
+  - 2030: 없음 (BKN행)
+  - 2031: 없음 (BKN행)
+  - 2032: Own 2R
+
+======================================================================
+[PHOENIX SUNS] | Pacific Division | West
+======================================================================
+Payroll: ~$130M | Status: Under Cap (Retooling around Booker)
+Dead Cap: ~$3.8M (Nassir Little 스트레치 ~$3.1M/yr ~2027까지, Liddell 웨이브 ~$707K)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Devin Booker          | SG/SF | 29  | $53,142,264 | 4yr/$224M ext (2024-28) NTC     | 2015 R1 #13
+Jalen Green           | SG    | 23  | $33,584,499 | 5yr/$160M ext (2025-30)         | 2021 R1 #2
+Grayson Allen         | SG/SF | 30  | $12,000,000 | 4yr/$70M (2024-28)              | 2018 R1 #21
+Dillon Brooks         | SF/PF | 30  | $16,000,000 | 3yr/$45M (2024-27)              | 2017 R2 #45
+Mark Williams         | C     | 23  | $4,800,000  | 4yr/RS (2022-26) TO 25-26       | 2022 R1 #15
+Khaman Maluach        | C     | 19  | $6,016,080  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #10
+Ryan Dunn             | SF/PF | 22  | $2,296,274  | 3yr (2024-27)                   | 2024 R2 #28
+Royce O'Neale         | SF/PF | 32  | $3,080,921  | 1yr min (2025-26) exp           | UDFA, debut 2017
+Collin Gillespie      | PG    | 28  | $2,296,274  | 2yr min (2025-27)               | UDFA, debut 2022
+Rasheer Fleming       | PF    | 23  | $1,272,870  | 2yr (2025-27)                   | 2025 R2 #31
+Koby Brea             | SG/SF | 23  | $1,272,870  | 2yr (2025-27)                   | 2025 R2 #41
+Oso Ighodaro          | PF/C  | 24  | $2,296,274  | 3yr (2024-27)                   | 2024 R2 #40
+Jordan Goodwin        | PG/SG | 27  | $2,667,947  | 1yr min (2025-26) exp           | UDFA, debut 2022
+Isaiah Livers         | PF    | 27  | $2,296,274  | 1yr min (2025-26) exp           | UDFA, debut 2021
+Jamaree Bouyea        | PG    | 28  | $2,296,274  | 1yr min (2025-26) exp           | UDFA, debut 2022
+Two-Way: Haywood Highsmith (PF, 28, UDFA 2019), Amir Coffey (SG, 28, UDFA 2019)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: 없음 (Nurkic dump으로 CHA행) | WAS swap rights (Beal trade)
+  - 2027: 없음 (KD trade로 HOU행, Unprotected, 원래 BKN→HOU)
+  - 2028: Own 1R | BKN swap rights (KD trade) + WAS swap rights (Beal trade)
+  - 2029: 없음 (KD trade로 HOU행, Unprotected, 원래 BKN→HOU)
+  - 2030: Own 1R | WAS swap rights (Beal trade)
+  - 2031: 없음 (JJJ trade로 UTA→MEM행, Unprotected)
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: Own 2R (조건부, DEN/GSW 중 불리한 2R 수령)
+  - 2027: Own 2R
+  - 2028: Own 2R
+  - 2029: Own 2R
+  - 2030: Own 2R
+  - 2031: Own 2R
+  - 2032: Own 2R + HOU 2R
+
+======================================================================
+[SACRAMENTO KINGS] | Pacific Division | West
+======================================================================
+Payroll: ~$155M | Status: Over Cap (Rebuilding)
+Dead Cap: 없음 (미미)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Domantas Sabonis      | C/PF  | 29  | $42,336,000 | 5yr/$200M ext (2023-28)         | 2016 R1 #11
+DeMar DeRozan         | SG/SF | 36  | $25,000,000 | 3yr/$75M (2024-27)              | 2009 R1 #9
+Zach LaVine           | SG/SF | 30  | $47,499,660 | 5yr/$215M (2022-27) PO 26-27    | 2014 R1 #13
+Keegan Murray         | PF/SF | 25  | $5,700,000  | 4yr/RS (2022-26) TO 25-26       | 2022 R1 #4
+De'Andre Hunter       | SF/PF | 28  | $18,000,000 | 4yr/$70M (2023-27)              | 2019 R1 #4
+Malik Monk            | SG/PG | 27  | $12,000,000 | 4yr/$55M (2024-28)              | 2017 R1 #11
+Russell Westbrook     | PG    | 37  | $3,634,153  | 1yr min (2025-26) exp           | 2008 R1 #4
+Devin Carter          | SG    | 23  | $3,500,000  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #13
+Nique Clifford        | SG/SF | 24  | $3,108,120  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #24
+Maxime Raynaud        | C     | 22  | $1,272,870  | 2yr (2025-27)                   | 2025 R2 #42
+Precious Achiuwa      | PF/C  | 26  | $6,000,000  | 2yr/$12M (2025-27)              | 2020 R1 #20
+Doug McDermott        | SF    | 34  | $3,303,774  | 1yr min (2025-26) exp           | 2014 R1 #11
+Drew Eubanks          | C     | 28  | $2,667,947  | 1yr min (2025-26) exp           | UDFA, debut 2018
+Dylan Cardwell        | C     | 24  | $1,272,870  | 2yr (2024-26)                   | UDFA, debut 2024
+Two-Way: Killian Hayes (PG, 24, 2020 R1 #7), Patrick Baldwin Jr. (SF, 23, 2022 R1 #28)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R + SAS 1R (Fox trade, Unprotected)
+  - 2027: Own 1R
+  - 2028: Own 1R
+  - 2029: Own 1R
+  - 2030: Own 1R
+  - 2031: MIN 1R (Unprotected, Fox→Dillingham trade chain)
+    + SAS swap rights on SAC 1R (DeRozan trade)
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: Own 2R
+  - 2027: Own 2R
+  - 2028: Own 2R + DEN 2R (Fox trade)
+  - 2029: 없음 (WAS행)
+  - 2030: Own 2R
+  - 2031: Own 2R
+  - 2032: Own 2R
+
+======================================================================
+[DALLAS MAVERICKS] | Southwest Division | West
+======================================================================
+Payroll: ~$160M | Status: Over Cap
+Dead Cap: 없음 (미미)
+Note: Cooper Flagg - 발 부상, 결장 중
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Kyrie Irving          | PG/SG | 33  | $36,566,002 | 3yr/$120M (2023-26) PO 25-26    | 2011 R1 #1
+Cooper Flagg          | SF/PF | 19  | $13,825,920 | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #1
+P.J. Washington       | PF/C  | 27  | $15,000,000 | 3yr/$48M (2024-27)              | 2019 R1 #12
+Klay Thompson         | SG/SF | 35  | $12,000,000 | 3yr/$50M (2024-27)              | 2011 R1 #11
+Dereck Lively II      | C     | 21  | $5,200,000  | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #12
+Khris Middleton       | SF/PF | 34  | $33,296,296 | 3yr/$102M (2023-26) exp         | 2012 R2 #39
+Tyus Jones            | PG    | 29  | $8,000,000  | 2yr/$16M (2025-27)              | 2015 R1 #24
+Naji Marshall         | PF/SF | 27  | $9,000,000  | 4yr/$36M (2024-28)              | UDFA, debut 2020
+Caleb Martin          | SF/PF | 29  | $8,000,000  | 4yr/$32M (2024-28)              | UDFA, debut 2020
+Daniel Gafford        | C     | 26  | $12,000,000 | 3yr/$38M (2024-27)              | 2019 R2 #38
+Max Christie          | SG    | 22  | $2,200,000  | 4yr/RS (2022-26) TO 25-26       | 2022 R2 #35
+Dwight Powell         | C/PF  | 34  | $3,303,774  | 1yr min (2025-26) exp           | 2014 R2 #45
+AJ Johnson            | PG    | 20  | $1,800,000  | 4yr (2025-29) via WAS trade     | UDFA, debut 2025
+Brandon Williams      | PG    | 22  | $2,296,274  | 2yr (2024-26)                   | 2023 R2 #34
+Marvin Bagley III     | PF/C  | 26  | $3,000,000  | 1yr/$3M (2025-26) exp           | 2018 R1 #2
+Two-Way: RJ Nembhard Jr. (PG/SG, 25, UDFA 2024)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R (Top-10 protected → 미컨베이 시 WAS행, 2027 Top-8 protected → 2028 Unprotected)
+    + OKC/LAC/HOU 3팀 정렬 중 최불리 픽 수령
+  - 2027: Own 1R (Top-2 protected → 미컨베이 시 CHA행)
+  - 2028: Own 1R | OKC swap rights (Harden trade chain)
+  - 2029: LAL 1R (Luka trade) + HOU/DAL/PHX 3팀 정렬 관련 의무
+  - 2030: Own 1R | SAS swap rights (Top-1 protected) + GSW 1R (Top-20 protected, AD trade)
+  - 2031: Own 1R
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: Own 2R (조건부, OKC swap)
+  - 2027: Own 2R
+  - 2028: Own 2R
+  - 2029: Own 2R
+  - 2030: Own 2R
+  - 2031: Own 2R
+  - 2032: Own 2R
+
+======================================================================
+[HOUSTON ROCKETS] | Southwest Division | West
+======================================================================
+Payroll: ~$175M | Status: Over Cap (Contending)
+Dead Cap: 없음 (미미)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Kevin Durant          | SF/PF | 37  | $53,282,608 | 4yr/$194M (2022-26) exp PO      | 2007 R1 #2
+Alperen Sengun        | C     | 23  | $33,944,954 | 5yr/$185M ext (2025-30)         | 2021 R1 #16
+Amen Thompson         | PG/SF | 22  | $8,500,000  | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #4
+Jabari Smith Jr.      | PF/C  | 23  | $10,600,000 | 4yr/RS (2022-26) TO 25-26       | 2022 R1 #3
+Fred VanVleet         | PG    | 31  | $22,000,000 | 3yr/$66M (2023-26) exp          | UDFA, debut 2016
+Reed Sheppard         | SG/PG | 21  | $5,700,000  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #3
+Tari Eason            | PF/SF | 24  | $4,200,000  | 4yr/RS (2022-26) TO 25-26       | 2022 R1 #17
+Dorian Finney-Smith   | SF/PF | 32  | $8,000,000  | 2yr/$16M (2025-27)              | UDFA, debut 2016
+Steven Adams          | C     | 32  | $6,000,000  | 2yr/$12M (2024-26) exp          | 2013 R1 #12
+Clint Capela          | C     | 31  | $10,000,000 | 2yr/$22M (2025-27)              | 2014 R1 #25
+Josh Okogie           | SG/SF | 26  | $4,000,000  | 2yr/$8M (2025-27)               | 2018 R1 #20
+Jae'Sean Tate         | SF/PF | 30  | $3,287,409  | 1yr min (2025-26) exp           | UDFA, debut 2020
+Aaron Holiday         | PG    | 28  | $3,000,000  | 2yr/$6M (2025-27)               | 2018 R1 #23
+Jeff Green            | PF/SF | 39  | $3,634,153  | 1yr min (2025-26) exp           | 2007 R1 #5
+JD Davison            | PG    | 23  | $2,048,494  | 2yr (2024-26)                   | 2022 R2 #53
+Two-Way: Isaiah Crawford (SF, 21, UDFA 2025), Tristen Newton (PG, 24, UDFA 2025)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: 없음 (Top-4 protected → 미컨베이 시 OKC행. HOU는 강팀이라 거의 확실히 OKC 컨베이)
+  - 2027: Own 1R + PHX 1R (Unprotected, KD trade via BKN) + BKN swap rights
+  - 2028: Own 1R
+  - 2029: Own 1R + HOU/DAL/PHX 3팀 정렬 중 유리한 2개 수령 (최불리→BKN행)
+  - 2030: Own 1R
+  - 2031: Own 1R
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: Own 2R
+  - 2027: MEM 2R (조건부)
+  - 2028: 없음 (ATL행)
+  - 2029: 없음 (OKC행)
+  - 2030: 없음 (OKC행)
+  - 2031: Own 2R
+  - 2032: Own 2R
+
+======================================================================
+[MEMPHIS GRIZZLIES] | Southwest Division | West
+======================================================================
+Payroll: ~$120M | Status: Under Cap (Rebuilding around Ja + Edey)
+Dead Cap: ~$8.3M (Cole Anthony 스트레치 ~$3.7M/yr ~2027까지, Kyle Anderson 웨이브 ~$2.3M, Eric Gordon 웨이브 ~$2.3M)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Ja Morant             | PG    | 26  | $39,446,090 | 5yr/$193M ext (2023-28)         | 2019 R1 #2
+Zach Edey             | C     | 23  | $5,200,000  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #9
+Jaylen Wells          | SG/SF | 22  | $2,296,274  | 4yr/RS (2024-28) R2             | 2024 R2 #39
+Kentavious Caldwell-Pope| SG/SF| 32 | $15,000,000 | 3yr/$66M (2024-27)              | 2013 R1 #8
+Santi Aldama          | PF/C  | 25  | $7,500,000  | 3yr/$24M (2024-27)              | 2021 R1 #30
+GG Jackson            | PF/SF | 20  | $2,048,494  | 3yr (2023-26)                   | 2023 R2 #45
+Brandon Clarke        | PF    | 28  | $6,000,000  | 3yr/$18M (2024-27)              | 2019 R1 #21
+Taylor Hendricks      | PF    | 21  | $4,200,000  | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #9
+Cedric Coward         | SF    | 22  | $5,715,120  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #11
+Cam Spencer           | PG/SG | 26  | $2,296,274  | 2yr (2024-26) exp               | UDFA, debut 2024
+Scotty Pippen Jr.     | PG    | 24  | $2,048,494  | 2yr (2024-26) exp               | UDFA, debut 2022
+Olivier-Maxence Prosper| SF/PF| 22 | $2,296,274  | 4yr/RS (2023-27) R2             | 2023 R1 #24
+Javon Small           | PG/SG | 22  | $1,272,870  | 2yr (2025-27)                   | 2025 R2 #48
+Jahmai Mashack        | SG/SF | 23  | $1,272,870  | 2yr (2025-27)                   | 2025 R2 #59
+Walter Clayton Jr.    | PG    | 23  | $3,991,320  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #18
+Two-Way: Rayan Rupert (SG, 21, 2023 R2 43), Ty Jerome (PG, 27, UDFA 2019)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R + PHX/WAS/ORL/MEM 4팀 정렬 중 유리한 2개 수령
+  - 2027: Own 1R + CLE/MIN/UTA 3팀 정렬 중 최유리 픽 수령 (JJJ trade via UTA)
+    + LAL 1R (Top-4 protected, JJJ trade via UTA)
+  - 2028: Own 1R + ORL 1R (Unprotected, Bane trade → POR 가능성 있음)
+  - 2029: Own 1R | ORL swap rights (Bane trade, Top-2 protected)
+  - 2030: Own 1R + ORL 1R (Unprotected, Bane trade)
+  - 2031: Own 1R + PHX 1R (Unprotected, JJJ trade via UTA)
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: LAC 2R (조건부)
+  - 2027: ATL 2R
+  - 2028: SAC 2R
+  - 2029: Own 2R
+  - 2030: Own 2R
+  - 2031: Own 2R
+  - 2032: Own 2R + GSW 2R (조건부) + PHI swap rights
+
+======================================================================
+[NEW ORLEANS PELICANS] | Southwest Division | West
+======================================================================
+Payroll: ~$140M | Status: Over Cap (Struggling)
+Dead Cap: 없음 (미미)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Zion Williamson       | PF/C  | 25  | $39,446,090 | 5yr/$193M ext (2023-28)         | 2019 R1 #1
+Dejounte Murray       | PG/SG | 29  | $25,000,000 | 4yr/$114M (2024-28)             | 2016 R1 #29
+Trey Murphy III       | SF    | 25  | $13,000,000 | 4yr/$50M ext (2024-28)          | 2021 R1 #17
+Herbert Jones         | SF/PF | 27  | $10,000,000 | 4yr/$46M ext (2024-28)          | 2021 R2 #35
+Jordan Poole          | SG/PG | 26  | $12,500,000 | 4yr/$128M (2023-27) PO 26-27    | 2019 R1 #28
+Jeremiah Fears        | PG    | 19  | $7,520,040  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #7
+Derik Queen           | C/PF  | 20  | $5,157,960  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #13
+Yves Missi            | C     | 21  | $3,500,000  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #21
+Jordan Hawkins        | SG    | 23  | $3,000,000  | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #14
+Saddiq Bey            | SF/PF | 26  | $5,000,000  | 3yr/$15M (2024-27)              | 2020 R1 #19
+Karlo Matkovic        | C/PF  | 23  | $2,296,274  | 2yr (2024-26)                   | 2022 R2 #52
+Bryce McGowens        | SG    | 23  | $2,048,494  | 2yr (2024-26) exp               | 2022 R2 #40
+Kevon Looney          | C/PF  | 29  | $3,080,921  | 1yr min (2025-26) exp           | 2015 R1 #30
+Hunter Dickinson      | C     | 25  | $2,296,274  | 2yr min (2025-27)               | UDFA, debut 2024
+DeAndre Jordan      | C     | 37  | $3,080,921 | 1yr min (2025-26) exp            | 2008 R2 #38
+Two-Way: Trey Alexander (PG, 22, UDFA 2025)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: 없음 (ATL→Queen draft-night trade, Unprotected)
+  - 2027: Own 1R
+  - 2028: Own 1R
+  - 2029: Own 1R
+  - 2030: Own 1R
+  - 2031: Own 1R
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: NOP/ORL/MIL/DET 중 최불리 2R (Alvarado trade)
+  - 2027: Own 2R (조건부)
+  - 2028: 없음 (traded)
+  - 2029: 없음 (traded)
+  - 2030: Own 2R
+  - 2031: Own 2R
+  - 2032: Own 2R
+
+======================================================================
+[SAN ANTONIO SPURS] | Southwest Division | West
+======================================================================
+Payroll: ~$140M | Status: Over Cap (Rising Contender)
+Dead Cap: ~$6.3M (Jeremy Sochan 바이아웃 웨이브 ~$6.3M)
+
+Name                  | Pos   | Age | Salary      | Contract                        | Draft
+----------------------|-------|-----|-------------|---------------------------------|------------------
+Victor Wembanyama     | C/PF  | 21  | $12,200,000 | 4yr/RS (2023-27) TO 25-27       | 2023 R1 #1
+De'Aaron Fox          | PG    | 28  | $37,096,620 | 5yr/$187M ext (2024-29)         | 2017 R1 #5
+Devin Vassell          | SG/SF | 25  | $14,000,000 | 4yr/$56M ext (2024-28)          | 2020 R1 #11
+Stephon Castle        | PG/SG | 20  | $5,700,000  | 4yr/RS (2024-28) TO 26-28       | 2024 R1 #4
+Dylan Harper          | SG/PG | 19  | $12,370,320 | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #2
+Harrison Barnes       | SF/PF | 33  | $14,000,000 | 2yr/$28M (2025-27)              | 2012 R1 #7
+Keldon Johnson        | SF/SG | 26  | $8,000,000  | 4yr/$74M (2023-27)              | 2019 R1 #29
+Carter Bryant         | SF/PF | 20  | $4,900,320  | 4yr/RS (2025-29) TO 27-29       | 2025 R1 #14
+Kelly Olynyk          | C/PF  | 34  | $6,500,000  | 2yr/$13M (2025-27)              | 2013 R1 #13
+Julian Champagnie     | SF    | 25  | $2,667,947  | 2yr (2025-27)                   | UDFA, debut 2022
+Luke Kornet           | C     | 29  | $4,000,000  | 2yr/$8M (2025-27)               | UDFA, debut 2017
+Jeremy Sochan         | PF/SF | 22  | $6,000,000  | 4yr/RS (2022-26) TO 25-26       | 2022 R1 #9
+Bismack Biyombo       | C     | 32  | $2,874,436  | 1yr min (2025-26) exp           | 2011 R1 #7
+Jordan McLaughlin     | PG    | 28  | $2,667,947  | 1yr min (2025-26) exp           | UDFA, debut 2018
+David Jones Garcia    | PF    | 21  | $1,272,870  | 2yr (2025-27)                   | UDFA, debut 2025
+Two-Way: Harrison Ingram (SF, 22, UDFA 2025), Lindy Waters III (SG/SF, 27, UDFA 2022)
+
+Draft Pick Assets (2026-2032):
+  [1st Round]
+  - 2026: Own 1R | ATL swap rights (Murray trade) + CLE/ATL 다자 swap 가능
+  - 2027: ATL 1R (Unprotected, Murray trade) ※Own 1R은 Fox trade로 SAC행
+  - 2028: Own 1R + BOS swap rights (Top-1 protected)
+  - 2029: Own 1R
+  - 2030: Own 1R + DAL/MIN swap rights (Top-1 protected, Dillingham trade) → 3팀 중 최유리 수령
+  - 2031: Own 1R + SAC swap rights (Unprotected, DeRozan trade)
+  - 2032: Own 1R
+  [2nd Round]
+  - 2026: DAL 2R (swap) + UTA 2R + POR/NOP 중 불리한 2R
+  - 2027: Own 2R
+  - 2028: Own 2R + MIN 2R (Dillingham trade) + NOP 2R
+  - 2029: Own 2R + LAC 2R (Harden chain) + NOP 2R
+  - 2030: Own 2R + CLE 2R
+  - 2031: Own 2R + SAC 2R
+  - 2032: Own 2R
+
+
+##############################################################################
+# SYSTEM CONFIGURATION
+##############################################################################
+
+[SYSTEM ROLE: INFINITY SINGULARITY ENGINE - INTEGRATED MASTER VER.]
+
+# 1. 기본 운영 원칙 (Operational Stance)
+당신은 'NBA GM 시뮬레이터'를 구동하는 **'초거대 게임 엔진(Super Game Engine)'**입니다.
+본 시뮬레이션의 **시작 날짜(Start Date)는 2025년 fa시장 직전**입니다.
+* **시간 및 역사 인식 (Timeline Awareness):**
+  1. **2025년 NBA 드래프트는 이미 완료(Completed)되었습니다.**
+     - Cooper Flagg(DAL #1), Dylan Harper(SAS #2), VJ Edgecombe(PHI #3), Kon Knueppel(CHA #4), Ace Bailey(UTA #5) 등 25년 클래스 유망주들은 이미 각 팀의 '루키(Rookie)'로 소속되어 있습니다.
+  2. **현재 시즌:** 우리는 이제 막 **2025-26 시즌**을 시작하려 합니다.
+  3. **다가올 이벤트:** 다음 드래프트는 **2026년 NBA 드래프트**입니다.
+* **통합 규칙 적용:** 게임의 모든 물리적 법칙, 확률 계산, 트레이드 규정은 별도로 제공된 **[룰.txt]** 파일의 내용을 최우선으로 따릅니다.
+* **GM 최종 승인 (GM Authority):** 사용자 팀과 관련된 **모든 선택 사항**은 반드시 GM(사용자)의 **'최종 승인'**을 받아야만 실행됩니다.
+
+# 2. UI 및 출력 표준 (UI & Output Standard)
+**[메모리 최적화 프로토콜 적용]** 환각 방지와 컨텍스트 유지를 위해, 평시에는 핵심 요약 정보만 출력합니다.
+사용자가 명시적으로 요청할 때만 전체 데이터를 확장하십시오.
+**[헤더 형식]** [Team Name] | [Date] | Budget: $[Amount]M | ELO: [Score] (Rank)
+
+**★ [경기 후 박스스코어 출력 규정 (Post-Game Box Score)]**
+이 규정은 경기 종료 직후 출력되는 결과표에 엄격히 적용됩니다.
+* **출력 대상(Rows):**
+  1. **My Team (아군):** 경기에 출전한 **'선수 전원(All Active Players)'**을 출력하십시오.
+  2. **Opponent (적군):** 가장 활약이 뛰어난 **'주요 선수 3인(Top 3 Key Players)'**만 요약하여 출력하십시오.
+* **필수 컬럼 및 서식(Columns):**
+  | Pos | Name | MPG | PTS | REB | AST | STL | BLK | FG% | 3P% | FT% | TS% |
+(※ TS%는 [RULE CODEX]의 공식을 통해 직접 계산하여 기입하십시오.)
+
+**[일반 로스터 조회 (General Roster View)]**
+경기가 아닌 평시 상황에서 로스터를 조회할 때 적용됩니다.
+* **기본 출력:** Starting 5 + 주요 벤치 3인 (총 8명).
+* **전체 출력:** 사용자가 "전체 로스터" 요청 시 계약된 모든 선수 출력.
+* **컬럼:** | Pos | Name | Age | Ovr | Salary | Contract Status | Draft Info |
+
+# 3. 글로벌 시뮬레이션 규칙
+* **턴 진행 및 날짜 통제 (Turn Control):** 한 턴의 결과 보고가 끝나면 날짜 진행을 즉시 **정지(STOP)**하십시오.
+사용자가 '진행(Proceed)' 또는 '다음 날짜'를 명시적으로 입력하기 전까지는, 절대로 게임 내 날짜를 하루도 넘기지 마십시오.
+* **진행 방식:** [뉴스/이벤트] -> [업무 지시] -> [사용자 승인] -> [결과 확인] -> [날짜 정지] 순서 준수.
+
+# 4. 드래프트 및 유망주 생성 프로토콜 (Draft Logic)
+**[시스템 경고: 중복 생성 금지 (Anti-Duplication)]**
+로스터 파일에 이미 존재하는 **'2025년 드래프트 클래스(Cooper Flagg, Dylan Harper, VJ Edgecombe, Kon Knueppel, Ace Bailey, Tre Johnson, Jeremiah Fears, Egor Demin 등)'**가 차기 드래프트 명단에 중복 생성되지 않도록 **블랙리스트(Exclude List)** 처리하십시오.
+
+**A. 차기 드래프트: 2026년 클래스 (The 2026 Draft Class)**
+* **대상:** 2026년 드래프트에 참가할 **새로운 가상의 유망주** 또는 **현실의 2026년 기대주(AJ Dybantsa, Cameron Boozer, Caleb Wilson 등)**를 생성하십시오.
+* **히든 스탯:** 멘탈(Mental), 워크에식(Work Ethic), 내구성(Durability)은 무작위 생성하여 예측 불가성 부여.
+
+**B. 가상 생성 연도 (2027 Class 이후)**
+* 100% 가상 선수 생성. 필수 속성: 이름, 포지션, 국적, 장단점, 히든 스탯, 잠재력.
+* **글로벌 트렌드:** 25% 이상을 비미국인(International)으로 구성 (프랑스, 캐나다 등).
+
+# 5. 실시간 무결성 검증 프로토콜 (RTM: Real-Time Memory Scrubbing)
+**[명령: 자동 검열 수행]**
+당신은 사용자의 모든 입력(질문)에 답변하기 전, 모든 데이터를 반드시 다음 **[3단계 검증]**을 먼저 내부적으로 수행해야 합니다.
+1.  **스캔(Scan):** 질문에 언급된 선수나 팀이 현재 최신 로스터(트레이드/FA 반영) 상태와 일치하는지 확인하십시오.
+2.  **수정(Fix):** 만약 이미 이적한 선수가 과거 소속팀으로 인식되거나, 규정에 어긋난 상태(예: 방출된 선수가 로스터에 있음)가 감지되면 즉시 올바른 상태로 데이터를 갱신하십시오.
+3.  **로그 출력(Log Condition):**
+    * 오류가 발견되어 수정한 경우에만, 답변 최상단에 `[System Correction: '선수명'의 소속팀 데이터를 최신 상태로 동기화했습니다.]`라고 출력하십시오.
+* 오류가 없다면, 검증 메시지를 출력하지 말고 자연스럽게 답변을 시작하십시오.
+
+# 6. 결측 데이터 자동 생성 및 초기화 (Auto-Generation Protocol)
+**[명령: 데이터 주입 규칙 (Injection Rules)]**
+1.  **능력치(Attributes):**
+    * 기존 스타(LeBron, Curry 등): 노쇠화를 반영한 2025-26 시즌 예상 스탯.
+    * **25년 루키(Flagg, Edgecombe 등):** 대학 시절 퍼포먼스를 기반으로 한 **루키 초기 능력치(Rookie OVR)** 부여.
+2.  **계약(Contracts):** 로스터에 명시된 연봉 및 계약 정보를 사용. 미명시 데이터는 CBA 규정에 맞게 자동 생성.
+3.  **자산(Assets):** 각 팀의 드래프트 픽 자산은 로스터 파일에 명시된 대로 적용.
+
+**[고정]:** 생성된 데이터는 '확정된 진실'이 되며, 이후 임의 변경 불가.
+
+################################################################################
+#  [FA_MARKET_2025] — 2025-26 시즌 자유계약선수 마켓
+#  기준일: 2025년 7월 1일 00:00 ET (FA 개막 시점)
+#  아래 모든 선수는 2024-25 시즌 계약 만료 / PO 미행사 / 트레이드 후 FA 전환 상태
+#  ※ 30개 팀 로스터에 없는 선수들만 수록 (중복 제거 완료)
+#  Format: Name | Pos | Age | OVR | ReqSalary/yr | YrsDes | InterestedTeams | Notes
+#  ReqSalary: 초기 요구연봉 (협상 -15%~+5% 가능)
+#  관심도: ❤️❤️❤️❤️❤️=1순위 / ❤️❤️❤️❤️=강관심 / ❤️❤️❤️=관심 / ❤️❤️=소극 / ❤️=고려
+################################################################################
+
+# 모든 fa/투웨이 대상자는 룰.txt파일에있는 아키타입별로 세부능력치설정
+
+================================================================================
+★★★ TIER 1 — ELITE TARGETS (연봉 요구 $20M+/yr)
+================================================================================
+
+Name               | Pos   | Age | OVR | ReqSal/yr   | YrsDes | InterestedTeams           | Notes
+-------------------|-------|-----|-----|-------------|--------|---------------------------|------------------------------------
+Ben Simmons        | PF/PG | 29  | 76  | $18M        | 2yr    | NOP,MIA,ORL,MEM,BOS,SAS   | 허리 신경 부상 2년 재활 종료. 슛 불가 약점 여전. 패싱(리그 탑5)+수비(올디펜시브급)+리바운드는 건재. 멘탈+팀 핏 극히 민감. 슈팅 강요 없는 시스템 필수. 고위험고수익 FA.
+  ► [AS-16] FIN:76/80/60/48/70/60 | SHT:22/10/58 | PLY:88/80/80 | DEF:78/86/78/52/62/80 | ATH:78/76/88/70/78/80 | IQ:86/65/72 | 성향:3PT=0 MID=5 DRV=70 PST=38 P2S=68
+Victor Oladipo     | SG/SF | 33  | 76  | $14M        | 2yr    | MIA,ORL,HOU,IND,ATL       | 쿼드 부상 완전 회복 선언. 2022년 이후 최상 컨디션. 마이애미 복귀 강한 희망.
+  ► [AS-16] FIN:70/78/62/30/52/48 | SHT:76/70/76 | PLY:70/75/78 | DEF:52/78/80/32/32/52 | ATH:76/80/65/76/68/80 | IQ:78/76/70 | 성향:3PT=52 MID=35 DRV=58 PST=15 P2S=52
+
+================================================================================
+★★ TIER 2 — STAR LEVEL (연봉 요구 $8M~$17M/yr)
+================================================================================
+
+Name               | Pos   | Age | OVR | ReqSal/yr   | YrsDes | InterestedTeams           | Notes
+-------------------|-------|-----|-----|-------------|--------|---------------------------|------------------------------------
+Spencer Dinwiddie  | PG    | 32  | 74  | $10M        | 2yr    | BRK,DAL,MIA,TOR,ATL       | 다수 팀 편력. 볼 핸들/픽앤롤 특화. 부상 이력 있으나 최근 2시즌 건강. 즉시 기여 원함.
+  ► [RP-18] FIN:70/80/52/22/42/52 | SHT:78/70/80 | PLY:78/83/80 | DEF:38/62/62/22/28/40 | ATH:72/74/62/62/72/65 | IQ:80/80/65 | 성향:3PT=42 MID=38 DRV=62 PST=20 P2S=40
+Bojan Bogdanovic   | SF/PF | 36  | 73  | $10M        | 2yr    | DET,NYK,CLE,MIA,LAC       | 유럽→NBA 베테랑. 3점 정확도 유지. 오펜스 특화 스트레치 빅. 우승 기여 역할 원함.
+  ► [RP-11] FIN:78/70/32/22/65/70 | SHT:86/86/88 | PLY:65/65/62 | DEF:48/60/50/20/32/50 | ATH:58/58/68/50/70/62 | IQ:80/78/65 | 성향:3PT=70 MID=42 DRV=28 PST=22 P2S=45
+Kyle Anderson      | SF/PF | 32  | 73  | $10M        | 2yr    | MEM,MIN,LAL,POR,UTA       | 느리지만 고IQ 농구의 정석. 포인트 포워드+수비 영리함. 가족 도시 우선.
+  ► [RP-14] FIN:72/70/38/32/70/65 | SHT:76/68/76 | PLY:86/80/62 | DEF:68/76/70/42/48/70 | ATH:48/48/76/52/78/72 | IQ:88/72/74 | 성향:3PT=35 MID=45 DRV=38 PST=35 P2S=55
+Cody Martin        | SF/SG | 30  | 72  | $9M         | 3yr    | CHA,IND,MIL,BOS,MEM       | 수비 스위칭+허슬. 연봉 부담 없는 깊이. 이른 계약 서명 희망. 안정성 최우선.
+  ► [RP-04] FIN:62/68/52/22/42/42 | SHT:70/74/72 | PLY:65/65/70 | DEF:52/76/70/32/42/60 | ATH:72/75/70/70/80/80 | IQ:72/68/65 | 성향:3PT=60 MID=28 DRV=40 PST=15 P2S=52
+Cameron Payne      | PG    | 31  | 72  | $4M         | 2yr    | PHX,MIL,TOR,SAC,ATL       | 신뢰할 백업 PG. 픽앤롤 실행 능숙. 피닉스 복귀 희망.
+  ► [RP-09] FIN:65/72/42/18/35/40 | SHT:74/70/78 | PLY:75/78/76 | DEF:40/62/62/20/26/40 | ATH:72/75/58/66/72/70 | IQ:76/70/60 | 성향:3PT=46 MID=35 DRV=52 PST=14 P2S=44
+Jordan Nwora       | SF    | 27  | 70  | $7M         | 3yr    | MIL,TOR,IND,BRK,CLE       | 밀워키 주전 경쟁 실패 후 FA. 3점+플로터 특화. 꾸준한 출전 기회 원함.
+  ► [RP-11] FIN:65/68/48/20/42/45 | SHT:72/78/76 | PLY:55/60/62 | DEF:42/60/52/22/40/52 | ATH:70/70/66/65/75/70 | IQ:65/62/55 | 성향:3PT=70 MID=28 DRV=26 PST=18 P2S=52
+Alec Burks         | SG    | 34  | 70  | $6M         | 2yr    | NYK,BOS,DEN,PHI,ATL       | 폭발적 득점 벤치 옵션. 건강 시 클러치 퍼포먼스 가능. 챔피언십 환경 우선.
+  ► [RP-08] FIN:72/78/55/25/52/50 | SHT:78/72/80 | PLY:62/76/75 | DEF:40/62/60/20/32/48 | ATH:70/72/62/68/70/70 | IQ:72/76/60 | 성향:3PT=50 MID=42 DRV=55 PST=18 P2S=40
+
+================================================================================
+★ TIER 3 — ROLE PLAYERS / SPECIALISTS ($3M~$7M/yr)
+================================================================================
+
+Name               | Pos   | Age | OVR | ReqSal/yr   | YrsDes | InterestedTeams           | Notes
+-------------------|-------|-----|-----|-------------|--------|---------------------------|------------------------------------
+Reggie Bullock     | SF    | 34  | 68  | $4M         | 2yr    | DAL,NYK,LAL,MIA,BOS       | 3점 라인 전문가. 수비 헌신. 우승 가능팀 최우선. 연봉보다 기회 중시.
+  ► [RP-11] FIN:55/58/35/15/32/38 | SHT:70/84/78 | PLY:52/52/56 | DEF:42/66/58/18/30/46 | ATH:62/62/60/58/68/65 | IQ:70/62/55 | 성향:3PT=78 MID=24 DRV=16 PST=8 P2S=54
+Torrey Craig       | SF    | 35  | 67  | $3M         | 2yr    | IND,MIN,CHI,MIL,BOS       | 수비 헌신+에너지. 챔피언십 팀 강하게 원함. 연봉보다 역할 안정성 우선.
+  ► [RP-04] FIN:56/60/48/20/38/36 | SHT:55/60/62 | PLY:50/52/58 | DEF:52/73/68/42/50/63 | ATH:65/66/70/62/78/84 | IQ:70/60/60 | 성향:3PT=38 MID=22 DRV=36 PST=14 P2S=55
+Danuel House Jr.   | SF    | 31  | 68  | $5M         | 2yr    | HOU,UTA,SAC,CHA,MEM       | 휴스턴 챔피언십 경험. 3&D 역할. 연봉 합리적. 주전 경쟁 가능팀 원함.
+  ► [RP-04] FIN:60/66/50/22/40/42 | SHT:68/73/70 | PLY:55/60/62 | DEF:50/70/63/32/40/56 | ATH:70/72/65/65/75/73 | IQ:70/62/58 | 성향:3PT=63 MID=26 DRV=36 PST=14 P2S=52
+Patrick Beverley   | PG    | 37  | 66  | $2M         | 1yr    | 전체 팀                     | 수비 견제 전문. 멘토 역할+라커룸 에너지. 출전 제한 수용.
+  ► [RP-11] FIN:52/55/32/15/28/32 | SHT:62/66/70 | PLY:65/68/62 | DEF:36/76/80/15/32/45 | ATH:62/65/62/57/75/83 | IQ:78/62/70 | 성향:3PT=50 MID=30 DRV=36 PST=10 P2S=50
+Bol Bol            | C/PF  | 26  | 68  | $4M         | 2yr    | ORL,SAS,DET,CHI,HOU       | 7피트2 특이 체형. 스킬셋 독특하나 일관성 미완성. 잠재력 투자 가능팀 원함.
+  ► [RP-12] FIN:62/65/52/70/68/62 | SHT:70/68/68 | PLY:60/65/62 | DEF:60/62/45/75/50/65 | ATH:62/60/55/65/65/60 | IQ:65/58/52 | 성향:3PT=40 MID=35 DRV=26 PST=32 P2S=50
+Dewayne Dedmon     | C     | 36  | 67  | $3M         | 1yr    | 전체 팀                     | 경험 많은 백업 빅. 뎁스 목적. 1년 계약 선호.
+  ► [RP-01] FIN:65/58/42/62/58/45 | SHT:52/42/62 | PLY:50/45/48 | DEF:70/48/42/70/58/68 | ATH:55/55/78/60/70/70 | IQ:70/58/60 | 성향:3PT=0 MID=25 DRV=28 PST=48 P2S=58
+Willie Cauley-Stein| C     | 32  | 66  | $2M         | 1yr    | 전체 팀                     | 운동능력 기반 빅. 오펜시브 한계. 뎁스 가치.
+  ► [RP-02] FIN:62/62/60/65/52/42 | SHT:40/25/55 | PLY:50/48/52 | DEF:66/50/45/65/55/65 | ATH:70/70/75/70/70/70 | IQ:60/52/48 | 성향:3PT=0 MID=18 DRV=48 PST=42 P2S=60
+Elfrid Payton      | PG    | 31  | 69  | $1.5M       | 1yr    | MEM,CLE,DET,SAC           | 볼 핸들링+수비 위주 백업 PG. 라커룸 이슈 없음.
+  ► [RP-10] FIN:62/70/45/18/35/40 | SHT:55/42/60 | PLY:76/76/78 | DEF:38/68/70/20/30/46 | ATH:76/78/62/66/76/76 | IQ:75/62/60 | 성향:3PT=0 MID=22 DRV=65 PST=15 P2S=62
+Chris Boucher      | PF/C  | 32  | 70  | $5M         | 2yr    | TOR,ORL,SAS,MEM,UTA       | 토론토 장기 계약 만료. 3점+림 프로텍션. 활기찬 에너지. 주전 기회 원함.
+  ► [RP-12] FIN:65/65/58/55/55/52 | SHT:65/73/70 | PLY:52/52/55 | DEF:62/60/55/78/52/63 | ATH:65/65/62/72/73/75 | IQ:65/62/58 | 성향:3PT=52 MID=28 DRV=32 PST=28 P2S=52
+Talen Horton-Tucker| SG/SF | 25  | 69  | $6M         | 3yr    | LAL,OKC,UTA,SAS,NOP       | 레이커스 방출 후 여러 팀 거침. 운동능력+점프슈팅. 환경 맞으면 폭발 가능.
+  ► [RP-05] FIN:70/76/60/28/45/48 | SHT:66/63/70 | PLY:62/73/75 | DEF:45/65/62/25/38/50 | ATH:75/78/66/70/72/73 | IQ:66/62/52 | 성향:3PT=40 MID=35 DRV=60 PST=20 P2S=44
+
+================================================================================
+◇ TIER 4 — VETERAN MINIMUM ($1.1M~$2.5M/yr)
+================================================================================
+
+Name               | Pos   | Age | OVR | ReqSal/yr   | Notes
+-------------------|-------|-----|-----|-------------|----------------------------------------------
+Reggie Jackson     | PG    | 35  | 65  | $1.3M       | 경험 많은 백업 PG. 라커룸 리더십. 1년 선호.
+  ► [RP-08] FIN:60/65/42/15/35/40 | SHT:70/66/75 | PLY:70/73/70 | DEF:32/58/56/15/25/38 | ATH:62/62/60/58/70/65 | IQ:73/66/63 | 성향:3PT=44 MID=36 DRV=50 PST=16 P2S=40
+Nerlens Noel       | C     | 31  | 64  | $1.3M       | 수비 특화 빅. 오펜스 한계. 건강 이슈 이력 있으나 최근 안정.
+  ► [RP-01] FIN:58/56/52/58/45/32 | SHT:32/15/50 | PLY:40/40/42 | DEF:76/50/62/78/56/66 | ATH:60/62/70/70/65/73 | IQ:65/52/50 | 성향:3PT=0 MID=10 DRV=42 PST=42 P2S=65
+Alex Len           | C     | 32  | 64  | $1.5M       | 유럽리그 복귀 후 NBA 재도전. 슈팅 가능 빅.
+  ► [RP-12] FIN:62/52/42/60/52/48 | SHT:62/58/68 | PLY:46/43/46 | DEF:62/46/36/63/50/60 | ATH:52/52/76/58/66/63 | IQ:63/53/50 | 성향:3PT=32 MID=30 DRV=22 PST=42 P2S=58
+Thaddeus Young     | PF    | 37  | 63  | $1.1M       | 장수 PF. 멘토 역할. 은퇴 고려 중.
+  ► [RP-14] FIN:62/62/45/28/55/50 | SHT:63/58/68 | PLY:63/60/58 | DEF:52/62/65/32/50/60 | ATH:60/60/70/58/70/70 | IQ:78/63/73 | 성향:3PT=30 MID=33 DRV=40 PST=26 P2S=52
+Isaiah Thomas      | PG    | 36  | 66  | $1.5M       | 5'9 역대급 스토리. 기복 심함. 벤치 폭발력 가능.
+  ► [RP-18] FIN:78/83/42/15/52/58 | SHT:86/70/86 | PLY:70/80/78 | DEF:22/40/52/8/20/26 | ATH:63/70/35/52/65/63 | IQ:78/86/63 | 성향:3PT=44 MID=52 DRV=60 PST=26 P2S=30
+Lance Stephenson   | SG/SF | 35  | 65  | $1.3M       | 엔터테이너+에너지. 라커룸 활성화 전문.
+  ► [RP-13] FIN:65/70/52/25/45/42 | SHT:66/60/63 | PLY:68/70/70 | DEF:46/66/66/26/46/56 | ATH:68/70/66/63/72/78 | IQ:68/62/60 | 성향:3PT=38 MID=34 DRV=48 PST=20 P2S=45
+Langston Galloway  | SG    | 33  | 63  | $1.1M       | 3점 전문 벤치. 자기 역할 정확히 이해.
+  ► [RP-11] FIN:52/55/32/15/28/35 | SHT:70/78/78 | PLY:53/60/58 | DEF:32/56/50/12/26/40 | ATH:60/60/55/53/66/62 | IQ:68/60/55 | 성향:3PT=76 MID=30 DRV=16 PST=8 P2S=55
+Kendrick Nunn      | PG/SG | 30  | 68  | $2.5M       | 공격 지향 PG. 부상 이력 있으나 재증명 의지.
+  ► [RP-08] FIN:70/76/52/22/40/45 | SHT:76/70/80 | PLY:63/76/78 | DEF:36/60/58/18/26/38 | ATH:76/78/60/68/70/68 | IQ:70/70/56 | 성향:3PT=46 MID=42 DRV=56 PST=14 P2S=40
+Kelan Martin       | SF    | 29  | 66  | $2M         | 레이업 마스터. G리그 명예의 전당 수준. 스탠다드 도전.
+  ► [RP-18] FIN:73/78/48/20/58/53 | SHT:76/66/76 | PLY:58/68/66 | DEF:40/58/56/20/36/48 | ATH:65/66/62/60/70/68 | IQ:70/70/55 | 성향:3PT=43 MID=48 DRV=50 PST=20 P2S=42
+Norvel Pelle       | C     | 34  | 62  | $1.1M       | 유럽 경력 빅. 림 프로텍션. 뎁스 한계 명확.
+  ► [RP-01] FIN:52/48/45/55/47/32 | SHT:25/10/45 | PLY:36/33/36 | DEF:70/40/40/76/53/63 | ATH:52/52/78/63/63/66 | IQ:58/43/43 | 성향:3PT=0 MID=5 DRV=30 PST=52 P2S=68
+Chasson Randle     | PG    | 33  | 63  | $1.1M       | 백업 PG 뎁스. 해외 경력 풍부.
+  ► [RP-09] FIN:55/62/35/12/30/36 | SHT:68/66/73 | PLY:66/70/68 | DEF:30/56/56/13/22/36 | ATH:66/68/52/60/68/66 | IQ:68/63/56 | 성향:3PT=46 MID=36 DRV=43 PST=10 P2S=42
+Jarrett Culver     | SG/SF | 27  | 65  | $1.5M       | 2019 R1 #6. 부상+기대 미달 후 재도전. 운동능력 아직 건재.
+  ► [RP-05] FIN:62/68/55/22/42/45 | SHT:65/63/66 | PLY:55/63/68 | DEF:45/66/63/26/40/53 | ATH:73/76/65/68/70/70 | IQ:63/58/53 | 성향:3PT=40 MID=33 DRV=53 PST=16 P2S=47
+Frank Jackson      | PG/SG | 28  | 65  | $1.5M       | 다수 팀 편력. 스코어링 특화 벤치 PG. 기회만 있으면 20점 가능.
+  ► [RP-08] FIN:65/73/50/20/40/45 | SHT:76/66/76 | PLY:60/70/70 | DEF:33/56/56/16/26/38 | ATH:70/73/58/66/68/63 | IQ:66/68/53 | 성향:3PT=43 MID=45 DRV=53 PST=13 P2S=40
+
+################################################################################
+
+#  [TWO_WAY_MARKET_2025] — 투웨이 계약 가능 선수 마켓
+#  기준일: 2025년 7월 1일 (FA 개막 동시 TW 마켓도 오픈)
+#  ※ 30개 팀 로스터에 없는 선수들만 수록 (중복 제거 완료)
+#  TW 연봉 고정: $562,131 (협상 불가)
+#  자격: NBA 경력 3년 이하, UDFA, G리그 선수, 해외 복귀 선수
+#  Format: Name | Pos | Age | OVR | Ceiling | GLeagueTeam | Notes
+################################################################################
+
+================================================================================
+■ G리그 스타 / NBA 호출 준비 완료 레벨 (OVR 68~74, Ceiling 78+)
+================================================================================
+
+Name               | Pos   | Age | OVR | Ceiling | G-League Affiliate    | Notes
+-------------------|-------|-----|-----|---------|----------------------|-----------------------------------------
+Mac McClung        | PG    | 25  | 71  | 78      | Santa Cruz Warriors  | 덩크 컨테스트 2연패. G리그 MVP급 폭발력. 3점+드라이브 능숙. NBA 준비도 최고 수준. 경쟁 2~4팀.
+  ► [RP-17] FIN:70/78/76/52/40/45 | SHT:73/70/80 | PLY:66/78/80 | DEF:36/60/60/26/36/43 | ATH:78/80/60/83/73/76 | IQ:70/78/58 | 성향:3PT=48 MID=30 DRV=65 PST=14 P2S=36
+Jared Butler       | PG    | 25  | 68  | 75      | Salt Lake City Stars  | 베일러 출신. G리그 All-Star 2회. 클러치 볼 핸들링. 유망 PG.
+  ► [RP-09] FIN:63/70/42/16/36/40 | SHT:73/68/78 | PLY:73/73/70 | DEF:32/60/60/16/26/38 | ATH:68/70/56/60/70/68 | IQ:73/68/63 | 성향:3PT=46 MID=36 DRV=50 PST=10 P2S=44
+Javonte Smart      | PG    | 25  | 67  | 74      | Memphis Hustle        | LSU 출신. 경쟁심+리더십. 볼 핸들링 특화. 수비 헌신.
+  ► [RP-09] FIN:60/68/48/18/32/36 | SHT:66/63/70 | PLY:70/73/73 | DEF:36/63/66/18/26/38 | ATH:70/73/58/63/73/73 | IQ:70/63/60 | 성향:3PT=43 MID=30 DRV=56 PST=10 P2S=47
+Lester Quinones    | SG    | 24  | 67  | 75      | Memphis Hustle        | 슛+피지컬 특화. 스탠다드 계약 직전 수준. 기회 원함.
+  ► [RP-11] FIN:63/66/50/20/38/43 | SHT:70/73/76 | PLY:56/63/66 | DEF:38/60/56/20/30/43 | ATH:70/70/63/66/70/68 | IQ:66/63/52 | 성향:3PT=60 MID=33 DRV=36 PST=13 P2S=50
+Jordan Hall        | PG    | 24  | 67  | 74      | Delaware Blue Coats   | 세인트조셉스 출신 쿼터백형 PG. 드래프트 미지명 후 성장. 플로어 리더십.
+  ► [RP-10] FIN:58/63/40/15/30/36 | SHT:63/63/73 | PLY:76/70/68 | DEF:33/60/63/16/23/36 | ATH:68/70/56/60/70/68 | IQ:73/60/66 | 성향:3PT=40 MID=28 DRV=50 PST=9 P2S=54
+Jaelen House       | PG    | 24  | 64  | 73      | Valley Suns           | 피닉스 G리그 레전드. 슛+스피드. 2년 G리그 주요 스코어러. NBA 기회 원함.
+  ► [RP-17] FIN:56/63/46/16/28/33 | SHT:66/63/70 | PLY:66/68/76 | DEF:30/56/58/13/23/33 | ATH:76/78/53/66/70/68 | IQ:66/60/53 | 성향:3PT=43 MID=33 DRV=60 PST=9 P2S=41
+
+
+================================================================================
+■ 유망 언드래프티 (UDFA) 2025 — TW 계약 1순위 후보
+================================================================================
+
+Name               | Pos   | Age | OVR | Ceiling | College/Origin       | Notes
+-------------------|-------|-----|-----|---------|----------------------|-----------------------------------------
+Marcus Hill        | SF    | 22  | 63  | 78      | Gonzaga              | 2025 드래프트 언드래프티. 오펜시브 레퍼토리 풍부. Ceiling 78 최고급 UDFA.
+  ► [RP-05] FIN:60/66/52/22/42/46 | SHT:66/63/68 | PLY:56/60/63 | DEF:46/63/56/28/40/53 | ATH:70/70/63/66/73/73 | IQ:63/58/56 | 성향:3PT=46 MID=33 DRV=46 PST=18 P2S=50
+DeShawn Watkins    | SG    | 22  | 64  | 75      | Arkansas             | 수비 특화. 6'4 사이즈. 팀 문화 핏 중요.
+  ► [RP-04] FIN:58/63/50/18/36/40 | SHT:63/63/68 | PLY:53/60/63 | DEF:43/70/68/23/36/50 | ATH:70/73/63/66/73/76 | IQ:63/56/53 | 성향:3PT=43 MID=28 DRV=43 PST=11 P2S=52
+Youssouf Traore    | PF    | 22  | 63  | 77      | 프랑스 / Nanterre      | 6'9 윙 포워드. 유럽 유망주. 수비 본능. 국제적 관심.
+  ► [RP-02] FIN:60/60/56/50/50/43 | SHT:45/36/56 | PLY:50/50/53 | DEF:60/63/60/53/53/63 | ATH:66/66/70/66/73/73 | IQ:60/53/53 | 성향:3PT=12 MID=22 DRV=40 PST=36 P2S=58
+Cam Wynter         | PG    | 23  | 62  | 72      | Penn State           | 컨트롤 PG. 픽앤롤 창출 능숙. IQ 높음.
+  ► [RP-10] FIN:53/60/36/13/26/30 | SHT:60/58/70 | PLY:70/66/66 | DEF:30/56/58/13/20/33 | ATH:66/68/53/58/68/66 | IQ:70/56/60 | 성향:3PT=36 MID=26 DRV=50 PST=9 P2S=54
+Keion Brooks Jr.   | SF    | 23  | 63  | 74      | Kentucky/Washington  | 2023 드래프트 2라운드. G리그 재도전. 오펜시브 윙. 점프슈팅 개선 중.
+  ► [RP-05] FIN:60/63/50/20/40/43 | SHT:63/58/66 | PLY:53/58/60 | DEF:46/63/56/26/40/53 | ATH:68/68/66/63/70/70 | IQ:60/56/53 | 성향:3PT=36 MID=36 DRV=48 PST=20 P2S=50
+Roko Prkacin       | SF/PF | 23  | 63  | 76      | 크로아티아 / POR        | 유럽 베테랑 기반 윙. 3점+볼 핸들링. NBA 적응 중. 수비 개선 필요.
+  ► [RP-06] FIN:60/63/48/26/48/46 | SHT:63/63/66 | PLY:56/60/58 | DEF:50/60/53/36/43/56 | ATH:63/63/68/63/70/68 | IQ:63/56/53 | 성향:3PT=40 MID=30 DRV=38 PST=26 P2S=52
+Kobe Brown         | PF    | 24  | 63  | 73      | Missouri             | 2023 R2 #39. G리그 성장. 오펜시브 빅. 역할 플레이 이해.
+  ► [RP-06] FIN:63/60/48/43/53/48 | SHT:60/56/66 | PLY:53/53/56 | DEF:56/58/50/38/48/60 | ATH:60/60/70/60/70/70 | IQ:63/56/53 | 성향:3PT=32 MID=33 DRV=36 PST=33 P2S=55
+Colby Jones        | SG/SF | 23  | 63  | 74      | Xavier               | 2023 R2 #34. 다재다능 윙. 핸들+패싱. 수비 기여.
+  ► [RP-06] FIN:58/63/48/18/36/40 | SHT:60/58/66 | PLY:66/63/63 | DEF:43/63/60/26/36/50 | ATH:68/68/63/63/70/70 | IQ:66/56/56 | 성향:3PT=36 MID=28 DRV=46 PST=16 P2S=52
+
+================================================================================
+■ 국제 선수 NBA 진출 도전 — TW 계약 후보
+================================================================================
+
+Name               | Pos   | Age | OVR | Ceiling | Origin / League      | Notes
+-------------------|-------|-----|-----|---------|----------------------|-----------------------------------------
+Leandro Bolmaro    | SG/SF | 25  | 66  | 74      | 아르헨티나 / 스페인 ACB | 바르셀로나 계약 종료. NBA 재도전. 운동능력+볼 핸들. 수비 기대치 높음.
+  ► [RP-06] FIN:60/66/52/20/40/43 | SHT:66/63/68 | PLY:66/66/68 | DEF:46/68/63/28/36/50 | ATH:70/70/63/66/73/73 | IQ:68/60/58 | 성향:3PT=40 MID=28 DRV=50 PST=16 P2S=50
+Theo Maledon       | PG    | 25  | 65  | 73      | 프랑스 / OKC→스페인     | OKC 컷 후 유럽 복귀. 패싱+IQ 우수. NBA 2차 도전 의지. 피지컬 보강됨.
+  ► [RP-09] FIN:56/63/40/13/30/36 | SHT:66/63/73 | PLY:76/70/68 | DEF:33/60/60/16/23/36 | ATH:68/70/53/60/68/66 | IQ:73/58/58 | 성향:3PT=40 MID=28 DRV=50 PST=9 P2S=54
+Joel Ntambwe       | SF    | 24  | 63  | 76      | 콩고민주 / 벨기에        | 장신 윙+오펜스 재능. 수비 기초 미완. 잠재력 투자 필요.
+  ► [RP-05] FIN:60/66/56/26/46/46 | SHT:53/50/60 | PLY:50/56/58 | DEF:50/60/53/40/46/56 | ATH:68/68/66/68/70/70 | IQ:58/53/50 | 성향:3PT=26 MID=30 DRV=46 PST=26 P2S=55
+Aleksej Pokusevski | PF    | 24  | 65  | 77      | 세르비아 / 유럽          | OKC 방출 후 유럽 복귀. 체형(7'1)+핸들링 독특. 고위험고수익.
+  ► [RP-12] FIN:60/63/48/53/60/56 | SHT:66/66/70 | PLY:58/63/63 | DEF:53/56/46/60/46/60 | ATH:60/60/50/63/63/63 | IQ:63/53/53 | 성향:3PT=43 MID=33 DRV=28 PST=28 P2S=52
+Darius Days        | PF    | 24  | 63  | 72      | LSU / 해외              | 수비+에너지 PF. 빅맨 뎁스. 해외리그 복귀 후 재도전.
+  ► [RP-06] FIN:58/58/50/43/50/43 | SHT:53/50/63 | PLY:46/46/50 | DEF:58/60/56/43/53/60 | ATH:63/63/70/63/70/73 | IQ:60/50/50 | 성향:3PT=26 MID=26 DRV=36 PST=36 P2S=58
+Max Fiedel         | C     | 24  | 62  | 71      | 독일 / BBL              | 픽앤팝+블록 특화. 유럽서 검증된 빅. NBA 진출 도전.
+  ► [RP-01] FIN:60/50/46/60/56/48 | SHT:60/53/66 | PLY:43/40/43 | DEF:60/43/36/66/48/60 | ATH:50/50/73/58/66/63 | IQ:60/48/48 | 성향:3PT=28 MID=30 DRV=20 PST=44 P2S=60
+
+Hugo Besson        | PG    | 23  | 63  | 73      | 프랑스 / 스페인 ACB      | 창의적 패싱+핸들링. 유럽 경험 풍부. NBA 적응 가능성 높음.
+  ► [RP-09] FIN:56/63/38/13/28/33 | SHT:63/60/70 | PLY:76/68/66 | DEF:30/58/56/13/20/33 | ATH:68/70/53/60/70/66 | IQ:70/56/58 | 성향:3PT=38 MID=26 DRV=48 PST=9 P2S=54
+
+================================================================================
+■ NBA 재도전 / 경력 단절 후 복귀 — TW 계약 가능
+================================================================================
+
+Name               | Pos   | Age | OVR | Ceiling | Prev Status          | Notes
+-------------------|-------|-----|-----|---------|----------------------|-----------------------------------------
+Kira Lewis Jr.     | PG    | 24  | 65  | 76      | NOP / ACL 회복완료     | 2020 R1 #13. ACL 완전 회복. 이전 폭발력 유지. 이번이 마지막 기회.
+  ► [RP-17] FIN:60/70/50/20/33/38 | SHT:66/63/73 | PLY:68/73/78 | DEF:33/63/63/16/26/38 | ATH:80/82/56/68/70/70 | IQ:68/63/58 | 성향:3PT=40 MID=26 DRV=63 PST=10 P2S=50
+Daishen Nix        | PG    | 22  | 64  | 74      | HOU / G리그           | 휴스턴 G리그 핵심. 창의적 패싱+픽앤롤 독창성. 스탠다드 계약 직전 수준.
+  ► [RP-09] FIN:60/66/46/16/36/40 | SHT:60/56/66 | PLY:76/70/68 | DEF:33/58/60/16/26/36 | ATH:68/70/58/60/70/68 | IQ:70/58/58 | 성향:3PT=33 MID=26 DRV=56 PST=11 P2S=58
+Jalen Lecque       | PG    | 25  | 65  | 72      | PHX→해외              | 스피드+드라이브 특화. 해외에서 자신감 회복. NBA 마지막 도전.
+  ► [RP-17] FIN:58/66/50/18/33/36 | SHT:60/58/66 | PLY:63/70/78 | DEF:30/58/60/13/23/33 | ATH:80/82/56/66/68/68 | IQ:63/58/53 | 성향:3PT=36 MID=26 DRV=66 PST=9 P2S=44
+Louis King         | SG    | 25  | 64  | 73      | DET / G리그           | 오레곤 출신. 수비+드라이빙 특화. 기회만 있으면 증명 가능.
+  ► [RP-05] FIN:60/68/56/22/38/43 | SHT:63/60/66 | PLY:53/63/66 | DEF:40/63/60/28/36/50 | ATH:70/73/63/68/70/70 | IQ:60/58/53 | 성향:3PT=38 MID=30 DRV=53 PST=16 P2S=47
+Saben Lee          | PG    | 26  | 66  | 73      | PHX→DET              | 스피드 특화 백업 PG. G리그 경험 풍부. 폭발적 드라이브.
+  ► [RP-17] FIN:58/68/50/20/33/38 | SHT:63/60/70 | PLY:68/72/78 | DEF:33/60/63/16/23/36 | ATH:80/82/56/66/70/70 | IQ:66/60/56 | 성향:3PT=36 MID=26 DRV=63 PST=9 P2S=50
+Vlatko Cancar      | SF    | 27  | 67  | 74      | DEN / 슬로베니아        | 덴버 챔피언십 멤버. 계약 만료 후 재도전. 3점+기동성. 챔피언십 경험 귀중.
+  ► [RP-04] FIN:63/66/50/22/46/48 | SHT:68/70/73 | PLY:58/60/63 | DEF:46/66/56/33/40/53 | ATH:68/68/66/63/73/70 | IQ:68/63/60 | 성향:3PT=56 MID=28 DRV=36 PST=18 P2S=52
+Princepal Singh    | SF    | 26  | 62  | 72      | 인도 / SAS G리그        | 인도 최초 NBA G리그 선수. 7'0 윙. 수비+오펜스 성장 중. 역사적 의의.
+  ► [RP-05] FIN:53/56/50/46/46/40 | SHT:48/43/58 | PLY:50/53/56 | DEF:53/56/46/50/46/56 | ATH:60/60/63/60/66/66 | IQ:56/50/50 | 성향:3PT=20 MID=28 DRV=38 PST=30 P2S=55
+Charlie Brown Jr.  | PF/SF | 27  | 63  | 71      | ATL / G리그           | 허슬+리바운드 특화. 에너지 역할 완벽 이해. 스탠다드 도전.
+  ► [RP-13] FIN:58/60/50/28/46/40 | SHT:56/53/63 | PLY:50/53/56 | DEF:50/60/56/36/56/60 | ATH:66/66/66/63/73/78 | IQ:63/56/53 | 성향:3PT=28 MID=26 DRV=40 PST=28 P2S=58
+Lee Hyunjung       | SG    | 27  | 66  | 75      | 대한민국 / BAS / G리그   | 이현중. 데이비슨 대학 출신. 한국 국가대표 슈팅가드. 3점+퀵릴리즈 특화. NBA 진출 재도전. KBL MVP급 활약. "한국 농구의 미래." 경쟁팀 다수 관심.
+  ► [RP-11] FIN:60/66/43/16/36/40 | SHT:73/80/78 | PLY:58/63/66 | DEF:36/63/58/16/28/40 | ATH:68/70/58/60/70/68 | IQ:70/66/58 | 성향:3PT=70 MID=30 DRV=26 PST=10 P2S=55
+Yeo Junseok        | SF/PF  | 23  | 63  | 77      | 대한민국 / KBL (울산)    | 여준석. 2미터3센치 리바운더. 곤자가,시애틀대학출신 한국 최고 유망 빅맨. 픽앤롤 수비+오펜스 리바운드 특화. 신체 조건 NBA급. 언어+적응 과제. Ceiling 77 국내 최고 기대치. TW 계약 통한 NBA 무대 도전.
+  ► [RP-02] FIN:60/56/53/56/53/43 | SHT:46/33/58 | PLY:50/50/53 | DEF:63/56/46/60/63/66 | ATH:58/58/73/63/70/70 | IQ:60/50/53 | 성향:3PT=10 MID=20 DRV=36 PST=43 P2S=62
+
+================================================================================
+# [TWO_WAY_MARKET_2025] 운영 규칙 요약
+================================================================================
+1. 팀당 TW 슬롯: 최대 3개 (15인 로스터와 별개)
+2. TW 연봉: $562,131 고정 (캡 불산입)
+3. NBA 출전 제한: 시즌 최대 50경기
+4. G리그 배정: 비출전 기간 자동 배정
+5. 변환 가능: 캡 공간 있을 시 스탠다드 계약으로 전환
+6. PO 제한: 플레이오프 로스터 등록 불가 (단, Hardship 예외 가능)
+7. 기간: 1년 (2년 TW 옵션 있음 — 양측 합의 시)
+8. 드래프트 이후 UDFA 계약 가능 시점: 6월 27일 드래프트 종료 직후부터
+9. 서머리그 퍼포먼스: TW 계약 성사/스탠다드 전환에 영향
+10. 타팀 TW 선수 영입: 해당 팀 동의 필요 (TW는 웨이버 대상 아님)
+================================================================================
+

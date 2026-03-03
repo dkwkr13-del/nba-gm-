@@ -1,0 +1,662 @@
+================================================================================
+  NBA DRAFT DATABASE — 2028+ 자동 생성 시스템 & 이름풀 & 아키타입 참조
+  ※ 2028 드래프트부터 매 시즌 자동으로 100명 드래프트 클래스 생성
+
+잠재력 등급: S(95+) A+(90-94) A(85-89) B+(80-84) B(75-79) B-(70-74) C+(65-69) C(60이하)
+※ Ceiling=최상 시나리오 / Floor=하한 시나리오 (부상·발전 정체 포함)
+※ 아키타입은 §70 Full Archetype Table 기준 (룰.txt 46종 체계)
+================================================================================
+================================================================================
+=== 2028+ NBA DRAFT — 자동 생성 시스템 ===
+================================================================================
+※ 2028 드래프트부터 매 시즌 자동으로 100명 드래프트 클래스 생성
+※ 이 섹션은 생성 규칙과 배분 기준을 정의함
+※ 실제 생성은 시뮬레이션 진행 중 AI가 NAME POOL + 템플릿 기반으로 수행
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 연간 드래프트 클래스 100명 배분 구조
+────────────────────────────────────────────────────────────────────────────────
+ TIER 1 (Top 3)      :  3명 — 완전 상세 카드 (TIER 1 형식)
+ TIER 2 (Picks 4-15) : 12명 — 준상세 카드 (TIER 2 형식)
+ TIER 3 (Picks 16-30): 15명 — 약식 카드 (TIER 3 형식)
+ TIER 4 (Picks 31-60): 30명 — 컴팩트 카드 (TIER 4 형식)
+ TIER 5 (Picks 61-100): 40명 — 최소 카드 (TIER 5 형식)
+ 합계: 100명
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 국적 배분 (매 클래스당)
+────────────────────────────────────────────────────────────────────────────────
+ 미국 (국내)    : 60~65명
+   흑인계 65% / 백인계 25% / 히스패닉계 10%
+ 유럽           : 12~15명
+   프랑스 30% / 독일·오스트리아 15% / 동유럽 25% / 스페인·이탈리아 20% / 기타 10%
+ 아프리카       : 8~10명
+   서아프리카 55% / 동아프리카 25% / 중남아프리카 20%
+ 동아시아       : 0~2명
+   한국 5% / 중국 40% / 일본 35% / 기타 20%
+ 호주·캐나다·기타: 5~7명
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 포지션 배분 (매 클래스당 100명 기준)
+────────────────────────────────────────────────────────────────────────────────
+ PG          : 15~18명
+ SG / SG·PG  : 18~22명
+ SF / SF·SG  : 18~22명
+ PF / SF·PF  : 20~24명
+ C / C·PF    : 15~20명
+ (합계: 100명, 콤보 포지션은 두 분류에 부분 계산)
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 아키타입 배분 (매 클래스당)
+────────────────────────────────────────────────────────────────────────────────
+ SS 티어 (1~2명): 최상위 유망주만 / 매 드래프트 반드시 발생하지 않음
+ AS 티어 (5~10명): 로터리 핵심 유망주
+ RP 티어 (88~94명): 대다수 드래프트 클래스
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 특수 생성 이벤트 (클래스당 1~3회 자동 발동)
+────────────────────────────────────────────────────────────────────────────────
+ [슈퍼 클래스 이벤트] — 5% 확률
+   TIER 1 선수가 SS 티어 2명 이상 / "역대급 드래프트 클래스" 선언
+   → 리그 전체 팀 관심 집중 / 탱킹 경쟁 심화
+
+ [약체 클래스 이벤트] — 10% 확률
+   TIER 1 최상급이 AS 티어에 그침 / "역대 최약 드래프트" 논란
+   → 탱킹 유인 감소 / FA 시장 대신 재건 전략 수정 유발
+
+ [해외 스타 클래스] — 8% 확률
+   유럽·아프리카 출신 선수가 Top 5에 2명 이상
+   → 국제 스카우팅 강화 이벤트 / 리그 글로벌 관심 증가
+
+ [동아시아 브레이크아웃] — 3% 확률
+   동아시아 출신 선수가 Top 15에 진입
+   → 아시아 시장 반응 이벤트 자동 발동
+
+ [역대급 빅맨 클래스] — 6% 확률
+   C/PF 포지션 Top 5 진입 선수 3명 이상
+   → 빅맨 트레이드 시장 활성화 / 센터 FA 가치 하락
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 생성 절차 (AI 자동 실행 순서)
+────────────────────────────────────────────────────────────────────────────────
+ STEP 1. 국적 배분 판정 (위 배분 기준 + 난수)
+ STEP 2. 포지션 배분 판정 (위 기준 + 난수)
+ STEP 3. NAME POOL에서 이름 선택 (국적 → 해당 풀 → 랜덤 선택)
+ STEP 4. 신체 능력치 생성 (포지션별 신장/체중/윙스팬 범위 적용)
+ STEP 5. 아키타입 판정 (포지션 + 신체 + 난수 가중치)
+ STEP 6. Ceiling / Floor 판정 (아키타입 + TIER + 난수)
+ STEP 7. 특성 태그 부여 (3~5개 / 아키타입 연계)
+ STEP 8. 비교선수 선택 (아키타입 + 잠재력 기준)
+ STEP 9. 총평 생성 (포지션 + 아키타입 + 특성 기반 문장 조합)
+ STEP 10. 컴바인 기록 생성 (SECTION 10 변환 로직 역방향 적용)
+ STEP 11. 컴바인 등급 산출 → Big Board 최종 정렬
+ STEP 12. 드래프트 데이 카드 자동 생성
+
+================================================================================
+
+================================================================================
+NAME GENERATION POOL — 자동 생성 드래프트 클래스 이름 풀
+총 이름: 900+개 (퍼스트네임 560+개 / 라스트네임 340+개)
+사용법: 국적 판정 후 해당 풀에서 퍼스트네임 + 라스트네임 각 1개 선택
+※ 현역 슈퍼스타 실명은 의도적으로 배제. 범용성 높은 이름 위주 구성.
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 미국 흑인계 퍼스트네임 (Black American First Names) — 120개
+────────────────────────────────────────────────────────────────────────────────
+일반형 (Common):
+Jaylen, Marcus, Darius, Malik, Trevon, Devin, Brandon, Tyrese, Jordan,
+Derrick, Darryl, Antoine, Jerome, Damon, Jamal, Devonte, Rondae, Jarrett,
+Jalen, Zaire, Mikal, Isaiah, Cameron, Elijah, Quentin, Desmond, Terrence,
+Marquise, Andre, Donovan, Dejounte, Reggie, Aaron, Malcolm, Kendrick,
+Rashad, Rodney, Davion, Monte, Juwan, Kofi, DeShawn, Markus, Tylan,
+Davon, Trey, Jerian, Orlando, Kris, Wendell, Armoni, Caris, Torrey,
+Jahmir, Javion, Carsen, Jarrell, Tyus, Precious, Onyeka, Devante,
+Quaron, Daejon, Jarron, Keyonte, Nassir, Jeremiah, Damone, Mamadi,
+Amari, Rondell, Alston, Tremont, Latrell, Alonzo, Shareef, Kevon
+
+희귀/개성형 (Unique):
+Deyonta, Travon, Tyshon, Khalil, Zaccharie, Labaron, Tahaad, Makhi,
+Mekhi, Naz, Scoot, Dyson, Keon, Jahvon, Daishen, Jaedon, Trendon,
+Javonte, Devion, Jaxson, Trayce, Bryson, Omari, Matisse, Terance,
+Tari, Jerami, Nerlens, Chet, Keyontae, Jabari, Ziaire, Ochai, Ousmane,
+Keyshawn, Deanthony, KeSean, Kyshawn, Levonte, Jaquori, Nasir,
+Daeqwan, Vando, Keisei, Trayon, Deshaun, Cam, Moussa, Kessler
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 미국 백인계 퍼스트네임 (White American First Names) — 70개
+────────────────────────────────────────────────────────────────────────────────
+일반형:
+Tyler, Cole, Connor, Logan, Austin, Hunter, Blake, Cade, Brady, Chase,
+Grant, Evan, Drew, Kyle, Nathan, Ryan, Luke, Jake, Collin, Derek, Scott,
+Brett, Craig, Brad, Todd, Seth, Corey, Lance, Miles, Carson, Zach, Matt,
+Chris, Garrett, Wyatt, Mason, Ethan, Owen, Liam, Noah, Eli, Ben, Sam,
+Will, Patrick, Tim, Mark, Jeff, Dan, Steven, Eric, Jason, Sean, Trevor,
+Spencer, Griffin, Quincy, Reece, Cullen, Ashton, Colby, Tanner, Weston
+
+희귀형:
+Braxton, Landen, Jaxon, Bryce, Sawyer, Cayden, Ryder, Peyton, Parker,
+Dalton, Trent, Brayden, Nate, Aden, Tucker, Karter, Duke, Jensen, Bo,
+Bowen, Levi, Xander, Zane, Knox, Rhett, Blaise, Flynn, Corbin, Reid
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 미국 히스패닉계 퍼스트네임 (Hispanic-American First Names) — 45개
+────────────────────────────────────────────────────────────────────────────────
+Juan, Carlos, Miguel, Diego, Alejandro, Andres, Luis, Ricardo, Eduardo,
+Sergio, Raul, Marco, Adrian, Victor, Hector, Ernesto, Felix, Oscar, Angel,
+Emiliano, Mateo, Santiago, Sebastian, Cristian, Ivan, Roberto, Pablo, Julio,
+Fernando, Rodrigo, Gabriel, Alfredo, Enrique, Mario, Gonzalo, Javier,
+Esteban, Rafael, Gerardo, Agustin, Cesar, Damian, Ezequiel, Gael, Hernan
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 프랑스 퍼스트네임 (French First Names) — 38개
+────────────────────────────────────────────────────────────────────────────────
+Nicolas, Théo, Hugo, Killian, Mathis, Antoine, Baptiste, Axel, Bilal,
+Ousmane, Moustapha, Moussa, Yann, Timothé, Zaccharie, Alexandre, Edouard,
+Florent, Gaël, Guillaume, Julien, Kevin, Laurent, Louis, Mathieu, Pierre,
+Quentin, Rémi, Clément, Corentin, Elie, Ibrahim, Joël, Maxime, Valentin,
+Evan, Isaia, Victor
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 독일/동유럽 퍼스트네임 (German & Eastern European First Names) — 37개
+────────────────────────────────────────────────────────────────────────────────
+독일: Hannes, Franz, Maximilian, Johannes, Moritz, Niklas, Jonas, Lukas,
+      Florian, Benedikt, Philipp, Tobias, Sebastian, Andreas, Henrik,
+      Bastian, Leon, Felix, Marco, Marius
+동유럽: Aleksej, Bogdan, Stefan, Marko, Nikola, Dragan, Goran, Ivan,
+        Kristaps, Motiejus, Miroslav, Radoslav, Branko, Dejan, Vladimir,
+        Predrag, Vasilije
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 스페인/이탈리아/포르투갈 퍼스트네임 — 40개
+────────────────────────────────────────────────────────────────────────────────
+스페인: Marc, Juancho, Dario, Alex, Ante, Bojan, Karim, Juan, Sergi,
+        Jordi, Ruben, Alberto, Toni, Mikel, Unai, Asier, Ander
+이탈리아: Gabriel, Luca, Simone, Nicolò, Danilo, Andrea, Gianmarco,
+           Alessandro, Filippo, Giorgio, Mattia, Pietro, Riccardo, Usman
+포르투갈: Bruno, Thiago, Leandro, Nuno, Diogo, Joao, Ricky, Pedro
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 아프리카계 퍼스트네임 (African First Names) — 58개
+────────────────────────────────────────────────────────────────────────────────
+서아프리카 (Senegal/Mali/Guinea/Nigeria):
+Cheikh, Seydou, Mamadou, Ibrahima, Boubacar, Mady, Abdoul, Aliou, Bamba,
+Abdoulaye, Sekou, Mamadi, Oumar, Lamine, Alassane, Bakary, Cheickna,
+Ibou, Daouda, Seyba, Bouna, Sidy, Adama, Ousmane, Moussa
+
+동아프리카 (South Sudan/Kenya/Ethiopia):
+Bol, Deng, Luol, Gorgui, Tacko, Mohamed, Hamidou, Yaxel,
+Wol, Kuol, Dhieu, Bul, Riak, Awak, Thon
+
+중/남아프리카 (Cameroon/Congo/Nigeria):
+Serge, Bismack, Joel, Pascal, Jonathan, Christian, Franck, Bertrand,
+Rodrigue, Emeka, Chimezie, Ekpe, Aminu, Akim, Festus, Usman
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 호주/캐나다/기타 퍼스트네임 — 48개
+────────────────────────────────────────────────────────────────────────────────
+호주: Jock, Mitch, Ben, Dante, Josh, Matthew, Daniel, Dyson, Jack, Thon,
+      Patty, Isaac, Joe, Tom, Nick, David, Cameron, Aaron, Nathan, Will
+캐나다: Andrew, Jamal, Nickeil, Chris, R.J., Tristan, Trey, Khem, Dillon,
+        Melvin, Cory, Maxi, Phil, Desmond, Jerome, Luguentz
+기타 (터키/그리스/기타): Goga, Alperen, Omer, Deni, Furkan, Cedi, Ersan, Brice, Seun,
+                         Giorgis, Panagiotis, Enes
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 동아시아 퍼스트네임 (East Asian First Names) — 90개
+※ 현역 NBA 동아시아 선수 이름은 배제, 일반적인 이름 위주
+────────────────────────────────────────────────────────────────────────────────
+한국 (Korean) — 로마자 표기 (단음절/복합형 혼용):
+단음절형: Joon, Soo, Hyun, Tae, Min, Sung, Jun, Woo, Kang, Dong,
+          Seok, Jin, Chan, Young, Hwan, Ho, Il, San, Kyung, Dae
+복합형:   Jin-Ho, Sung-Min, Hyun-Woo, Do-Hyun, Si-Woo, Jae-Won,
+          Kyung-Ho, Dae-Hyun, Jun-Seo, Woo-Jin, Seung-Hyun,
+          Byung-Joon, Yong-Jun, Tae-Joon, Sang-Min, Min-Jae,
+          Joon-Hyuk, Hyun-Seok, Chan-Ho, Dong-Hyun
+
+중국 (Chinese) — 로마자 표기:
+Jianlian, Mengke, Xuhao, Linyi, Zhuang, Hao, Zheng, Liang,
+Bin, Tao, Peng, Bowen, Jiaming, Mingzhe, Zhiyuan, Haowen,
+Junxian, Yuchen, Tianyu, Haoran, Zhenning, Weijie, Chenglong,
+Xinzhi, Jingkang, Bochao, Wenrui, Haotian, Zixuan, Jiahao
+
+일본 (Japanese) — 로마자 표기:
+Makoto, Kei, Sho, Wataru, Kaito, Ryusei, Daiki, Taichi,
+Kenji, Haruki, Naoki, Shota, Yuya, Yuki, Sota, Hiroki,
+Akira, Tatsuya, Tomoki, Ryota, Shuhei, Masato, Kohei, Tsubasa
+
+필리핀/동남아 (Filipino/SEA) — 로마자 표기:
+Thirdy, Kiefer, Rey, Marco, Ivan, Joseph, CJ, Andrei,
+Gabe, Almond, Troy, Bobby, Carl, Glen, Kai, Renz
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 동아시아 라스트네임 (East Asian Last Names) — 75개
+────────────────────────────────────────────────────────────────────────────────
+한국 성씨 (Korean) — 30개:
+Kim, Lee, Park, Choi, Jung, Kang, Cho, Yoon, Jang, Lim,
+Han, Oh, Shin, Kwon, Hwang, Ahn, Song, Yang, Baek, Seo,
+Ryu, Moon, Nam, Bae, Cheon, Gong, Heo, Ko, Noh, Eom
+
+중국 성씨 (Chinese) — 25개:
+Wang, Li, Zhang, Chen, Liu, Zhao, Huang, Wu, Lin, He,
+Gao, Luo, Zheng, Tang, Xu, Feng, Cao, Jiang, Ma, Sun,
+Hu, Zhu, Guo, Xiao, Deng
+
+일본 성씨 (Japanese) — 20개:
+Watanabe, Tanaka, Suzuki, Ito, Yamamoto, Kobayashi, Nakamura,
+Sato, Kato, Hashimoto, Ishikawa, Hayashi, Inoue, Saito,
+Nakagawa, Okamoto, Yamazaki, Fujita, Ogawa, Shimizu
+
+필리핀/대만 성씨 (Filipino/Taiwanese) — 10개:
+Sotto, Ravena, Tengco, Abueva, Intal, Fajardo, Lin, Lu, Tsai, Chang
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 미국 흑인계 라스트네임 (Black American Last Names) — 70개
+────────────────────────────────────────────────────────────────────────────────
+Williams, Johnson, Brown, Jackson, Davis, Harris, Thompson, Robinson,
+Walker, Lewis, Clark, Hall, Young, Allen, King, Wright, Scott, Green,
+Adams, Baker, Nelson, Carter, Mitchell, Roberts, Turner, Phillips,
+Campbell, Parker, Evans, Edwards, Collins, Stewart, Morris, Rogers,
+Reed, Cook, Morgan, Bell, Murphy, Washington, Jefferson, Henderson,
+Coleman, Jenkins, Patterson, Gray, Cooper, Richardson, Cox, Bryant,
+Freeman, Warren, Dixon, Burns, Palmer, Brooks, Porter, Hawkins,
+Griffin, Russell, Grant, Hamilton, Hughes, Perkins, Simmons, James,
+Woods, Harrington
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 미국 백인/히스패닉 라스트네임 — 65개
+────────────────────────────────────────────────────────────────────────────────
+Smith, Jones, Taylor, Anderson, Thomas, White, Martinez, Garcia,
+Rodriguez, Lopez, Gonzalez, Wilson, Martin, Lee, Perez, Moore,
+Miller, Murphy, Bailey, Sanchez, Rivera, Torres, Nguyen, Mason,
+Porter, Knight, O'Brien, Sullivan, Walsh, Murray, Brady, Olson,
+Peterson, Hansen, Jensen, Pierce, Vaughn, Bradley, Fitzgerald,
+Callahan, Delaney, Flanagan, Hogan, Jordan, Keane, Larson, Norris,
+Quinn, Sheridan, Hernandez, Flores, Ramirez, Morales, Reyes, Cruz,
+Ortiz, Castillo, Delgado, Vargas, Medina, Aguilar, Rojas, Guerrero,
+Jimenez, Soto
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 유럽 라스트네임 (European Last Names) — 75개
+※ 현역 슈퍼스타 직결 성씨(Wembanyama·Doncic·Jokic 등)는 배제
+────────────────────────────────────────────────────────────────────────────────
+프랑스: Fournier, Ntilikina, Sarr, Diallo, Coulibaly, Yimga, Gobert, Fall,
+        Batum, De Colo, Lessort, Nzosa, Kamagate, Morin, Lefebvre,
+        Moreau, Laurent, Fontaine, Rousseau, Chevalier
+독일: Schröder, Wagner, Hartenstein, Steinbach, Riedel, Fischer, Braun,
+      Giffey, Theis, Kleber, Obst, Müller, Schneider, Hoffmann, Koch
+동유럽: Vucevic, Bogdanovic, Zubac, Pokuševski, Saric, Nurkic, Milutinov,
+        Plavsic, Blazic, Krivas, Petrovic, Lazovic, Stosic, Markovic,
+        Radovic, Ilic, Djordjevic, Popovic, Stankovic, Bjelica, Nedovic
+이탈리아/스페인: Bertans, Hernangomez, Mirotic, Teodosic, Bonga, Koprivica,
+                 Melli, Biligha, Tonut, Tessitori, Datome, Spagnolo,
+                 Mannion, Claver, Llull, Fernandez
+기타 유럽: Simonovic, Bitadze, Garuba, Nnaji, Kornet, Ojeleye, Poirier,
+           Kalinoski, Prepelic, Giedraitis, Ulanovas, Valanciunas
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 아프리카/중동 라스트네임 — 50개
+※ 현역 슈퍼스타 직결 성씨(Antetokounmpo 등)는 배제
+────────────────────────────────────────────────────────────────────────────────
+서아프리카: Sissoko, Coulibaly, Keita, Diallo, Kouyate, Toure, Camara, Bah,
+            Barry, Sylla, Diop, Fall, Thiam, Ndour, Mbaye, Kane, Sangare,
+            Doumbia, Fofana, Traore, Diabate, Konate, Bamba, Sow, Dembele
+동아프리카: Bol, Deng, Ruot, Kuol, Wol, Thon, Akol, Garang, Atem, Ajak
+나이지리아/중남아프리카: Okafor, Nwaba, Onuaku, Ejim, Aminu, Okobo, Alabi,
+                         Achiuwa, Ndiaye, Badji, Soumaoro, Ekpe, Emeka,
+                         Adeyemi, Adegoke
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 특수 이름 패턴 (Special Name Patterns) — 사용 확률 20%
+────────────────────────────────────────────────────────────────────────────────
+복합 이름 (아포스트로피/하이픈):
+De'Andre, D'Angelo, Ja'Vonte, Tre'Von, K.J., T.J., R.J., O.G., A.J., P.J.,
+Mo'ne, Tre'Darius, Sha'Carri, Zay'lon, J'Quan, Da'Sean, Ma'Khel, Lu'Cious
+
+주니어/시니어:
+Jr. 접미사 (부자 드래프트 스토리 이벤트 연계 가능): 25% 확률
+III 접미사 (3세대 농구 명가): 5% 확률
+
+닉네임 위주:
+Boogie, Bam, KJ, Flash, Ace, Stone, Skip, Junior, Hawk, Tank, Diesel,
+Ice, Ghost, Blade, Showtime, Clutch, Beast, Sniper, Spider, Giraffe
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 이름 생성 사용 규칙 (Name Generation Rules)
+────────────────────────────────────────────────────────────────────────────────
+1. 국적 배분 결정 → 해당 국가 풀에서 이름 선택
+2. 미국 선수: 흑인계 65% / 백인계 25% / 히스패닉계 10% 가중치 적용
+3. 국제 선수 국가별 가중치 — 유럽: 프랑스 30% / 독일 15% / 동유럽 25% / 스페인·이탈리아 20% / 기타 10%
+4. 동아시아 선수: 한국 40% / 중국 35% / 일본 20% / 기타 5% 가중치 적용
+5. 아프리카 선수: 서아프리카 55% / 동아프리카 25% / 중·남아프리카 20%
+6. 같은 드래프트 클래스 내 동일 이름 중복 금지
+7. Jr. 적용 시: 과거 내러티브에 해당 성을 가진 전직 NBA 선수 자동 연계 이벤트
+8. 국제 선수 이름: 해당 국가 퍼스트네임 + 라스트네임 풀 동시 적용
+9. 동아시아 선수 영어 이름 병행 표기 허용 (예: Joon-Ho "JH" Kim, Bowen "BW" Zhang)
+10. 실존 현역 슈퍼스타와 동일한 풀네임 조합 금지 (성씨만 겹치는 것은 허용)
+
+================================================================================
+
+================================================================================
+동아시아 선수 아키타입 & 템플릿 (East Asian Player Templates)
+================================================================================
+※ 동아시아 선수 비율: 드래프트 클래스당 0~2명 / 주로 2라운드 또는 언드래프티
+※ 실제 NBA 역사 기반 (야오밍, 이종현, 야니스 유사 성장 경로)
+※ 아키타입은 기존 §70 체계 사용 동일 적용
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 한국 선수 템플릿 (Korean Player Template)
+────────────────────────────────────────────────────────────────────────────────
+포지션 분포: C/PF 40% / SF/PF 30% / PG/SG 30%
+신체 특성: 평균 신장 198~213cm (빅맨), 185~196cm (가드)
+           윙스팬: 키 대비 +8~15cm 평균
+강점 성향: 유럽식 고IQ / 팀 플레이 우선 / 슈팅 기본기
+약점 성향: 최초 2~3시즌 NBA 스피드 적응 / 피지컬 갭
+성장 경로: KBL → 해외 테스트 → NBA → 발전 유형 65% / G리그 체류 25% / 복귀 10%
+
+아키타입 확률 분포:
+  AS-06 European Big      25% (내용: 유럽/아시아 고기술 빅맨)
+  AS-05 European Wing     20%
+  RP-01 Traditional Ctr   20%
+  RP-04 3-and-D Wing      15%
+  RP-07 European Guard    10%
+  기타                    10%
+
+샘플 이름 조합:
+  Joon-Ho Kim | C | 213cm / 112kg / 윙스팬 222cm | KBL MVP 출신
+  Min-Seok Park | PF/SF | 206cm / 103kg / 윙스팬 216cm | KBL 드래프트 1순위
+  Tae-Yang Lee | SG/PG | 191cm / 86kg / 윙스팬 200cm | Korean League All-Star
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 중국 선수 템플릿 (Chinese Player Template)
+────────────────────────────────────────────────────────────────────────────────
+포지션 분포: C/PF 55% / SF/PF 25% / PG/SG 20%
+신체 특성: 평균 신장 205~220cm (빅맨), 190~200cm (가드)
+           윙스팬: 키 대비 +10~18cm (특히 장신 빅맨)
+강점 성향: 신장 + 림 존재감 / 포스트 기술 / 기본기
+약점 성향: 측면 이동성 / NBA급 운동 능력 / 외곽슈팅
+성장 경로: CBA → NBA Draft → 정착형 20% / G리그 장기 30% / 복귀형 50%
+
+아키타입 확률 분포:
+  RP-01 Traditional Ctr   35% (야오밍 레거시 영향)
+  AS-06 European Big      25%
+  AS-03 Stretch Big       15%
+  RP-02 Athletic Big      10%
+  AS-05 European Wing     10%
+  기타                     5%
+
+샘플 이름 조합:
+  Wang Zhenning | C | 221cm / 116kg / 윙스팬 226cm | CBA 올스타 / 상하이 소속
+  Jiang Bowen | PF/C | 211cm / 107kg / 윙스팬 219cm | 항저우 소속
+  Lin Haoran | SF/PF | 203cm / 96kg / 윙스팬 213cm | 중국 대표팀 주전
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 일본 선수 템플릿 (Japanese Player Template)
+────────────────────────────────────────────────────────────────────────────────
+포지션 분포: PG/SG 45% / SF/PF 35% / C/PF 20%
+신체 특성: 평균 신장 188~203cm (윙/포워드), 183~193cm (가드)
+강점 성향: 고IQ / 스페이싱 / 오픈코트 슈팅 / 팀 퍼스트
+약점 성향: 피지컬 NBA 적응 / 폭발적 운동 능력 부족 (예외 존재)
+성장 경로: B.League → G리그 루트 증가 / 와타나베·호리 레거시
+
+아키타입 확률 분포:
+  RP-04 3-and-D Wing      30%
+  RP-07 European Guard    25%
+  RP-11 Spot-Up Shooter   20%
+  AS-05 European Wing     15%
+  RP-09 Dynamic PG        10%
+
+샘플 이름 조합:
+  Shota Nakamura | SF | 203cm / 95kg / 윙스팬 211cm | B.League MVP
+  Ryota Suzuki | SG/PG | 196cm / 89kg / 윙스팬 204cm | 도쿄 소속 가드
+  Kaito Yamazaki | PF/SF | 206cm / 100kg / 윙스팬 213cm | B.League 차세대 빅
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 동아시아 선수 내러티브 이벤트 (Narrative Triggers)
+────────────────────────────────────────────────────────────────────────────────
+이벤트 발생 확률: 동아시아 선수 드래프트 시 자동 판정
+
+[문화 적응 이벤트] — 1~2년차 20% 확률
+: "언어 장벽과 문화 차이로 초반 시즌 적응 애로. 팀 내 통역 배치."
+  → 팀 케미스트리 -5 / 개인 성장 보너스 +10% (극복 시)
+
+[아시아 팬덤 폭발] — 동아시아 선수 드래프트 즉시 자동 발동
+: "해당 선수 드래프트 소식에 아시아 시장 반응 폭발. 유니폼 판매 1위."
+  → 구단 수익 +5M / 소셜 팔로워 +2M / 스폰서 관심 +3개
+
+[귀화 선수 논란] — 5% 확률
+: "국가대표 은퇴 논란. 모국 팬과의 갈등 발생."
+  → 팀 내 영향 없음 / 퍼블릭 이미지 ±변동
+
+[아시아 투어 이벤트] — 드래프트 클래스에 동아시아 선수 포함 시
+: "프리시즌 아시아 투어 확정. 해당 선수 고향 경기 포함."
+  → 구단 수익 +8M / 선수 동기부여 +15
+
+================================================================================
+
+
+================================================================================
+DRAFT DAY PLAYER CARD SYSTEM — 드래프트 데이 선수 카드
+================================================================================
+※ 드래프트 당일(6월 드래프트 나이트) 모든 선수 카드 자동 생성 및 열람 가능
+※ 세부 능력치(0-99 개별 수치)는 일절 공개하지 않음 — 등급·범위만 표시
+※ 열람 권한은 3단계로 구분. 컴바인 측정값은 전체 공개(실제 NBA 정책 반영).
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 카드 열람 권한 3단계 (Visibility Tiers)
+────────────────────────────────────────────────────────────────────────────────
+[TIER 1 — PUBLIC]    모든 구단 자동 열람 (조건 없음)
+[TIER 2 — SCOUTED]   시즌 중 스카우팅 액션 사용 or 컴바인 워크아웃 실시한 구단
+[TIER 3 — DEEP]      2회 이상 스카우팅 + 개인 workout + 인터뷰 모두 완료한 구단
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 드래프트 카드 출력 형식 (Draft Card Format)
+────────────────────────────────────────────────────────────────────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ DRAFT DAY CARD — [선수명] | [포지션] | 컴바인 [★★★☆☆]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[PUBLIC — 전 구단 열람]
+───────────────────────────────────────────────────────────────────────────────
+ 기본 정보
+  이름: [NAME]  |  포지션: [POS]  |  나이: [AGE]  |  국적: [NAT]
+  출신: [SCHOOL / LEAGUE]
+  신장: [HT]cm (신발착용 [HT+]cm)  |  체중: [WT]kg
+  윙스팬: [WS]cm (신장 대비 +[DIFF]cm)  |  스탠딩 리치: [SR]cm
+  핸드: [HAND_L]cm / [HAND_W]cm
+
+ 아키타입·잠재력
+  아키타입: [CODE] ([ARCHETYPE NAME])
+  잠재력: Ceiling [등급] / Floor [등급]
+  비교선수: [COMP1] / [COMP2]
+  특성 태그: [TAG1] [TAG2] [TAG3]
+  총평: "[SCOUTING SUMMARY — 2줄 이내]"
+
+ 컴바인 측정 결과 (전체 공개)
+  Max Vertical  : [V]cm ([GRADE])   Lane Agility: [LA]초 ([GRADE])
+  3/4 Sprint    : [SP]초 ([GRADE])  Bench Press : [BP]회 ([GRADE])
+  슈팅 드릴     : [SD]/15           볼핸들링    : [BH]등급
+  패스 정확도   : [PA]/10           P&R IQ      : [IQ]/10
+  5대5 스탯     : [PTS]pts/[REB]reb/[AST]ast/[STL]stl/[BLK]blk/[TO]to
+  코치 점수     : [CS]/10
+  메디컬        : [클린 / 경미한 이슈 / 중대한 이슈]
+  인터뷰 등급   : [S / A / B / C]
+
+ 컴바인 기반 능력치 범위 추정 (★등급 표기 — 수치 비공개)
+  ※ 등급: S(95+) / A+(88~94) / A(80~87) / B+(72~79) / B(62~71) / C+(50~61) / C(50-)
+  ┌───────────────┬──────────┬───────────────┬──────────┐
+  │ 신체/운동 능력 │ 추정 등급 │ 스킬           │ 추정 등급 │
+  ├───────────────┼──────────┼───────────────┼──────────┤
+  │ 스피드         │ [GRADE]  │ 3점 슈팅       │ [GRADE]  │
+  │ 수직점프       │ [GRADE]  │ 미드레인지     │ [GRADE]  │
+  │ 측면 이동      │ [GRADE]  │ 볼핸들링       │ [GRADE]  │
+  │ 근력           │ [GRADE]  │ 패싱           │ [GRADE]  │
+  │ 익스플로시브   │ [GRADE]  │ 농구 IQ        │ [GRADE]  │
+  └───────────────┴──────────┴───────────────┴──────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[SCOUTED — 스카우팅 완료 구단 추가 열람]
+───────────────────────────────────────────────────────────────────────────────
+ 세부 능력 그룹별 등급 (수치 비공개 — 항목별 등급만 공개)
+  오펜스: [3PT ?] [Mid ?] [FT ?] [오프볼 ?] [레이업 ?] [포스트 ?]
+  수비:   [Perim.Def ?] [Lat.Q ?] [Steal ?] [Block ?] [Help-D ?]
+  피지컬: [Strength ?] [Speed ?] [Vertical ?] [Stamina ?]
+  멘탈:   [IQ ?] [Clutch ?] [Motor ?] [Coachability ?]
+
+ 팀 핏 분석 (해당 구단 로스터 기준 자동 생성)
+  시스템 적합도   : [★★★★☆]
+  즉시 기여 포지션: [POS]
+  주요 기여 가치  : [VALUE DESCRIPTION]
+
+ 부상 이력 요약 : [없음 / 내용 요약]
+ 훈련 태도      : [긍정 / 보통 / 우려] (컴바인 기간 관찰)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[DEEP SCOUTED — 집중 스카우팅 구단 추가 열람]
+───────────────────────────────────────────────────────────────────────────────
+ 숨겨진 잠재력 힌트 (텍스트 힌트만 — 수치 비공개)
+  "[힌트 문장 1 — 예: 3~4년차 이후 특정 스킬이 현재 수준을 크게 상회할 가능성]"
+  "[힌트 문장 2 — 예: 수비 잠재력이 컴바인 측정치보다 훨씬 높을 수 있음]"
+
+ Hidden Trait 존재 여부: [있음 / 없음]
+ 발동 예상 시즌 : [N년차] (존재 시에만 표시)
+
+ 성격 & 케미스트리
+  로커룸 영향력 : [+긍정 / 중립 / -부정]
+  코칭 수용성   : [높음 / 보통 / 낮음]
+  압박 내성     : [강함 / 보통 / 약함]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 카드 공개 범위 정책 (Card Reveal Rules)
+────────────────────────────────────────────────────────────────────────────────
+1. 세부 능력치(0~99 개별 수치)는 드래프트 당일 절대 공개 불가
+   → 1시즌 종료 후 선수 시트에서 부분 공개(오펜스 3종) 시작
+   → 3시즌 이상 경과 시 전체 공개(통계 역산 가능 시점 기준)
+
+2. 컴바인 측정값(cm / 초 / 횟수)은 전체 공개 (실제 NBA Draft Combine 정책 반영)
+
+3. 아키타입·Ceiling/Floor 등급(문자 등급만)은 전체 공개
+
+4. 능력치 범위 추정 등급(S/A+/A...)은 SECTION 10 변환 로직 자동 적용
+   → 정확한 수치 아님 / ±1등급 오차 허용
+
+5. 컴바인 불참 선수
+   → 컴바인 측정값 전 항목 "N/A" / 능력치 범위 추정 "스카우팅 기반 추정치"
+
+6. 해외 선수 (컴바인 일부만 참가)
+   → 참가 항목만 실측값 / 미참가 항목 "N/A"
+
+7. 드래프트 당일 카드 열람 타이밍
+   → 픽 선택 전까지만 열람 가능
+   → 픽 번호 발표 즉시 해당 구단 카드 자동 닫힘 (선택 완료 처리)
+   → 픽 넘긴 후 다른 팀 카드는 계속 열람 가능
+
+────────────────────────────────────────────────────────────────────────────────
+▶ 드래프트 카드 실제 출력 예시
+────────────────────────────────────────────────────────────────────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ DRAFT DAY CARD — Nate Ament | SF/PF | 컴바인 ★★★★☆
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[PUBLIC]
+ 이름: Nate Ament  |  포지션: SF/PF  |  나이: 18  |  국적: 미국
+ 출신: Overtime Elite
+ 신장: 203.5cm (신발착용 204.8cm)  |  체중: 95.0kg
+ 윙스팬: 211.0cm (+7.5cm)  |  스탠딩 리치: 266cm  |  핸드: 23.8/19.5cm
+
+ 아키타입: AS-09 (Athletic Forward)
+ 잠재력: Ceiling A+ / Floor B
+ 비교선수: 해리슨 반스 / 마일스 브리지스
+ 특성 태그: [올라운더] [IQ몬스터] [시스템플레이어]
+ 총평: "득점·패스·수비 균형 잡힌 완성형 포워드. 모든 팀 시스템에 즉시 적응 가능."
+
+ 컴바인 측정 결과
+  Max Vertical: 99cm (A)   Lane Agility: 10.68초 (A)
+  3/4 Sprint: 3.09초 (A)  Bench Press: 11회 (A)
+  슈팅 드릴: 11/15   핸들링: B   패스: 7/10   P&R IQ: 8/10
+  5대5: 14pts/8reb/5ast/2stl/1blk/2to   코치점수: 8.5/10
+  메디컬: 클린   인터뷰: A
+
+ 컴바인 기반 능력치 범위 추정
+  스피드 A │ 수직점프 A │ 측면이동 A │ 근력 A │ 익스플로시브 A+
+  3점슈팅 B+ │ 미드레인지 B+ │ 볼핸들 B │ 패싱 B+ │ 농구IQ A
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[SCOUTED]
+ 오펜스: [3PT B+] [Mid B+] [FT B+] [오프볼 A] [레이업 A]
+ 수비:   [Perim.Def A] [Lat.Q A] [Steal B+] [Block B]
+ 피지컬: [Strength A] [Speed A] [Vertical A]
+ 멘탈:   [IQ A] [Clutch B+] [Motor A+]
+ 팀 핏: ★★★★☆  |  즉시 기여: 벤치 윙 → 2년차 주전 경쟁
+ 주요 가치: 멀티 포지션 수비 + 공간 창출 + 허슬 스탯
+ 부상 이력: 없음  |  훈련 태도: 긍정 (컴바인 최상 평가)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[DEEP SCOUTED]
+ "2~3년차 스팟업 3점 슈팅이 현재 수준을 크게 상회할 가능성. 코치 피드백 매우 긍정."
+ "수비 포지셔닝 잠재력은 컴바인 측정 이상 — 집중 훈련 시 엘리트 수비수 성장 가능."
+ Hidden Trait: 있음 / 발동 예상: 3년차
+ 로커룸: +긍정  |  코칭 수용성: 높음  |  압박 내성: 강함
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+================================================================================
+
+================================================================================
+아키타입 빠른 참조표 — §70 Full Archetype Table 기준
+================================================================================
+▶ SS 티어 (슈퍼스타급) — 15종
+SS-01 Franchise Star Forward  | SF/PF | 203~208cm | LeBron/Tatum
+SS-02 Power Wing              | SF/PF | 206~211cm | Giannis/Kawhi
+SS-03 Two-Way Wing Scorer     | SG/SF | 196~203cm | J.Brown/KD
+SS-04 Length-First Forward    | SF/PF | 206~213cm | Wemby/Victor
+SS-05 Versatile Big           | PF/C  | 208~213cm | KAT/Sabonis
+SS-06 Mobile Big              | C/PF  | 211~218cm | Embiid/Bam
+SS-07 Franchise PG            | PG    | 188~196cm | Luka/Curry
+SS-08 Athletic Scoring PG     | PG/SG | 191~198cm | Shai/Kyrie
+SS-09 Gravity Shooter         | PG/SG | 185~196cm | Curry/Allen
+SS-10 Iso Maestro             | SG/PG | 193~200cm | Harden/Luka
+SS-11 Physical Rim Terrorizer | PF/C  | 208~216cm | Shaq/Giannis
+SS-12 Passing Big             | C/PF  | 208~216cm | Jokic/Sabonis
+SS-13 Triple-Double Machine   | 다포지션 | 196~210cm | Westbrook/LeBron
+SS-14 One-Way Scorer          | 다포지션 | — | §71 추가
+SS-15 One-Way Defender        | 다포지션 | — | §71 추가
+
+▶ AS 티어 (올스타급) — 15종
+AS-01 Athletic Big            | PF/C  | 206~213cm
+AS-02 Power Big               | PF/C  | 206~211cm
+AS-03 Stretch Big/Rim Prot.   | PF/C  | 208~216cm
+AS-04 Two-Way Wing            | SF    | 198~206cm
+AS-05 European Wing           | SF/PF | 200~208cm
+AS-06 European Big            | C/PF  | 208~216cm
+AS-07 Scoring Wing            | SG/SF | 196~203cm
+AS-08 Athletic Wing           | SG/SF | 196~203cm
+AS-09 Athletic Forward        | SF/PF | 201~208cm
+AS-10 Physical Wing           | SF/PF | 201~208cm
+AS-11 Scoring Guard           | SG/PG | 193~200cm
+AS-12 Combo Guard             | SG/PG | 191~198cm
+AS-13 Playmaking Guard        | PG    | 185~193cm
+AS-14 Pass-First PG           | PG    | 183~191cm
+AS-15 Catch-and-Shoot Sniper  | SG/SF | 193~203cm
+
+▶ RP 티어 (롤플레이어급) — 16종
+RP-01 Traditional Center      | C     | 211~221cm
+RP-02 Athletic Big            | PF/C  | 206~213cm
+RP-03 Versatile Wing          | SF    | 198~206cm
+RP-04 3-and-D Wing            | SF/SG | 196~206cm
+RP-05 Athletic Wing           | SG/SF | 194~203cm
+RP-06 Two-Way Wing            | SF    | 198~206cm
+RP-07 European Guard          | PG/SG | 190~198cm
+RP-08 Scoring Guard           | SG/PG | 191~198cm
+RP-09 Dynamic PG              | PG    | 185~193cm
+RP-10 Pass-First PG           | PG    | 183~191cm
+RP-11 Spot-Up Shooter         | SG    | 193~200cm
+RP-12 Spark Plug PG           | PG    | 182~190cm
+RP-13 Combo Guard             | SG/PG | 190~198cm
+RP-14 Micro Ball Playmaker    | PG    | 180~187cm
+RP-15 Stretch Big             | PF    | 205~211cm
+RP-16 Ball Hog                | 다포지션 | — | §71 추가
+================================================================================
+

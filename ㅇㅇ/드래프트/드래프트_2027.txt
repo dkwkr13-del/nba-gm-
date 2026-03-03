@@ -1,0 +1,456 @@
+================================================================================
+  NBA DRAFT DATABASE — 2027 드래프트 클래스 (예비 스카우팅 리포트)
+  ※ 선수 결정(조기 진출/잔류) 및 부상 여부에 따라 순위 변동 가능
+================================================================================
+================================================================================
+=== 2027 NBA DRAFT (예비 스카우팅 리포트) ===
+================================================================================
+※ 2027 드래프트 클래스는 예비 전망이며, 선수 결정(조기 진출/잔류) 및
+  부상 여부에 따라 순위 변동 가능. 픽 번호(#P)는 현재 시점 가상 예상 순위.
+※ 나이는 2027년 드래프트 시점(6월) 기준.
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 1 - 프랜차이즈급 유망주 (Projected Top 3)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+────────────────────────────────────────────────────────────────────────────────
+#P1 TYRAN STOKES | SF/PF | 201cm / 111kg / 윙스팬 미확인
+────────────────────────────────────────────────────────────────────────────────
+출신: 미정 | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: SS-08 (Two-Way Superstar)
+특성: [폭발적 운동능력] [피지컬 지배자] [수비 앵커]
+잠재력: Ceiling A+ / Floor B-
+총평: 강력한 피지컬과 운동 능력을 겸비한 파워 포워드.
+       페인트 지배력과 수비 잠재력이 동세대 최상급.
+비교선수: 줄리어스 랜들 / 제이런 그린 하이브리드
+
+────────────────────────────────────────────────────────────────────────────────
+#P2 MIIKKA MUURINEN | SF/PF | 210cm / 84kg / 윙스팬 220cm
+────────────────────────────────────────────────────────────────────────────────
+출신: KK 파르티잔 (세르비아, 해외) → Kentucky (Freshman 예정) | 나이: 20 (2027 드래프트 시) | 국적: 핀란드
+아키타입: SS-07 (3-Level Scorer Elite)
+특성: [유니콘 빅윙] [3점 위협] [모바일 스트레치 빅]
+잠재력: Ceiling A+ / Floor B-
+총평: 핀란드 출신 210cm 빅윙 유니콘. 라우리 마카넨을 잇는 스트레치형 빅맨.
+       220cm 윙스팬과 뛰어난 이동 능력으로 외곽~페인트 전 구역 위협.
+       얇은 프레임(84kg)으로 골밑 버팀 약점 — 증량 여부가 잠재력 실현 핵심.
+비교선수: 라우리 마카넨 / 크리스탑스 포르징기스 하이브리드
+
+────────────────────────────────────────────────────────────────────────────────
+#P3 BABATUNDE OLADOTUN | PF/SF | 208cm / 86kg / 윙스팬 224cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Maryland (Freshman 예정) | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: SS-03 (Defensive Anchor + Playmaker)
+특성: [역대급 윙스팬] [수비 무한 잠재력] [두 방향 빅]
+잠재력: Ceiling A+ / Floor C+
+총평: 224cm 역대급 윙스팬으로 수비 잠재력 극한. 체중 증가 및 오펜스 개발 시
+       정상급 두 방향 포워드로 성장 기대.
+비교선수: 빅터 웸반야마 / 드레이몬드 그린
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 2 - 로터리 유망주 (Projected Picks 4-15)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+────────────────────────────────────────────────────────────────────────────────
+#P4 CAMERON WILLIAMS | PF/C | 211cm / 93kg / 윙스팬 219cm
+────────────────────────────────────────────────────────────────────────────────
+출신: Duke (Freshman 예정) | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: SS-04 (Volume Efficiency God)
+특성: [모바일 빅맨] [림 프로텍터] [현대형 센터]
+잠재력: Ceiling A+ / Floor B-
+총평: 211cm 신장에 뛰어난 기동성. 현대 NBA 스타일에 최적화된 두 방향 빅맨.
+비교선수: 조엘 엠비드 / 브룩 로페즈 하이브리드
+
+#P5 HUGO YIMGA MOUKOURI | SF/PF | 203cm / 100kg / 윙스팬 미확인
+출신: Nanterre 92 (프랑스, 해외) | 나이: 18 (2027 드래프트 시) | 국적: 프랑스
+아키타입: AS-08 (Point Forward)
+잠재력: Ceiling A+ / Floor B-
+특성: 유럽식 고IQ / 멀티 포지션 / 팀 퍼스트 플레이어
+
+#P6 CALEB HOLT | SG/PG | 196cm / 93kg / 윙스팬 미확인
+출신: 미정 | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: AS-11 (Shot Creator)
+잠재력: Ceiling A / Floor C+
+특성: 득점형 콤보 가드 / 퀵릴리즈 슈터 / 공격 다양성
+
+#P7 BRUCE BRANCH III | SF | 201cm / 86kg / 윙스팬 미확인
+출신: 미정 | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: AS-05 (Defensive Stopper)
+잠재력: Ceiling A / Floor C+
+특성: 두 방향 윙 / 수비 우선 / 에너지 플레이어
+
+#P8 CHRISTIAN COLLINS | SF/PF | 203cm / 88kg / 윙스팬 213cm
+출신: 미정 | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: AS-10 (Versatile Defender)
+잠재력: Ceiling A / Floor C+
+특성: 긴 윙스팬 활용 수비 / 슈팅 기본기 / 올라운드 포워드
+
+#P9 SAYON KEITA | C/PF | 213cm / 98kg / 윙스팬 미확인
+출신: FC Barcelona (스페인, 해외) | 나이: 19 (2027 드래프트 시) | 국적: 말리
+아키타입: AS-13 (High-Motor Big)
+잠재력: Ceiling A+ / Floor B-
+특성: 유럽 리그 검증 / 림 프로텍터 / 에너지 빅맨
+
+#P10 DYLAN MINGO | SG/PG | 196cm / 86kg / 윙스팬 206cm
+출신: 미정 | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: AS-11 (Shot Creator)
+잠재력: Ceiling A / Floor C+
+특성: 득점형 가드 / 비교적 긴 윙스팬 / 공격 다양성
+
+#P11 JORDAN SMITH JR. | PG | 188cm / 84kg / 윙스팬 미확인
+출신: Arkansas (Freshman 예정) | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: AS-02 (Scoring Point Guard)
+잠재력: Ceiling A / Floor C+
+특성: 득점 폭발력 / 클러치 능력 / 수비 적극성
+
+#P12 JASHAWN ANDREWS | SF | 201cm / 104kg / 윙스팬 미확인
+출신: 미정 | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: AS-10 (Versatile Defender)
+잠재력: Ceiling A / Floor C+
+특성: 파워 윙 / 강한 피지컬 / 수비 기여
+
+#P13 BO OGDEN | SG/SF | 196cm / 86kg / 윙스팬 미확인
+출신: 미정 | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: AS-11 (Shot Creator)
+잠재력: Ceiling A / Floor C
+특성: 득점 윙 / 슈팅 스킬 / 개발 잠재력
+
+#P14 OSCAR WEMBANYAMA | SF/PF | 203cm / 90kg / 윙스팬 미확인
+출신: 프랑스 리그 (해외) | 나이: 18 (2027 드래프트 시) | 국적: 프랑스
+아키타입: AS-10 (Versatile Defender)
+잠재력: Ceiling A+ / Floor B-
+특성: 유럽식 고기술 / 두 방향 잠재력 / 엘리트 패밀리 레거시(빅터 웸반야마동생)
+
+#P15 BRANDON McCOY JR. | SG/PG | 196cm / 93kg / 윙스팬 미확인
+출신: 미정 | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: AS-11 (Shot Creator)
+잠재력: Ceiling A / Floor C+
+특성: 멀티 스킬 가드 / 득점 다양성 / 수비 참여
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 3 - 후기 로터리 / 후반 1라운드 (Projected Picks 16-31)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#P15 JASON CROWE JR. | PG/SG | 191cm / 82kg / 윙스팬 미확인
+출신: 미정 | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: RP-07 (Backup Scorer)
+Ceiling B+ / Floor C
+특성: 득점형 가드 / 핸들 능력 / 즉시 전력 가능
+
+#P16 DERON RIPPEY JR. | PG | 188cm / 79kg / 윙스팬 미확인
+출신: Duke (예정) | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: RP-02 (Backup Ball Handler)
+Ceiling B+ / Floor C
+특성: PG 기술 / 경기 운영 / 패스 우선형
+
+#P17 TAYLEN KINNEY | PG | 190cm / 84kg / 윙스팬 미확인
+출신: Kansas (예정) | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: RP-02 (Backup Ball Handler)
+Ceiling B+ / Floor C
+특성: 빠른 PG / 침투 능력 / 팀 오케스트레이터
+
+#P18 ALEX CONSTANZA | SF/PF | 203cm / 91kg / 윙스팬 216cm
+출신: Georgetown (예정) | 나이: 19 (2027 드래프트 시) | 국적: 미국
+아키타입: RP-01 (3&D Specialist)
+Ceiling A- / Floor C+
+특성: 긴 윙스팬 활용 수비 / 3앤드D / 에너지 포워드
+
+#P19 MOTIEJUS KRIVAS | C | 221cm / 118kg / 윙스팬 미확인
+출신: Arizona (예정) | 나이: 19 (2027 드래프트 시) | 국적: 리투아니아
+아키타입: RP-09 (Screen Setter)
+Ceiling A- / Floor C+
+특성: 221cm 장신 센터 / 유럽 기술 기반 / 림 존재감
+
+#P20 PATRICK NGONGBA | C/PF | 211cm / 107kg / 윙스팬 미확인
+출신: Duke (예정) | 나이: 19 (2027 드래프트 시) | 국적: 미국
+아키타입: RP-15 (Raw Athletic Prospect)
+Ceiling A- / Floor C+
+특성: 두 방향 빅 / 에너지 / 수비 잠재력
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 3 (계속) - 후기 로터리 / 후반 1라운드 (Projected Picks 21-30)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#P21 TRAVIS KELLERMAN | PF/SF | 203cm / 93kg / 윙스팬 211cm
+출신: Georgetown (예정) | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: RP-01 (3&D Specialist)
+Ceiling B+ / Floor C
+특성: 긴 팔 활용 수비 / 3앤드D / 에너지 포워드
+
+#P22 LAMINE TOURE | C/PF | 213cm / 108kg / 윙스팬 220cm
+출신: Dakar (말리, 해외) | 나이: 18 (2027 드래프트 시) | 국적: 말리
+아키타입: RP-15 (Raw Athletic Prospect)
+Ceiling A- / Floor C+
+특성: 아프리카 장신 빅 / 개발 잠재력 / 림 존재감
+
+#P23 DEVONTE HARRISON | SG/PG | 191cm / 84kg / 윙스팬 200cm
+출신: Louisville (예정) | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: RP-07 (Backup Scorer)
+Ceiling B+ / Floor C
+특성: 득점형 가드 / 빠른 퍼스트스텝 / 클러치 능력
+
+#P24 STEFAN RADOVIC | SF/PF | 203cm / 96kg / 윙스팬 212cm
+출신: Crvena Zvezda (세르비아, 해외) | 나이: 20 (2027 드래프트 시) | 국적: 세르비아
+아키타입: RP-01 (3&D Specialist)
+Ceiling B+ / Floor C
+특성: 유럽식 3앤드D / 고IQ / 즉시 전력
+
+#P25 JAYLEN TUCKER | PG | 188cm / 83kg / 윙스팬 197cm
+출신: Michigan (예정) | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: RP-02 (Backup Ball Handler)
+Ceiling B+ / Floor C
+특성: 빠른 PG / 침투 능력 / 팀 오케스트레이터
+
+#P26 CHEICKNA DIALLO | C | 213cm / 107kg / 윙스팬 219cm
+출신: Nanterre 92 (프랑스, 해외) | 나이: 19 (2027 드래프트 시) | 국적: 프랑스/기니
+아키타입: RP-15 (Raw Athletic Prospect)
+Ceiling B+ / Floor C
+특성: 두 방향 빅 / 수비 잠재력 / 에너지
+
+#P27 KAYLEN BROOKS | SG/SF | 196cm / 90kg / 윙스팬 204cm
+출신: Indiana (예정) | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: RP-15 (Raw Athletic Prospect)
+Ceiling B+ / Floor C
+특성: 운동 능력 윙 / 수비 에너지 / 슈팅 개발 필요
+
+#P28 BENEDIKT HOFFMANN | PF/C | 208cm / 104kg / 윙스팬 215cm
+출신: Bayern Munich (독일, 해외) | 나이: 20 (2027 드래프트 시) | 국적: 독일
+아키타입: RP-12 (Stretch 5)
+Ceiling B+ / Floor C
+특성: 독일 스트레치 빅 / 외곽 슈팅 / 팀 플레이
+
+#P29 TREMONT HAYWARD | SF | 201cm / 94kg / 윙스팬 209cm
+출신: Alabama (예정) | 나이: 18 (2027 드래프트 시) | 국적: 미국
+아키타입: RP-04 (Defensive Specialist)
+Ceiling B+ / Floor C-
+특성: 두 방향 잠재력 / 수비 우선 / 개발형
+
+#P30 DOMINIQUE MENSAH | PF/SF | 204cm / 99kg / 윙스팬 212cm
+출신: JL Bourg (프랑스, 해외) | 나이: 19 (2027 드래프트 시) | 국적: 프랑스
+아키타입: RP-01 (3&D Specialist)
+Ceiling B+ / Floor C
+특성: 유럽식 3앤드D / 팀 플레이어 / 즉시 전력
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 4 - 2라운드 (Projected Picks 31-60)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※ 형식: 이름 | 포지션 | 신장cm/체중kg/윙스팬cm | 출신 | 나이 | 아키타입 | Ceiling/Floor
+         특성: 간략 요약
+
+#P31 KESSLER GRANT | SG | 193cm/87kg/윙스팬200cm | Florida State (예정) | 18 | RP-07 | B/C
+특성: 득점형 가드 / 미드레인지 / 클러치
+
+#P32 TYLAN BOOKER | PF | 206cm/100kg/윙스팬213cm | Nevada (예정) | 18 | RP-05 | B/C
+특성: 에너지 빅 / 허슬 / 림 러너
+
+#P33 ARMONI JEFFERSON | PG/SG | 190cm/84kg/윙스팬199cm | Syracuse (예정) | 18 | RP-02 | B/C
+특성: 빠른 PG / 침투 / 득점 능력
+
+#P34 OUMAR KEITA | C | 213cm/106kg/윙스팬221cm | Guinea (해외) | 20 | RP-15 | B+/C
+특성: 기니 출신 / 미개발 잠재력 / 림 존재감
+
+#P35 BRAXTON FINLEY | SF/PF | 203cm/95kg/윙스팬210cm | Utah State (예정) | 19 | RP-01 | B/C
+특성: 3앤드D / 수비 에너지 / 오픈 쓰리
+
+#P36 SANG-MIN KANG | C/PF | 211cm/108kg/윙스팬221cm | KBL (한국, 해외) | 21 | RP-09 | B+/C+
+특성: 한국 출신 장신 / 포스트 기술 / 기본기
+
+#P37 RASHAD HOLLIS | SG | 194cm/89kg/윙스팬202cm | Memphis (예정) | 18 | RP-08 | B/C
+특성: 득점형 가드 / 트랜지션 / 클러치
+
+#P38 NIKOLA ILIC | PF/C | 208cm/103kg/윙스팬215cm | 세르비아 (해외) | 21 | RP-09 | B/C
+특성: 동유럽 빅 / 고IQ / 팀 플레이
+
+#P39 JAVION CARR | SF | 200cm/93kg/윙스팬208cm | Wichita State (예정) | 18 | RP-15 | B/C
+특성: 운동 능력 윙 / 수비 / 개발형
+
+#P40 LUCA TONUT JR. | SG/PG | 193cm/88kg/윙스팬201cm | 이탈리아 (해외, Venezia) | 21 | RP-07 | B+/C
+특성: 이탈리아 가드 / 슈팅 기본기 / 즉시 전력
+
+#P41 WENDELL PATTERSON | PF | 206cm/101kg/윙스팬213cm | Oregon State (예정) | 18 | RP-03 | B/C
+특성: 에너지 빅 / 허슬 / 2nd찬스
+
+#P42 HYUN-WOO PARK | SF/SG | 200cm/92kg/윙스팬208cm | KBL (한국, 해외) | 22 | RP-01 | B/C+
+특성: 한국 출신 윙 / 3앤드D / 슈팅 기본기
+
+#P43 AMINU CAMARA | C | 213cm/105kg/윙스팬220cm | Mali (해외) | 20 | RP-15 | B+/C
+특성: 아프리카 장신 빅 / 개발형 / 림 존재감
+
+#P44 DALTON SCHULTZ | PG | 186cm/80kg/윙스팬193cm | West Virginia (예정) | 18 | RP-02 | B-/C
+특성: 스파크 플러그 / 빠른 PG / 벤치 에너지
+
+#P45 KENJI YAMAMOTO | SG/SF | 196cm/89kg/윙스팬204cm | B.League (일본, 해외) | 22 | RP-01 | B/C+
+특성: 일본 출신 3앤드D / 슈팅 기본기 / 팀 시스템
+
+#P46 DESHAUN KING | SG | 193cm/87kg/윙스팬200cm | Texas Tech (예정) | 19 | RP-06 | B-/C
+특성: 스팟업 슈터 / 캐치앤슛 / 즉시 전력
+
+#P47 COREY BLANKS | PF/SF | 203cm/97kg/윙스팬211cm | Tulsa (예정) | 18 | RP-04 | B-/C
+특성: 두 방향 포워드 / 수비 에너지 / 개발형
+
+#P48 MATIAS FERNANDEZ | C/PF | 211cm/107kg/윙스팬217cm | 스페인 (해외, Valencia) | 21 | RP-09 | B/C
+특성: 스페인 센터 / 유럽 기술 / 즉시 전력
+
+#P49 DAEJON ROSS | PG/SG | 190cm/84kg/윙스팬198cm | Stanford (예정) | 20 | RP-02 | B-/C
+특성: 득점형 가드 / 볼핸들 / 경기 조율
+
+#P50 JORDAN SIMMONS | C | 213cm/109kg/윙스팬218cm | LSU (예정) | 18 | RP-09 | B-/C
+특성: 전통 센터 / 림 프로텍터 / 픽앤롤
+
+#P51 TRENT WHEELER | SG/SF | 197cm/91kg/윙스팬205cm | Gonzaga (예정) | 18 | RP-01 | B-/C
+특성: 3앤드D / 오픈 슈터 / 수비 에너지
+
+#P52 MAMADI KOUYATE | PF | 206cm/100kg/윙스팬213cm | Guinea (해외) | 20 | RP-15 | B/C
+특성: 기니 출신 빅 / 운동 능력 / 개발형
+
+#P53 DEREK CHAMBERS | SG | 194cm/88kg/윙스팬201cm | Arizona (예정) | 18 | RP-07 | B-/C
+특성: 득점형 가드 / 미드레인지 / 클러치
+
+#P54 NUNO FERNANDES | SF | 201cm/95kg/윙스팬209cm | 포르투갈 (해외, Sporting) | 21 | RP-01 | B-/C
+특성: 포르투갈 3앤드D / 팀 플레이 / 즉시 전력
+
+#P55 QUARON BELL | PF/C | 208cm/104kg/윙스팬215cm | Tennessee (예정) | 18 | RP-05 | B-/C
+특성: 에너지 빅 / 허슬 / 림 러너
+
+#P56 WOO-JIN LEE | SG/SF | 196cm/90kg/윙스팬204cm | KBL (한국, 해외) | 23 | RP-07 | B/C+
+특성: 한국 출신 가드 / 슈팅 기본기 / 팀 플레이
+
+#P57 KYSHAWN MERCER | SF/SG | 198cm/91kg/윙스팬206cm | VCU (예정) | 18 | RP-15 | B-/C
+특성: 운동 능력 윙 / 수비 우선 / 개발형
+
+#P58 GABRIEL TORRES | C | 211cm/106kg/윙스팬217cm | Puerto Rico (해외) | 22 | RP-09 | B-/C
+특성: 히스패닉 센터 / 포스트 기술 / 즉시 전력
+
+#P59 ISAAC MORRIS | SG | 193cm/87kg/윙스팬200cm | Butler (Senior 예정) | 22 | RP-06 | C+/C
+특성: 스팟업 슈터 / 즉시 전력 / 캐치앤슛
+
+#P60 BOWEN JIANG | PF/C | 208cm/104kg/윙스팬215cm | CBA (중국, 해외) | 21 | RP-15 | B/C+
+특성: 중국 출신 빅 / 유럽식 기술 / 개발형
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 5 - 프린지 유망주 / 언드래프티 후보 (Projected Picks 61-100)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+※ 형식: 이름 | 포지션 | 신장cm/체중kg/윙스팬cm | 출신 | 나이 | 아키타입 | Ceiling/Floor
+         특성: 간략 요약
+
+#P61 DAVON MITCHELL | SG | 192cm/86kg/윙스팬199cm | Rhode Island (예정) | 19 | RP-07 | C+/C
+특성: 득점형 가드 / 빠른 핸들 / 개발형
+
+#P62 TREMAINE WALKER | PF | 204cm/99kg/윙스팬211cm | Hofstra (예정) | 20 | RP-03 | C+/C
+특성: 에너지 빅 / 허슬 / 2nd찬스
+
+#P63 OMARI BENSON | SF | 200cm/93kg/윙스팬208cm | Georgia State (예정) | 19 | RP-13 | C+/C
+특성: 다목적 윙 / 수비 우선 / 팀 플레이
+
+#P64 RADOSLAV MARKOVIC | C | 213cm/108kg/윙스팬220cm | 보스니아 (해외) | 21 | RP-09 | C+/C
+특성: 동유럽 장신 센터 / 포스트 기술 / 기동성 제한
+
+#P65 TAE-JOON OH | C/PF | 210cm/106kg/윙스팬218cm | KBL (한국, 해외) | 22 | RP-09 | B-/C+
+특성: 한국 출신 빅 / 포스트 기술 / 수비 기여
+
+#P66 JAVONTE NICHOLS | PG/SG | 190cm/84kg/윙스팬198cm | Murray State (예정) | 19 | RP-02 | C+/C
+특성: 빠른 가드 / 침투 / 벤치 에너지
+
+#P67 VIKTOR KOCH | SF/PF | 203cm/96kg/윙스팬211cm | 독일 (해외, Hamburg) | 21 | RP-01 | C+/C
+특성: 독일 3앤드D / 팀 플레이 / 즉시 전력
+
+#P68 LORENZO CASTILLO | PG | 185cm/79kg/윙스팬192cm | UNLV (예정) | 19 | RP-02 | C+/C
+특성: 소형 PG / 체인지오브페이스 / 빠른 핸들
+
+#P69 HAORAN LIN | SF | 201cm/94kg/윙스팬210cm | CBA (중국, 해외) | 22 | RP-01 | B-/C+
+특성: 중국 출신 윙 / 3앤드D / 개발형
+
+#P70 JABARI WHITMORE | C | 213cm/109kg/윙스팬218cm | Old Dominion (예정) | 20 | RP-09 | C+/C
+특성: 전통 센터 / 림 보호 / 즉시 전력
+
+#P71 DAISHEN OBI | PF/SF | 203cm/96kg/윙스팬210cm | Nigeria (해외) | 21 | RP-15 | C+/C
+특성: 나이지리아 출신 / 운동 능력 / 개발형
+
+#P72 CONNOR WALSH | SG | 193cm/87kg/윙스팬200cm | Bucknell (예정) | 20 | RP-06 | C+/C
+특성: 스팟업 슈터 / 캐치앤슛 / 즉시 전력
+
+#P73 KAITO OGAWA | SG/PG | 192cm/87kg/윙스팬200cm | B.League (일본, 해외) | 22 | RP-07 | C+/C
+특성: 일본 출신 가드 / 슈팅 기본기 / 팀 플레이
+
+#P74 DEMARCO HUGHES | PF/C | 207cm/102kg/윙스팬214cm | FGCU (예정) | 20 | RP-03 | C+/C
+특성: 에너지 빅 / 허슬 / 2nd찬스
+
+#P75 SANTIAGO RAMIREZ | SF | 199cm/92kg/윙스팬207cm | New Mexico (예정) | 19 | RP-13 | C+/C
+특성: 히스패닉 윙 / 팀 플레이 / 즉시 전력
+
+#P76 OUMAR FALL | C | 213cm/107kg/윙스팬221cm | Senegal (해외) | 20 | RP-15 | B-/C
+특성: 세네갈 장신 / 림 존재감 / 개발 잠재력
+
+#P77 TREVON BARKER | SG/PG | 191cm/85kg/윙스팬199cm | Loyola (예정) | 19 | RP-07 | C+/C
+특성: 득점형 가드 / 빠른 핸들 / 허슬
+
+#P78 ALEKSEJ STOJANOVIC | PF | 205cm/99kg/윙스팬212cm | 세르비아 (해외) | 21 | RP-12 | C+/C
+특성: 동유럽 스트레치 빅 / 오픈 쓰리 / 팀 플레이
+
+#P79 DEVIN CHAMBERS | SF/SG | 197cm/90kg/윙스팬205cm | Rider (예정) | 19 | RP-01 | C/C
+특성: 3앤드D 윙 / 수비 우선 / 즉시 전력
+
+#P80 JUN-HO KIM | C | 211cm/107kg/윙스팬219cm | KBL (한국, 해외) | 23 | RP-09 | B-/C+
+특성: 한국 장신 센터 / 포스트 기술 / 수비 기여
+
+#P81 JAKOBE MORROW | PG | 186cm/80kg/윙스팬193cm | Samford (예정) | 19 | RP-02 | C+/C
+특성: 스파크 플러그 / 빠른 핸들 / 벤치 에너지
+
+#P82 LUCA BILIGHA JR. | C | 211cm/106kg/윙스팬218cm | 이탈리아 (해외) | 21 | RP-09 | C+/C
+특성: 이탈리아 센터 / 포스트 기술 / 즉시 전력
+
+#P83 WENDELL ODUM | SG | 193cm/87kg/윙스팬200cm | Fairfield (예정) | 20 | RP-06 | C/C
+특성: 스팟업 슈터 / 즉시 전력 / 캐치앤슛
+
+#P84 CHENGLONG WU | SF/PF | 204cm/97kg/윙스팬212cm | CBA (중국, 해외) | 22 | RP-01 | C+/C
+특성: 중국 출신 포워드 / 기본기 / 개발형
+
+#P85 MAMADOU BAH | PF | 206cm/101kg/윙스팬213cm | Guinea (해외) | 20 | RP-15 | C+/C
+특성: 기니 출신 에너지 빅 / 운동 능력 / 개발형
+
+#P86 REMI FONTAINE | SG | 193cm/87kg/윙스팬200cm | 프랑스 (해외, Nanterre) | 20 | RP-07 | C+/C
+특성: 프랑스 가드 / 슈팅 기본기 / 팀 플레이
+
+#P87 RYOTA SHIMIZU | C/PF | 208cm/103kg/윙스팬215cm | B.League (일본, 해외) | 22 | RP-09 | C+/C
+특성: 일본 빅맨 / 유럽식 기술 / 개발형
+
+#P88 KEONTE HARDING | PF/SF | 203cm/96kg/윙스팬210cm | Belmont (예정) | 20 | RP-04 | C/C
+특성: 두 방향 포워드 / 수비 에너지 / 개발형
+
+#P89 XUHAO CHEN | C | 213cm/108kg/윙스팬221cm | CBA (중국, 해외) | 23 | RP-15 | B-/C+
+특성: 중국 장신 센터 / 림 존재감 / 개발 잠재력
+
+#P90 BRANKO STOSIC | SF | 200cm/93kg/윙스팬208cm | 크로아티아 (해외) | 21 | RP-13 | C+/C
+특성: 동유럽 윙 / 고IQ / 팀 플레이
+
+#P91 MARKUS JENSEN | PG/SG | 190cm/84kg/윙스팬198cm | Denmark (해외) | 21 | RP-07 | C+/C
+특성: 스칸디나비아 가드 / 슈팅 기본기 / 즉시 전력
+
+#P92 DAEQWAN BOWERS | PF | 205cm/100kg/윙스팬212cm | Southern (예정) | 20 | RP-12 | C/C
+특성: 스트레치 빅 / 오픈 쓰리 / 공간 창출
+
+#P93 MAMADI DOUMBIA | C | 213cm/107kg/윙스팬220cm | Guinea (해외) | 20 | RP-15 | C+/C
+특성: 서아프리카 장신 / 림 존재감 / 개발형
+
+#P94 SUNG-JUN CHO | SF/PF | 204cm/98kg/윙스팬212cm | KBL (한국, 해외) | 23 | RP-01 | B-/C+
+특성: 한국 출신 포워드 / 3앤드D / 슈팅 기본기
+
+#P95 COLE HARRINGTON | SG | 193cm/87kg/윙스팬200cm | Davidson (예정) | 20 | RP-06 | C/C
+특성: 스팟업 슈터 / 즉시 전력 / 오픈 쓰리
+
+#P96 IBRAHIM DIALLO | C/PF | 211cm/106kg/윙스팬219cm | 프랑스 (해외) | 21 | RP-15 | C+/C
+특성: 프랑스/서아프리카 혼혈 / 림 존재감 / 개발형
+
+#P97 MASON PIERCE | SF/PF | 203cm/95kg/윙스팬209cm | Holy Cross (예정) | 20 | RP-01 | C/C
+특성: 3앤드D 윙 / 허슬 / 즉시 전력
+
+#P98 YUCHEN ZHAO | PF/C | 208cm/104kg/윙스팬215cm | CBA (중국, 해외) | 22 | RP-15 | C+/C
+특성: 중국 빅 / 에너지 / 개발형
+
+#P99 ALONZO REED | PG | 185cm/79kg/윙스팬192cm | Lehigh (예정) | 21 | RP-02 | C/C
+특성: 소형 PG / 체인지오브페이스 / 벤치 스파크
+
+#P100 DO-HYUN JANG | C | 212cm/108kg/윙스팬222cm | KBL (한국, 해외) | 24 | RP-09 | B/C+
+특성: 한국 장신 센터 / 림 프로텍터 / 스트레치 잠재력
+
